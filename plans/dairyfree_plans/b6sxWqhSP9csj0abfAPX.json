@@ -9,7 +9,7 @@
             "name": "Sweet Potato Toast with Avocado",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSweet%20potato%20toast%20with%20avocado.jpg?alt=media&token=c816159f-f167-44a7-81cb-c226de8ba764",
             "mealId": null,
-            "protein": 56,
+            "protein": 3.0,
             "ingredientName": null,
             "instruction": "1. Slice sweet potatoes lengthwise into 1/4 inch slices.\n2. Add to the toaster-oven (or regular oven) cook the sweet\npotato toast on 375-400 degrees for 15-20 minutes.\n3. Remove skin from avocado and slice.\n4. Add to toast and sprinkle with sea salt and some lemon\nzest (optional).\nEnjoy!\nAdditional Topping Options:\nToasted sesame seeds\nToasted sunflower seeds\nLime Juice\nHummus with or without the avocado",
             "quantity": null,
@@ -40,7 +40,7 @@
             "mealTitle": "Breakfast",
             "id": "23",
             "week": 3,
-            "calories": 584
+            "calories": 232
         },
         {
             "name": "Pear",
@@ -128,7 +128,7 @@
             "name": "Cardamom Quinoa Porridge",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FQuinoa%20porridge.jpg?alt=media&token=d57b09cd-3dbe-4b17-90ff-06ad70ddf02b",
             "mealId": null,
-            "protein": 28,
+            "protein": 9.9,
             "ingredientName": null,
             "instruction": "In a saucepan, bring quinoa, 3/4 cup almond milk, water,\nvanilla, salt, and cardamom to a boil. Reduce heat and\nsimmer, covered, until liquid is absorbed, 15 minutes.\nRemove from heat and let rest five minutes, then fluff with\na fork.\nFor each serving, top 1/2 cup quinoa with 1/2 cup almond\nmilk, 1/2 sliced pear, and 2 Tbsp almonds.\nEnjoy!",
             "quantity": null,
@@ -175,7 +175,7 @@
             "mealTitle": "Breakfast",
             "id": "20",
             "week": 2,
-            "calories": 323
+            "calories": 326
         },
         {
             "name": "Banana",
@@ -206,7 +206,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 0.1,
+            "protein": 56,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -225,13 +225,13 @@
             "mealTitle": "Lunch",
             "id": "3",
             "week": 4,
-            "calories": 2
+            "calories": 601
         },
         {
             "name": "Hummus-Crusted Chicken",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHummus%20chicken%20(1).jpg?alt=media&token=9bfb9ec0-4f25-4bf8-a690-1317c0d37e91",
             "mealId": null,
-            "protein": 30,
+            "protein": 47.0,
             "ingredientName": null,
             "instruction": "Preheat oven to 450\ufffdF. Prepare one large baking dish or two\nsmaller baking dishes with cooking spray.\nPat the chicken dry. Season the chicken breasts with\ngenerous pinches of salt and pepper. In a large bowl, toss\nthe zucchini, squash and onion with olive oil until evenly\ncoated. Season with salt and pepper.\nIf using one baking dish, place all of the vegetables on the\nbottom of the dish in an even layer. Lay the four chicken\nbreasts evenly on top, then cover each chicken breast with\nthe hummus so that the entire breast is covered. Squeeze\nthe juice of one lemon over the chicken and vegetables.\nThen sprinkle the pan with smoked paprika or sumac. Thinly\nslice the remaining lemon, and place the slices in between\nthe chicken and vegetables if desired.\n**If using two pans, use one for the chicken and one for the\nvegetables.**\nBake for about 25-30 minutes, until the chicken is cooked\nthrough and the vegetables are tender. Serve immediately.",
             "quantity": null,
@@ -286,13 +286,13 @@
             "mealTitle": "Lunch",
             "id": "14",
             "week": 1,
-            "calories": 639
+            "calories": 383
         },
         {
             "name": "Toasted Almond Butter",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FToasted%20almond%20butter.jpg?alt=media&token=0d308530-9f9a-4a68-8491-3fa4f18ffca7",
             "mealId": "",
-            "protein": 50,
+            "protein": 8.3,
             "ingredientName": null,
             "instruction": "Preheat oven to 350\ufffdF.\nPlace almonds on a large baking sheet and toast for approximately 12-15 minutes.\nPlace toasted almonds into a large food processor. Process for 2 minutes, then stop and scrape down the sides.\nContinue to process for about 7-12 minutes (depends on how powerful your food processor is). You will notice that the almonds will gradually change from a powder to form a large ball.\nContinue processing and that ball will break down again and begin to resemble a coarse and pasty almond butter.\nContinue processing until the almond butter becomes smooth and moist looking.\nStore your almond butter in a glass jar and refrigerate. Note:\nYields 1 1/2 cups which is 24 tbsp. - 2 tbsp. per serving = 12 servings",
             "quantity": "",
@@ -312,13 +312,13 @@
             "mealTitle": "Snack",
             "id": "36",
             "week": 4,
-            "calories": 700
+            "calories": 237
         },
         {
             "name": "Sweet Potato Toast with Avocado",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSweet%20potato%20toast%20with%20avocado.jpg?alt=media&token=c816159f-f167-44a7-81cb-c226de8ba764",
             "mealId": null,
-            "protein": 22,
+            "protein": 3.0,
             "ingredientName": null,
             "instruction": "1. Slice sweet potatoes lengthwise into 1/4 inch slices.\n2. Add to the toaster-oven (or regular oven) cook the sweet\npotato toast on 375-400 degrees for 15-20 minutes.\n3. Remove skin from avocado and slice.\n4. Add to toast and sprinkle with sea salt and some lemon\nzest (optional).\nEnjoy!\nAdditional Topping Options:\nToasted sesame seeds\nToasted sunflower seeds\nLime Juice\nHummus with or without the avocado",
             "quantity": null,
@@ -349,13 +349,13 @@
             "mealTitle": "Breakfast",
             "id": "1",
             "week": 1,
-            "calories": 711
+            "calories": 232
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 32,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -374,13 +374,13 @@
             "id": "19",
             "mealTitle": "Snack",
             "week": 2,
-            "calories": 70
+            "calories": 453
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 31,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -399,7 +399,7 @@
             "id": "29",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 70
+            "calories": 357
         },
         {
             "name": "Strawberries",
@@ -430,7 +430,7 @@
             "name": "Beet-Ginger Smoothie Bowl",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBeet%20ginger%20smoothie%20bowl.jpg?alt=media&token=67345af2-458e-42ae-89dd-e6d666e5b5ad",
             "mealId": null,
-            "protein": 48,
+            "protein": 7.4,
             "ingredientName": null,
             "instruction": "Place all the ingredients for the smoothie bowl together in a\nhigh-speed blender and blend on high until smooth. \nPour into a bowl and top with raspberries, pomegranate\nseeds, honey, cacao nibs, and chia seeds.\nServe and enjoy!",
             "quantity": null,
@@ -485,13 +485,13 @@
             "mealTitle": "Breakfast",
             "id": "38",
             "week": 4,
-            "calories": 426
+            "calories": 320
         },
         {
             "name": "Greens and Beans with Rosemary and Thyme",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FGreen%20and%20beans.jpg?alt=media&token=f38de22e-011f-4bf4-b015-31f9ec523efc",
             "mealId": null,
-            "protein": 43,
+            "protein": 11.9,
             "ingredientName": null,
             "instruction": "Bring broth to a simmer in a large, high-sided skillet over\nmedium-high heat. Add onion and garlic and cook until\ntender, stirring occasionally, about 7 minutes. \nStir in greens, in batches if needed, along with beans,\nrosemary, thyme and crushed red pepper. Cover, reduce\nheat to medium and cook 5 minutes, stirring once. Uncover\nand cook another 2 minutes or until greens are very tender. \nStir in black pepper and serve.",
             "quantity": null,
@@ -546,7 +546,7 @@
             "mealTitle": "Lunch",
             "id": "13",
             "week": 3,
-            "calories": 247
+            "calories": 188
         },
         {
             "name": "Fall Harvest Salad",
@@ -666,7 +666,7 @@
             "name": "Turmeric Chickpea Burgers (PEP)",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FTumeric%20chickpea%20burger.jpg?alt=media&token=397facbd-1c83-4d50-bedb-8f80ee2b4c52",
             "mealId": null,
-            "protein": 26,
+            "protein": 9.5,
             "ingredientName": null,
             "instruction": "In a large cast iron pan, drizzle in a little olive oil and fry the\nonion and garlic until slightly golden but not burned.\nRemove from heat and allow to cool.\nIn a food processor, process the chickpeas until they turn to\na slightly textured paste, be sure to turn off the food\nprocessor and scrape down the sides to get all the\nchickpeas ground up. Add in onion and garlic, salt, pepper,\nturmeric and cayenne pepper and mix to fully combine.\nTurn the food processor off and stir in the chopped parsley.\nTake a large plate and sprinkle a few tablespoons of\nchickpea flour onto it. Using a spoon, scoop some of the\nmixture onto your hands and shape into a ball, the size of a\ngolf ball, and then press gently to make a patty.\nDrop into the chickpea flour to coat evenly. If too much flour\nsticks to the patty then gently dust it off with your fingers or\na pastry brush. You should have a very light coating all over\nthe patties/ burgers.\nReheat that same large cast iron pan to medium heat.\nDrizzle in a little more oil and place the patties in to cook.\nCook for about 2-3 minutes on each side until the bottom is\nnicely browned.\nServe with a big salad for a healthy lunch or dinner.\nEnjoy!",
             "quantity": null,
@@ -717,13 +717,13 @@
             "mealTitle": "Lunch",
             "id": "8",
             "week": 1,
-            "calories": 369
+            "calories": 252
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FTumeric%20chickpea%20burger.jpg?alt=media&token=397facbd-1c83-4d50-bedb-8f80ee2b4c52",
             "mealId": null,
-            "protein": 25,
+            "protein": 9.5,
             "ingredientName": null,
             "instruction": "In a large cast iron pan, drizzle in a little olive oil and fry the\nonion and garlic until slightly golden but not burned.\nRemove from heat and allow to cool.\nIn a food processor, process the chickpeas until they turn to\na slightly textured paste, be sure to turn off the food\nprocessor and scrape down the sides to get all the\nchickpeas ground up. Add in onion and garlic, salt, pepper,\nturmeric and cayenne pepper and mix to fully combine.\nTurn the food processor off and stir in the chopped parsley.\nTake a large plate and sprinkle a few tablespoons of\nchickpea flour onto it. Using a spoon, scoop some of the\nmixture onto your hands and shape into a ball, the size of a\ngolf ball, and then press gently to make a patty.\nDrop into the chickpea flour to coat evenly. If too much flour\nsticks to the patty then gently dust it off with your fingers or\na pastry brush. You should have a very light coating all over\nthe patties/ burgers.\nReheat that same large cast iron pan to medium heat.\nDrizzle in a little more oil and place the patties in to cook.\nCook for about 2-3 minutes on each side until the bottom is\nnicely browned.\nServe with a big salad for a healthy lunch or dinner.\nEnjoy!",
             "quantity": null,
@@ -774,7 +774,7 @@
             "mealTitle": "Lunch",
             "id": "8",
             "week": 3,
-            "calories": 203
+            "calories": 252
         },
         {
             "name": "Chicken Zucchini Meat Balls",
@@ -837,7 +837,7 @@
             "name": "Honey Lime Quinoa Fruit Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FQuinoa%20fruit%20salad.jpg?alt=media&token=ca5304a7-064e-4655-9acf-d0e1673fbc00",
             "mealId": null,
-            "protein": 20,
+            "protein": 8.0,
             "ingredientName": null,
             "instruction": "Rinse and prepare the quinoa according to package. Let\nquinoa cool to room temperature.\nIn a large bowl, combine quinoa, strawberries, blueberries,\nand mango.\nTo make the glaze: In a small bowl combine the honey and\nlime juice. Drizzle over the fruit salad and toss to coat.\nGarnish with fresh basil.",
             "quantity": null,
@@ -884,13 +884,13 @@
             "mealTitle": "Breakfast",
             "id": "7",
             "week": 1,
-            "calories": 375
+            "calories": 346
         },
         {
             "name": "Hummus-Crusted Chicken",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHummus%20chicken%20(1).jpg?alt=media&token=9bfb9ec0-4f25-4bf8-a690-1317c0d37e91",
             "mealId": null,
-            "protein": 30,
+            "protein": 47.0,
             "ingredientName": null,
             "instruction": "Preheat oven to 450\ufffdF. Prepare one large baking dish or two\nsmaller baking dishes with cooking spray.\nPat the chicken dry. Season the chicken breasts with\ngenerous pinches of salt and pepper. In a large bowl, toss\nthe zucchini, squash and onion with olive oil until evenly\ncoated. Season with salt and pepper.\nIf using one baking dish, place all of the vegetables on the\nbottom of the dish in an even layer. Lay the four chicken\nbreasts evenly on top, then cover each chicken breast with\nthe hummus so that the entire breast is covered. Squeeze\nthe juice of one lemon over the chicken and vegetables.\nThen sprinkle the pan with smoked paprika or sumac. Thinly\nslice the remaining lemon, and place the slices in between\nthe chicken and vegetables if desired.\n**If using two pans, use one for the chicken and one for the\nvegetables.**\nBake for about 25-30 minutes, until the chicken is cooked\nthrough and the vegetables are tender. Serve immediately.",
             "quantity": null,
@@ -945,13 +945,13 @@
             "mealTitle": "Dinner",
             "id": "10",
             "week": 3,
-            "calories": 397
+            "calories": 383
         },
         {
             "name": "3-Ingredient Banana Pancakes",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBanana%20pancakes.jpeg?alt=media&token=58be2861-2318-4549-a808-2f8838f4ee46",
             "mealId": null,
-            "protein": 28,
+            "protein": 14.7,
             "ingredientName": null,
             "instruction": "In a mixing bowl, crack in the eggs and add in baking\npowder. And whisk to combine.\nIn another bowl add in 1\ufffd large bananas. Lightly mash with\na potato masher or a fork, but not too much. There should\nbe chunks of bananas to make fluffy pancakes. And use\nonly ripe bananas.\nPour wet mixture into mashed bananas and stir to combine.\nIn a frying pan, cook mini pancakes over a medium low\nheat. 1 or 2 tablespoons of batter is enough for each mini\npancake. When the baking powder is activated, flip it over\nand cook for about one minute more. Serve immediately\nwhen hot.",
             "quantity": null,
@@ -978,7 +978,7 @@
             "mealTitle": "Breakfast",
             "id": "1",
             "week": 2,
-            "calories": 718
+            "calories": 351
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
@@ -1045,7 +1045,7 @@
             "name": "Wild rice salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FWild%20rice%20salad.jpg?alt=media&token=9b3cd204-db59-4056-b477-aaaf6c2be993",
             "mealId": null,
-            "protein": 27,
+            "protein": 15.1,
             "ingredientName": null,
             "instruction": "1. Cook the rice according to the packet instructions\nuntil tender. Drain, then allow to cool.\n2. Roughly chop the mixed nuts, pick and roughly chop\nthe basil and mint leaves, then roughly chop the\napricots.\n3. Combine with the rice, season with sea salt and\nblack pepper, then drizzle with oil. Serve with grilled\nmeat or fish.",
             "quantity": null,
@@ -1092,7 +1092,7 @@
             "mealTitle": "Dinner",
             "id": "6",
             "week": 4,
-            "calories": 795
+            "calories": 467
         },
         {
             "name": "Blueberries",
@@ -1123,7 +1123,7 @@
             "name": "Honey Lime Quinoa Fruit Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FQuinoa%20fruit%20salad.jpg?alt=media&token=ca5304a7-064e-4655-9acf-d0e1673fbc00",
             "mealId": null,
-            "protein": 28,
+            "protein": 8.0,
             "ingredientName": null,
             "instruction": "Rinse and prepare the quinoa according to package. Let\nquinoa cool to room temperature.\nIn a large bowl, combine quinoa, strawberries, blueberries,\nand mango.\nTo make the glaze: In a small bowl combine the honey and\nlime juice. Drizzle over the fruit salad and toss to coat.\nGarnish with fresh basil.",
             "quantity": null,
@@ -1170,7 +1170,7 @@
             "mealTitle": "Breakfast",
             "id": "18",
             "week": 3,
-            "calories": 721
+            "calories": 346
         },
         {
             "name": "Banana",
@@ -1254,7 +1254,7 @@
             "name": "Hummus-Crusted Chicken",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHummus%20chicken%20(1).jpg?alt=media&token=9bfb9ec0-4f25-4bf8-a690-1317c0d37e91",
             "mealId": null,
-            "protein": 39,
+            "protein": 47.0,
             "ingredientName": null,
             "instruction": "Preheat oven to 450\ufffdF. Prepare one large baking dish or two\nsmaller baking dishes with cooking spray.\nPat the chicken dry. Season the chicken breasts with\ngenerous pinches of salt and pepper. In a large bowl, toss\nthe zucchini, squash and onion with olive oil until evenly\ncoated. Season with salt and pepper.\nIf using one baking dish, place all of the vegetables on the\nbottom of the dish in an even layer. Lay the four chicken\nbreasts evenly on top, then cover each chicken breast with\nthe hummus so that the entire breast is covered. Squeeze\nthe juice of one lemon over the chicken and vegetables.\nThen sprinkle the pan with smoked paprika or sumac. Thinly\nslice the remaining lemon, and place the slices in between\nthe chicken and vegetables if desired.\n**If using two pans, use one for the chicken and one for the\nvegetables.**\nBake for about 25-30 minutes, until the chicken is cooked\nthrough and the vegetables are tender. Serve immediately.",
             "quantity": null,
@@ -1309,13 +1309,13 @@
             "mealTitle": "Dinner",
             "id": "27",
             "week": 3,
-            "calories": 221
+            "calories": 383
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 42,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -1334,13 +1334,13 @@
             "id": "35",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 70
+            "calories": 800
         },
         {
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 0.1,
+            "protein": 37,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -1359,13 +1359,13 @@
             "mealTitle": "Lunch",
             "id": "39",
             "week": 2,
-            "calories": 2
+            "calories": 370
         },
         {
             "name": "Greens and Beans with Rosemary and Thyme",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FGreen%20and%20beans.jpg?alt=media&token=f38de22e-011f-4bf4-b015-31f9ec523efc",
             "mealId": null,
-            "protein": 58,
+            "protein": 11.9,
             "ingredientName": null,
             "instruction": "Bring broth to a simmer in a large, high-sided skillet over\nmedium-high heat. Add onion and garlic and cook until\ntender, stirring occasionally, about 7 minutes. \nStir in greens, in batches if needed, along with beans,\nrosemary, thyme and crushed red pepper. Cover, reduce\nheat to medium and cook 5 minutes, stirring once. Uncover\nand cook another 2 minutes or until greens are very tender. \nStir in black pepper and serve.",
             "quantity": null,
@@ -1420,7 +1420,7 @@
             "mealTitle": "Dinner",
             "id": "9",
             "week": 3,
-            "calories": 519
+            "calories": 188
         },
         {
             "name": "Blueberries",
@@ -1451,7 +1451,7 @@
             "name": "Baked Salmon with Lemon and Thyme",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBaked%20salmon.jpg?alt=media&token=9d7c847d-4100-40af-ad28-b0b950931a14",
             "mealId": null,
-            "protein": 43,
+            "protein": 34.0,
             "ingredientName": null,
             "instruction": "Coat fillets with salt, pepper and thyme. Whisk fillets with\nlemon juice.\nPreheat the oven to 180 C. Place onion on a baking sheet\nand put salmon steaks over it.\nBake for 20 minutes.\nServe with steamed rapini and parboiled rice.",
             "quantity": null,
@@ -1490,7 +1490,7 @@
             "mealTitle": "Lunch",
             "id": "37",
             "week": 1,
-            "calories": 425
+            "calories": 246
         },
         {
             "name": "Blueberries",
@@ -1521,7 +1521,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 60,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -1540,7 +1540,7 @@
             "id": "11",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 70
+            "calories": 749
         },
         {
             "name": "Blueberries",
@@ -1571,7 +1571,7 @@
             "name": "Cardamom Quinoa Porridge",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FQuinoa%20porridge.jpg?alt=media&token=d57b09cd-3dbe-4b17-90ff-06ad70ddf02b",
             "mealId": null,
-            "protein": 32,
+            "protein": 9.9,
             "ingredientName": null,
             "instruction": "In a saucepan, bring quinoa, 3/4 cup almond milk, water,\nvanilla, salt, and cardamom to a boil. Reduce heat and\nsimmer, covered, until liquid is absorbed, 15 minutes.\nRemove from heat and let rest five minutes, then fluff with\na fork.\nFor each serving, top 1/2 cup quinoa with 1/2 cup almond\nmilk, 1/2 sliced pear, and 2 Tbsp almonds.\nEnjoy!",
             "quantity": null,
@@ -1618,13 +1618,13 @@
             "mealTitle": "Breakfast",
             "id": "8",
             "week": 4,
-            "calories": 452
+            "calories": 326
         },
         {
             "name": "Honey Lime Quinoa Fruit Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FQuinoa%20fruit%20salad.jpg?alt=media&token=ca5304a7-064e-4655-9acf-d0e1673fbc00",
             "mealId": null,
-            "protein": 25,
+            "protein": 8.0,
             "ingredientName": null,
             "instruction": "Rinse and prepare the quinoa according to package. Let\nquinoa cool to room temperature.\nIn a large bowl, combine quinoa, strawberries, blueberries,\nand mango.\nTo make the glaze: In a small bowl combine the honey and\nlime juice. Drizzle over the fruit salad and toss to coat.\nGarnish with fresh basil.",
             "quantity": null,
@@ -1671,13 +1671,13 @@
             "mealTitle": "Breakfast",
             "id": "18",
             "week": 1,
-            "calories": 747
+            "calories": 346
         },
         {
             "name": "Sweet Potato Toast with Avocado",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSweet%20potato%20toast%20with%20avocado.jpg?alt=media&token=c816159f-f167-44a7-81cb-c226de8ba764",
             "mealId": null,
-            "protein": 53,
+            "protein": 3.0,
             "ingredientName": null,
             "instruction": "1. Slice sweet potatoes lengthwise into 1/4 inch slices.\n2. Add to the toaster-oven (or regular oven) cook the sweet\npotato toast on 375-400 degrees for 15-20 minutes.\n3. Remove skin from avocado and slice.\n4. Add to toast and sprinkle with sea salt and some lemon\nzest (optional).\nEnjoy!\nAdditional Topping Options:\nToasted sesame seeds\nToasted sunflower seeds\nLime Juice\nHummus with or without the avocado",
             "quantity": null,
@@ -1708,7 +1708,7 @@
             "mealTitle": "Breakfast",
             "id": "12",
             "week": 3,
-            "calories": 800
+            "calories": 232
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
@@ -1801,7 +1801,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 0.1,
+            "protein": 40,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -1820,13 +1820,13 @@
             "mealTitle": "Dinner",
             "id": "16",
             "week": 4,
-            "calories": 2
+            "calories": 634
         },
         {
             "name": "Cardamom Quinoa Porridge",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FQuinoa%20porridge.jpg?alt=media&token=d57b09cd-3dbe-4b17-90ff-06ad70ddf02b",
             "mealId": null,
-            "protein": 37,
+            "protein": 9.9,
             "ingredientName": null,
             "instruction": "In a saucepan, bring quinoa, 3/4 cup almond milk, water,\nvanilla, salt, and cardamom to a boil. Reduce heat and\nsimmer, covered, until liquid is absorbed, 15 minutes.\nRemove from heat and let rest five minutes, then fluff with\na fork.\nFor each serving, top 1/2 cup quinoa with 1/2 cup almond\nmilk, 1/2 sliced pear, and 2 Tbsp almonds.\nEnjoy!",
             "quantity": null,
@@ -1873,7 +1873,7 @@
             "mealTitle": "Breakfast",
             "id": "8",
             "week": 2,
-            "calories": 740
+            "calories": 326
         },
         {
             "name": "Chicken Zucchini Meat Balls",
@@ -1936,7 +1936,7 @@
             "name": "Kale Chips",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FKale%20chips.jpg?alt=media&token=6ad2afa9-0850-446f-8f4e-8f5c2832f598",
             "mealId": null,
-            "protein": 36,
+            "protein": 3.1,
             "ingredientName": null,
             "instruction": "Preheat oven to 350 degrees.\nMix all ingredients as you would a salad.\nPlace kale on a cookie sheet and bake until crispy (about 20\nminutes, but they may need more time to become crispy). \nGive a stir half way through, and remove from oven to cool\nwhen crispy.\nServe and enjoy!",
             "quantity": null,
@@ -1971,13 +1971,13 @@
             "mealTitle": "Snack",
             "id": "25",
             "week": 4,
-            "calories": 205
+            "calories": 98
         },
         {
             "name": "Hummus-Crusted Chicken",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHummus%20chicken%20(1).jpg?alt=media&token=9bfb9ec0-4f25-4bf8-a690-1317c0d37e91",
             "mealId": null,
-            "protein": 23,
+            "protein": 47.0,
             "ingredientName": null,
             "instruction": "Preheat oven to 450\ufffdF. Prepare one large baking dish or two\nsmaller baking dishes with cooking spray.\nPat the chicken dry. Season the chicken breasts with\ngenerous pinches of salt and pepper. In a large bowl, toss\nthe zucchini, squash and onion with olive oil until evenly\ncoated. Season with salt and pepper.\nIf using one baking dish, place all of the vegetables on the\nbottom of the dish in an even layer. Lay the four chicken\nbreasts evenly on top, then cover each chicken breast with\nthe hummus so that the entire breast is covered. Squeeze\nthe juice of one lemon over the chicken and vegetables.\nThen sprinkle the pan with smoked paprika or sumac. Thinly\nslice the remaining lemon, and place the slices in between\nthe chicken and vegetables if desired.\n**If using two pans, use one for the chicken and one for the\nvegetables.**\nBake for about 25-30 minutes, until the chicken is cooked\nthrough and the vegetables are tender. Serve immediately.",
             "quantity": null,
@@ -2032,13 +2032,13 @@
             "mealTitle": "Dinner",
             "id": "27",
             "week": 1,
-            "calories": 720
+            "calories": 383
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 50,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -2057,13 +2057,13 @@
             "id": "19",
             "mealTitle": "Snack",
             "week": 4,
-            "calories": 70
+            "calories": 319
         },
         {
             "name": "Kale Chips",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FKale%20chips.jpg?alt=media&token=6ad2afa9-0850-446f-8f4e-8f5c2832f598",
             "mealId": null,
-            "protein": 34,
+            "protein": 3.1,
             "ingredientName": null,
             "instruction": "Preheat oven to 350 degrees.\nMix all ingredients as you would a salad.\nPlace kale on a cookie sheet and bake until crispy (about 20\nminutes, but they may need more time to become crispy). \nGive a stir half way through, and remove from oven to cool\nwhen crispy.\nServe and enjoy!",
             "quantity": null,
@@ -2098,7 +2098,7 @@
             "mealTitle": "Snack",
             "id": "7",
             "week": 2,
-            "calories": 340
+            "calories": 98
         },
         {
             "name": "Blueberries",
@@ -2129,7 +2129,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 44,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -2148,13 +2148,13 @@
             "id": "43",
             "mealTitle": "Snack",
             "week": 4,
-            "calories": 70
+            "calories": 481
         },
         {
             "name": "3-Ingredient Banana Pancakes",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBanana%20pancakes.jpeg?alt=media&token=58be2861-2318-4549-a808-2f8838f4ee46",
             "mealId": null,
-            "protein": 32,
+            "protein": 14.7,
             "ingredientName": null,
             "instruction": "In a mixing bowl, crack in the eggs and add in baking\npowder. And whisk to combine.\nIn another bowl add in 1\ufffd large bananas. Lightly mash with\na potato masher or a fork, but not too much. There should\nbe chunks of bananas to make fluffy pancakes. And use\nonly ripe bananas.\nPour wet mixture into mashed bananas and stir to combine.\nIn a frying pan, cook mini pancakes over a medium low\nheat. 1 or 2 tablespoons of batter is enough for each mini\npancake. When the baking powder is activated, flip it over\nand cook for about one minute more. Serve immediately\nwhen hot.",
             "quantity": null,
@@ -2181,13 +2181,13 @@
             "mealTitle": "Breakfast",
             "id": "13",
             "week": 4,
-            "calories": 387
+            "calories": 351
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 43,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -2206,13 +2206,13 @@
             "id": "11",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 70
+            "calories": 384
         },
         {
             "name": "Baked Salmon with Lemon and Thyme",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBaked%20salmon.jpg?alt=media&token=9d7c847d-4100-40af-ad28-b0b950931a14",
             "mealId": null,
-            "protein": 35,
+            "protein": 34.0,
             "ingredientName": null,
             "instruction": "Coat fillets with salt, pepper and thyme. Whisk fillets with\nlemon juice.\nPreheat the oven to 180 C. Place onion on a baking sheet\nand put salmon steaks over it.\nBake for 20 minutes.\nServe with steamed rapini and parboiled rice.",
             "quantity": null,
@@ -2251,13 +2251,13 @@
             "mealTitle": "Dinner",
             "id": "15",
             "week": 3,
-            "calories": 753
+            "calories": 246
         },
         {
             "name": "Baked Salmon with Lemon and Thyme",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBaked%20salmon.jpg?alt=media&token=9d7c847d-4100-40af-ad28-b0b950931a14",
             "mealId": null,
-            "protein": 48,
+            "protein": 34.0,
             "ingredientName": null,
             "instruction": "Coat fillets with salt, pepper and thyme. Whisk fillets with\nlemon juice.\nPreheat the oven to 180 C. Place onion on a baking sheet\nand put salmon steaks over it.\nBake for 20 minutes.\nServe with steamed rapini and parboiled rice.",
             "quantity": null,
@@ -2296,7 +2296,7 @@
             "mealTitle": "Dinner",
             "id": "33",
             "week": 3,
-            "calories": 682
+            "calories": 246
         },
         {
             "name": "Fall Harvest Salad",
@@ -2359,7 +2359,7 @@
             "name": "Kale Chips",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FKale%20chips.jpg?alt=media&token=6ad2afa9-0850-446f-8f4e-8f5c2832f598",
             "mealId": null,
-            "protein": 34,
+            "protein": 3.1,
             "ingredientName": null,
             "instruction": "Preheat oven to 350 degrees.\nMix all ingredients as you would a salad.\nPlace kale on a cookie sheet and bake until crispy (about 20\nminutes, but they may need more time to become crispy). \nGive a stir half way through, and remove from oven to cool\nwhen crispy.\nServe and enjoy!",
             "quantity": null,
@@ -2394,13 +2394,13 @@
             "mealTitle": "Snack",
             "id": "12",
             "week": 4,
-            "calories": 689
+            "calories": 98
         },
         {
             "name": "Hummus-Crusted Chicken",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHummus%20chicken%20(1).jpg?alt=media&token=9bfb9ec0-4f25-4bf8-a690-1317c0d37e91",
             "mealId": null,
-            "protein": 40,
+            "protein": 47.0,
             "ingredientName": null,
             "instruction": "Preheat oven to 450\ufffdF. Prepare one large baking dish or two\nsmaller baking dishes with cooking spray.\nPat the chicken dry. Season the chicken breasts with\ngenerous pinches of salt and pepper. In a large bowl, toss\nthe zucchini, squash and onion with olive oil until evenly\ncoated. Season with salt and pepper.\nIf using one baking dish, place all of the vegetables on the\nbottom of the dish in an even layer. Lay the four chicken\nbreasts evenly on top, then cover each chicken breast with\nthe hummus so that the entire breast is covered. Squeeze\nthe juice of one lemon over the chicken and vegetables.\nThen sprinkle the pan with smoked paprika or sumac. Thinly\nslice the remaining lemon, and place the slices in between\nthe chicken and vegetables if desired.\n**If using two pans, use one for the chicken and one for the\nvegetables.**\nBake for about 25-30 minutes, until the chicken is cooked\nthrough and the vegetables are tender. Serve immediately.",
             "quantity": null,
@@ -2455,13 +2455,13 @@
             "mealTitle": "Lunch",
             "id": "14",
             "week": 3,
-            "calories": 442
+            "calories": 383
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FTumeric%20chickpea%20burger.jpg?alt=media&token=397facbd-1c83-4d50-bedb-8f80ee2b4c52",
             "mealId": null,
-            "protein": 31,
+            "protein": 9.5,
             "ingredientName": null,
             "instruction": "In a large cast iron pan, drizzle in a little olive oil and fry the\nonion and garlic until slightly golden but not burned.\nRemove from heat and allow to cool.\nIn a food processor, process the chickpeas until they turn to\na slightly textured paste, be sure to turn off the food\nprocessor and scrape down the sides to get all the\nchickpeas ground up. Add in onion and garlic, salt, pepper,\nturmeric and cayenne pepper and mix to fully combine.\nTurn the food processor off and stir in the chopped parsley.\nTake a large plate and sprinkle a few tablespoons of\nchickpea flour onto it. Using a spoon, scoop some of the\nmixture onto your hands and shape into a ball, the size of a\ngolf ball, and then press gently to make a patty.\nDrop into the chickpea flour to coat evenly. If too much flour\nsticks to the patty then gently dust it off with your fingers or\na pastry brush. You should have a very light coating all over\nthe patties/ burgers.\nReheat that same large cast iron pan to medium heat.\nDrizzle in a little more oil and place the patties in to cook.\nCook for about 2-3 minutes on each side until the bottom is\nnicely browned.\nServe with a big salad for a healthy lunch or dinner.\nEnjoy!",
             "quantity": null,
@@ -2512,7 +2512,7 @@
             "mealTitle": "Dinner",
             "id": "21",
             "week": 3,
-            "calories": 487
+            "calories": 252
         },
         {
             "name": "Pear",
@@ -2543,7 +2543,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 0.1,
+            "protein": 36,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -2562,13 +2562,13 @@
             "mealTitle": "Dinner",
             "id": "34",
             "week": 4,
-            "calories": 2
+            "calories": 779
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FTumeric%20chickpea%20burger.jpg?alt=media&token=397facbd-1c83-4d50-bedb-8f80ee2b4c52",
             "mealId": null,
-            "protein": 32,
+            "protein": 9.5,
             "ingredientName": null,
             "instruction": "In a large cast iron pan, drizzle in a little olive oil and fry the\nonion and garlic until slightly golden but not burned.\nRemove from heat and allow to cool.\nIn a food processor, process the chickpeas until they turn to\na slightly textured paste, be sure to turn off the food\nprocessor and scrape down the sides to get all the\nchickpeas ground up. Add in onion and garlic, salt, pepper,\nturmeric and cayenne pepper and mix to fully combine.\nTurn the food processor off and stir in the chopped parsley.\nTake a large plate and sprinkle a few tablespoons of\nchickpea flour onto it. Using a spoon, scoop some of the\nmixture onto your hands and shape into a ball, the size of a\ngolf ball, and then press gently to make a patty.\nDrop into the chickpea flour to coat evenly. If too much flour\nsticks to the patty then gently dust it off with your fingers or\na pastry brush. You should have a very light coating all over\nthe patties/ burgers.\nReheat that same large cast iron pan to medium heat.\nDrizzle in a little more oil and place the patties in to cook.\nCook for about 2-3 minutes on each side until the bottom is\nnicely browned.\nServe with a big salad for a healthy lunch or dinner.\nEnjoy!",
             "quantity": null,
@@ -2619,7 +2619,7 @@
             "mealTitle": "Dinner",
             "id": "5",
             "week": 3,
-            "calories": 764
+            "calories": 252
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
@@ -2800,7 +2800,7 @@
             "name": "3-Ingredient Banana Pancakes",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBanana%20pancakes.jpeg?alt=media&token=58be2861-2318-4549-a808-2f8838f4ee46",
             "mealId": null,
-            "protein": 34,
+            "protein": 14.7,
             "ingredientName": null,
             "instruction": "In a mixing bowl, crack in the eggs and add in baking\npowder. And whisk to combine.\nIn another bowl add in 1\ufffd large bananas. Lightly mash with\na potato masher or a fork, but not too much. There should\nbe chunks of bananas to make fluffy pancakes. And use\nonly ripe bananas.\nPour wet mixture into mashed bananas and stir to combine.\nIn a frying pan, cook mini pancakes over a medium low\nheat. 1 or 2 tablespoons of batter is enough for each mini\npancake. When the baking powder is activated, flip it over\nand cook for about one minute more. Serve immediately\nwhen hot.",
             "quantity": null,
@@ -2827,7 +2827,7 @@
             "mealTitle": "Breakfast",
             "id": "1",
             "week": 4,
-            "calories": 315
+            "calories": 351
         },
         {
             "name": "Fall Harvest Salad",
@@ -2943,7 +2943,7 @@
             "name": "Turmeric Chickpea Burgers (PEP)",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FTumeric%20chickpea%20burger.jpg?alt=media&token=397facbd-1c83-4d50-bedb-8f80ee2b4c52",
             "mealId": null,
-            "protein": 55,
+            "protein": 9.5,
             "ingredientName": null,
             "instruction": "In a large cast iron pan, drizzle in a little olive oil and fry the\nonion and garlic until slightly golden but not burned.\nRemove from heat and allow to cool.\nIn a food processor, process the chickpeas until they turn to\na slightly textured paste, be sure to turn off the food\nprocessor and scrape down the sides to get all the\nchickpeas ground up. Add in onion and garlic, salt, pepper,\nturmeric and cayenne pepper and mix to fully combine.\nTurn the food processor off and stir in the chopped parsley.\nTake a large plate and sprinkle a few tablespoons of\nchickpea flour onto it. Using a spoon, scoop some of the\nmixture onto your hands and shape into a ball, the size of a\ngolf ball, and then press gently to make a patty.\nDrop into the chickpea flour to coat evenly. If too much flour\nsticks to the patty then gently dust it off with your fingers or\na pastry brush. You should have a very light coating all over\nthe patties/ burgers.\nReheat that same large cast iron pan to medium heat.\nDrizzle in a little more oil and place the patties in to cook.\nCook for about 2-3 minutes on each side until the bottom is\nnicely browned.\nServe with a big salad for a healthy lunch or dinner.\nEnjoy!",
             "quantity": null,
@@ -2994,13 +2994,13 @@
             "mealTitle": "Dinner",
             "id": "21",
             "week": 1,
-            "calories": 386
+            "calories": 252
         },
         {
             "name": "Wild rice salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FWild%20rice%20salad.jpg?alt=media&token=9b3cd204-db59-4056-b477-aaaf6c2be993",
             "mealId": null,
-            "protein": 21,
+            "protein": 15.1,
             "ingredientName": null,
             "instruction": "1. Cook the rice according to the packet instructions\nuntil tender. Drain, then allow to cool.\n2. Roughly chop the mixed nuts, pick and roughly chop\nthe basil and mint leaves, then roughly chop the\napricots.\n3. Combine with the rice, season with sea salt and\nblack pepper, then drizzle with oil. Serve with grilled\nmeat or fish.",
             "quantity": null,
@@ -3047,13 +3047,13 @@
             "mealTitle": "Dinner",
             "id": "23",
             "week": 4,
-            "calories": 538
+            "calories": 467
         },
         {
             "name": "Wild rice salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FWild%20rice%20salad.jpg?alt=media&token=9b3cd204-db59-4056-b477-aaaf6c2be993",
             "mealId": null,
-            "protein": 29,
+            "protein": 15.1,
             "ingredientName": null,
             "instruction": "1. Cook the rice according to the packet instructions\nuntil tender. Drain, then allow to cool.\n2. Roughly chop the mixed nuts, pick and roughly chop\nthe basil and mint leaves, then roughly chop the\napricots.\n3. Combine with the rice, season with sea salt and\nblack pepper, then drizzle with oil. Serve with grilled\nmeat or fish.",
             "quantity": null,
@@ -3100,7 +3100,7 @@
             "mealTitle": "Dinner",
             "id": "41",
             "week": 2,
-            "calories": 714
+            "calories": 467
         },
         {
             "name": "Lentil, Kale & Sausage Stew",
@@ -3159,7 +3159,7 @@
             "name": "Sweet Potato Toast with Avocado",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSweet%20potato%20toast%20with%20avocado.jpg?alt=media&token=c816159f-f167-44a7-81cb-c226de8ba764",
             "mealId": null,
-            "protein": 55,
+            "protein": 3.0,
             "ingredientName": null,
             "instruction": "1. Slice sweet potatoes lengthwise into 1/4 inch slices.\n2. Add to the toaster-oven (or regular oven) cook the sweet\npotato toast on 375-400 degrees for 15-20 minutes.\n3. Remove skin from avocado and slice.\n4. Add to toast and sprinkle with sea salt and some lemon\nzest (optional).\nEnjoy!\nAdditional Topping Options:\nToasted sesame seeds\nToasted sunflower seeds\nLime Juice\nHummus with or without the avocado",
             "quantity": null,
@@ -3190,13 +3190,13 @@
             "mealTitle": "Breakfast",
             "id": "23",
             "week": 1,
-            "calories": 413
+            "calories": 232
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 40,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -3215,13 +3215,13 @@
             "id": "6",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 70
+            "calories": 267
         },
         {
             "name": "Wild rice salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FWild%20rice%20salad.jpg?alt=media&token=9b3cd204-db59-4056-b477-aaaf6c2be993",
             "mealId": null,
-            "protein": 40,
+            "protein": 15.1,
             "ingredientName": null,
             "instruction": "1. Cook the rice according to the packet instructions\nuntil tender. Drain, then allow to cool.\n2. Roughly chop the mixed nuts, pick and roughly chop\nthe basil and mint leaves, then roughly chop the\napricots.\n3. Combine with the rice, season with sea salt and\nblack pepper, then drizzle with oil. Serve with grilled\nmeat or fish.",
             "quantity": null,
@@ -3268,7 +3268,7 @@
             "mealTitle": "Lunch",
             "id": "28",
             "week": 2,
-            "calories": 672
+            "calories": 467
         },
         {
             "name": "Chicken Zucchini Meat Balls",
@@ -3327,7 +3327,7 @@
             "name": "Cardamom Quinoa Porridge",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FQuinoa%20porridge.jpg?alt=media&token=d57b09cd-3dbe-4b17-90ff-06ad70ddf02b",
             "mealId": null,
-            "protein": 24,
+            "protein": 9.9,
             "ingredientName": null,
             "instruction": "In a saucepan, bring quinoa, 3/4 cup almond milk, water,\nvanilla, salt, and cardamom to a boil. Reduce heat and\nsimmer, covered, until liquid is absorbed, 15 minutes.\nRemove from heat and let rest five minutes, then fluff with\na fork.\nFor each serving, top 1/2 cup quinoa with 1/2 cup almond\nmilk, 1/2 sliced pear, and 2 Tbsp almonds.\nEnjoy!",
             "quantity": null,
@@ -3374,13 +3374,13 @@
             "mealTitle": "Breakfast",
             "id": "20",
             "week": 4,
-            "calories": 630
+            "calories": 326
         },
         {
             "name": "Wild rice salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FWild%20rice%20salad.jpg?alt=media&token=9b3cd204-db59-4056-b477-aaaf6c2be993",
             "mealId": null,
-            "protein": 31,
+            "protein": 15.1,
             "ingredientName": null,
             "instruction": "1. Cook the rice according to the packet instructions\nuntil tender. Drain, then allow to cool.\n2. Roughly chop the mixed nuts, pick and roughly chop\nthe basil and mint leaves, then roughly chop the\napricots.\n3. Combine with the rice, season with sea salt and\nblack pepper, then drizzle with oil. Serve with grilled\nmeat or fish.",
             "quantity": null,
@@ -3427,13 +3427,13 @@
             "mealTitle": "Dinner",
             "id": "41",
             "week": 4,
-            "calories": 389
+            "calories": 467
         },
         {
             "name": "Kale Chips",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FKale%20chips.jpg?alt=media&token=6ad2afa9-0850-446f-8f4e-8f5c2832f598",
             "mealId": null,
-            "protein": 36,
+            "protein": 3.1,
             "ingredientName": null,
             "instruction": "Preheat oven to 350 degrees.\nMix all ingredients as you would a salad.\nPlace kale on a cookie sheet and bake until crispy (about 20\nminutes, but they may need more time to become crispy). \nGive a stir half way through, and remove from oven to cool\nwhen crispy.\nServe and enjoy!",
             "quantity": null,
@@ -3468,13 +3468,13 @@
             "mealTitle": "Snack",
             "id": "25",
             "week": 2,
-            "calories": 291
+            "calories": 98
         },
         {
             "name": "Greens and Beans with Rosemary and Thyme",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FGreen%20and%20beans.jpg?alt=media&token=f38de22e-011f-4bf4-b015-31f9ec523efc",
             "mealId": null,
-            "protein": 51,
+            "protein": 11.9,
             "ingredientName": null,
             "instruction": "Bring broth to a simmer in a large, high-sided skillet over\nmedium-high heat. Add onion and garlic and cook until\ntender, stirring occasionally, about 7 minutes. \nStir in greens, in batches if needed, along with beans,\nrosemary, thyme and crushed red pepper. Cover, reduce\nheat to medium and cook 5 minutes, stirring once. Uncover\nand cook another 2 minutes or until greens are very tender. \nStir in black pepper and serve.",
             "quantity": null,
@@ -3529,13 +3529,13 @@
             "mealTitle": "Lunch",
             "id": "31",
             "week": 3,
-            "calories": 739
+            "calories": 188
         },
         {
             "name": "Kale Chips",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FKale%20chips.jpg?alt=media&token=6ad2afa9-0850-446f-8f4e-8f5c2832f598",
             "mealId": null,
-            "protein": 49,
+            "protein": 3.1,
             "ingredientName": null,
             "instruction": "Preheat oven to 350 degrees.\nMix all ingredients as you would a salad.\nPlace kale on a cookie sheet and bake until crispy (about 20\nminutes, but they may need more time to become crispy). \nGive a stir half way through, and remove from oven to cool\nwhen crispy.\nServe and enjoy!",
             "quantity": null,
@@ -3570,13 +3570,13 @@
             "mealTitle": "Snack",
             "id": "7",
             "week": 4,
-            "calories": 626
+            "calories": 98
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 38,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -3595,7 +3595,7 @@
             "id": "6",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 70
+            "calories": 696
         },
         {
             "name": "Lentil, Kale & Sausage Stew",
@@ -3654,7 +3654,7 @@
             "name": "Turmeric Chickpea Burgers (PEP)",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FTumeric%20chickpea%20burger.jpg?alt=media&token=397facbd-1c83-4d50-bedb-8f80ee2b4c52",
             "mealId": null,
-            "protein": 58,
+            "protein": 9.5,
             "ingredientName": null,
             "instruction": "In a large cast iron pan, drizzle in a little olive oil and fry the\nonion and garlic until slightly golden but not burned.\nRemove from heat and allow to cool.\nIn a food processor, process the chickpeas until they turn to\na slightly textured paste, be sure to turn off the food\nprocessor and scrape down the sides to get all the\nchickpeas ground up. Add in onion and garlic, salt, pepper,\nturmeric and cayenne pepper and mix to fully combine.\nTurn the food processor off and stir in the chopped parsley.\nTake a large plate and sprinkle a few tablespoons of\nchickpea flour onto it. Using a spoon, scoop some of the\nmixture onto your hands and shape into a ball, the size of a\ngolf ball, and then press gently to make a patty.\nDrop into the chickpea flour to coat evenly. If too much flour\nsticks to the patty then gently dust it off with your fingers or\na pastry brush. You should have a very light coating all over\nthe patties/ burgers.\nReheat that same large cast iron pan to medium heat.\nDrizzle in a little more oil and place the patties in to cook.\nCook for about 2-3 minutes on each side until the bottom is\nnicely browned.\nServe with a big salad for a healthy lunch or dinner.\nEnjoy!",
             "quantity": null,
@@ -3705,13 +3705,13 @@
             "mealTitle": "Dinner",
             "id": "5",
             "week": 1,
-            "calories": 430
+            "calories": 252
         },
         {
             "name": "Hummus-Crusted Chicken",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHummus%20chicken%20(1).jpg?alt=media&token=9bfb9ec0-4f25-4bf8-a690-1317c0d37e91",
             "mealId": null,
-            "protein": 47,
+            "protein": 47.0,
             "ingredientName": null,
             "instruction": "Preheat oven to 450\ufffdF. Prepare one large baking dish or two\nsmaller baking dishes with cooking spray.\nPat the chicken dry. Season the chicken breasts with\ngenerous pinches of salt and pepper. In a large bowl, toss\nthe zucchini, squash and onion with olive oil until evenly\ncoated. Season with salt and pepper.\nIf using one baking dish, place all of the vegetables on the\nbottom of the dish in an even layer. Lay the four chicken\nbreasts evenly on top, then cover each chicken breast with\nthe hummus so that the entire breast is covered. Squeeze\nthe juice of one lemon over the chicken and vegetables.\nThen sprinkle the pan with smoked paprika or sumac. Thinly\nslice the remaining lemon, and place the slices in between\nthe chicken and vegetables if desired.\n**If using two pans, use one for the chicken and one for the\nvegetables.**\nBake for about 25-30 minutes, until the chicken is cooked\nthrough and the vegetables are tender. Serve immediately.",
             "quantity": null,
@@ -3766,13 +3766,13 @@
             "mealTitle": "Lunch",
             "id": "32",
             "week": 1,
-            "calories": 264
+            "calories": 383
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 46,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -3791,13 +3791,13 @@
             "id": "29",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 70
+            "calories": 361
         },
         {
             "name": "3-Ingredient Banana Pancakes",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBanana%20pancakes.jpeg?alt=media&token=58be2861-2318-4549-a808-2f8838f4ee46",
             "mealId": null,
-            "protein": 48,
+            "protein": 14.7,
             "ingredientName": null,
             "instruction": "In a mixing bowl, crack in the eggs and add in baking\npowder. And whisk to combine.\nIn another bowl add in 1\ufffd large bananas. Lightly mash with\na potato masher or a fork, but not too much. There should\nbe chunks of bananas to make fluffy pancakes. And use\nonly ripe bananas.\nPour wet mixture into mashed bananas and stir to combine.\nIn a frying pan, cook mini pancakes over a medium low\nheat. 1 or 2 tablespoons of batter is enough for each mini\npancake. When the baking powder is activated, flip it over\nand cook for about one minute more. Serve immediately\nwhen hot.",
             "quantity": null,
@@ -3824,13 +3824,13 @@
             "mealTitle": "Breakfast",
             "id": "26",
             "week": 2,
-            "calories": 411
+            "calories": 351
         },
         {
             "name": "3-Ingredient Banana Pancakes",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBanana%20pancakes.jpeg?alt=media&token=58be2861-2318-4549-a808-2f8838f4ee46",
             "mealId": null,
-            "protein": 26,
+            "protein": 14.7,
             "ingredientName": null,
             "instruction": "In a mixing bowl, crack in the eggs and add in baking\npowder. And whisk to combine.\nIn another bowl add in 1\ufffd large bananas. Lightly mash with\na potato masher or a fork, but not too much. There should\nbe chunks of bananas to make fluffy pancakes. And use\nonly ripe bananas.\nPour wet mixture into mashed bananas and stir to combine.\nIn a frying pan, cook mini pancakes over a medium low\nheat. 1 or 2 tablespoons of batter is enough for each mini\npancake. When the baking powder is activated, flip it over\nand cook for about one minute more. Serve immediately\nwhen hot.",
             "quantity": null,
@@ -3857,7 +3857,7 @@
             "mealTitle": "Breakfast",
             "id": "13",
             "week": 2,
-            "calories": 712
+            "calories": 351
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
@@ -3981,7 +3981,7 @@
             "name": "Honey Lime Quinoa Fruit Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FQuinoa%20fruit%20salad.jpg?alt=media&token=ca5304a7-064e-4655-9acf-d0e1673fbc00",
             "mealId": null,
-            "protein": 25,
+            "protein": 8.0,
             "ingredientName": null,
             "instruction": "Rinse and prepare the quinoa according to package. Let\nquinoa cool to room temperature.\nIn a large bowl, combine quinoa, strawberries, blueberries,\nand mango.\nTo make the glaze: In a small bowl combine the honey and\nlime juice. Drizzle over the fruit salad and toss to coat.\nGarnish with fresh basil.",
             "quantity": null,
@@ -4028,7 +4028,7 @@
             "mealTitle": "Breakfast",
             "id": "30",
             "week": 1,
-            "calories": 384
+            "calories": 346
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
@@ -4181,7 +4181,7 @@
             "name": "Wild rice salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FWild%20rice%20salad.jpg?alt=media&token=9b3cd204-db59-4056-b477-aaaf6c2be993",
             "mealId": null,
-            "protein": 44,
+            "protein": 15.1,
             "ingredientName": null,
             "instruction": "1. Cook the rice according to the packet instructions\nuntil tender. Drain, then allow to cool.\n2. Roughly chop the mixed nuts, pick and roughly chop\nthe basil and mint leaves, then roughly chop the\napricots.\n3. Combine with the rice, season with sea salt and\nblack pepper, then drizzle with oil. Serve with grilled\nmeat or fish.",
             "quantity": null,
@@ -4228,7 +4228,7 @@
             "mealTitle": "Dinner",
             "id": "23",
             "week": 2,
-            "calories": 254
+            "calories": 467
         },
         {
             "name": "Fall Harvest Salad",
@@ -4344,7 +4344,7 @@
             "name": "Toasted Almond Butter",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FToasted%20almond%20butter.jpg?alt=media&token=0d308530-9f9a-4a68-8491-3fa4f18ffca7",
             "mealId": "",
-            "protein": 49,
+            "protein": 8.3,
             "ingredientName": null,
             "instruction": "Preheat oven to 350\ufffdF.\nPlace almonds on a large baking sheet and toast for approximately 12-15 minutes.\nPlace toasted almonds into a large food processor. Process for 2 minutes, then stop and scrape down the sides.\nContinue to process for about 7-12 minutes (depends on how powerful your food processor is). You will notice that the almonds will gradually change from a powder to form a large ball.\nContinue processing and that ball will break down again and begin to resemble a coarse and pasty almond butter.\nContinue processing until the almond butter becomes smooth and moist looking.\nStore your almond butter in a glass jar and refrigerate. Note:\nYields 1 1/2 cups which is 24 tbsp. - 2 tbsp. per serving = 12 servings",
             "quantity": "",
@@ -4364,13 +4364,13 @@
             "mealTitle": "Snack",
             "id": "36",
             "week": 2,
-            "calories": 294
+            "calories": 237
         },
         {
             "name": "Baked Salmon with Lemon and Thyme",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBaked%20salmon.jpg?alt=media&token=9d7c847d-4100-40af-ad28-b0b950931a14",
             "mealId": null,
-            "protein": 33,
+            "protein": 34.0,
             "ingredientName": null,
             "instruction": "Coat fillets with salt, pepper and thyme. Whisk fillets with\nlemon juice.\nPreheat the oven to 180 C. Place onion on a baking sheet\nand put salmon steaks over it.\nBake for 20 minutes.\nServe with steamed rapini and parboiled rice.",
             "quantity": null,
@@ -4409,13 +4409,13 @@
             "mealTitle": "Dinner",
             "id": "15",
             "week": 1,
-            "calories": 472
+            "calories": 246
         },
         {
             "name": "Greens and Beans with Rosemary and Thyme",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FGreen%20and%20beans.jpg?alt=media&token=f38de22e-011f-4bf4-b015-31f9ec523efc",
             "mealId": null,
-            "protein": 33,
+            "protein": 11.9,
             "ingredientName": null,
             "instruction": "Bring broth to a simmer in a large, high-sided skillet over\nmedium-high heat. Add onion and garlic and cook until\ntender, stirring occasionally, about 7 minutes. \nStir in greens, in batches if needed, along with beans,\nrosemary, thyme and crushed red pepper. Cover, reduce\nheat to medium and cook 5 minutes, stirring once. Uncover\nand cook another 2 minutes or until greens are very tender. \nStir in black pepper and serve.",
             "quantity": null,
@@ -4470,13 +4470,13 @@
             "mealTitle": "Dinner",
             "id": "9",
             "week": 1,
-            "calories": 623
+            "calories": 188
         },
         {
             "name": "Greens and Beans with Rosemary and Thyme",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FGreen%20and%20beans.jpg?alt=media&token=f38de22e-011f-4bf4-b015-31f9ec523efc",
             "mealId": null,
-            "protein": 46,
+            "protein": 11.9,
             "ingredientName": null,
             "instruction": "Bring broth to a simmer in a large, high-sided skillet over\nmedium-high heat. Add onion and garlic and cook until\ntender, stirring occasionally, about 7 minutes. \nStir in greens, in batches if needed, along with beans,\nrosemary, thyme and crushed red pepper. Cover, reduce\nheat to medium and cook 5 minutes, stirring once. Uncover\nand cook another 2 minutes or until greens are very tender. \nStir in black pepper and serve.",
             "quantity": null,
@@ -4531,13 +4531,13 @@
             "mealTitle": "Dinner",
             "id": "26",
             "week": 3,
-            "calories": 382
+            "calories": 188
         },
         {
             "name": "Honey Lime Quinoa Fruit Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FQuinoa%20fruit%20salad.jpg?alt=media&token=ca5304a7-064e-4655-9acf-d0e1673fbc00",
             "mealId": null,
-            "protein": 59,
+            "protein": 8.0,
             "ingredientName": null,
             "instruction": "Rinse and prepare the quinoa according to package. Let\nquinoa cool to room temperature.\nIn a large bowl, combine quinoa, strawberries, blueberries,\nand mango.\nTo make the glaze: In a small bowl combine the honey and\nlime juice. Drizzle over the fruit salad and toss to coat.\nGarnish with fresh basil.",
             "quantity": null,
@@ -4584,13 +4584,13 @@
             "mealTitle": "Breakfast",
             "id": "7",
             "week": 3,
-            "calories": 788
+            "calories": 346
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FTumeric%20chickpea%20burger.jpg?alt=media&token=397facbd-1c83-4d50-bedb-8f80ee2b4c52",
             "mealId": null,
-            "protein": 41,
+            "protein": 9.5,
             "ingredientName": null,
             "instruction": "In a large cast iron pan, drizzle in a little olive oil and fry the\nonion and garlic until slightly golden but not burned.\nRemove from heat and allow to cool.\nIn a food processor, process the chickpeas until they turn to\na slightly textured paste, be sure to turn off the food\nprocessor and scrape down the sides to get all the\nchickpeas ground up. Add in onion and garlic, salt, pepper,\nturmeric and cayenne pepper and mix to fully combine.\nTurn the food processor off and stir in the chopped parsley.\nTake a large plate and sprinkle a few tablespoons of\nchickpea flour onto it. Using a spoon, scoop some of the\nmixture onto your hands and shape into a ball, the size of a\ngolf ball, and then press gently to make a patty.\nDrop into the chickpea flour to coat evenly. If too much flour\nsticks to the patty then gently dust it off with your fingers or\na pastry brush. You should have a very light coating all over\nthe patties/ burgers.\nReheat that same large cast iron pan to medium heat.\nDrizzle in a little more oil and place the patties in to cook.\nCook for about 2-3 minutes on each side until the bottom is\nnicely browned.\nServe with a big salad for a healthy lunch or dinner.\nEnjoy!",
             "quantity": null,
@@ -4641,13 +4641,13 @@
             "mealTitle": "Dinner",
             "id": "39",
             "week": 3,
-            "calories": 474
+            "calories": 252
         },
         {
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 0.1,
+            "protein": 50,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -4666,7 +4666,7 @@
             "mealTitle": "Dinner",
             "id": "34",
             "week": 2,
-            "calories": 2
+            "calories": 493
         },
         {
             "name": "Pear",
@@ -4697,7 +4697,7 @@
             "name": "Kale Chips",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FKale%20chips.jpg?alt=media&token=6ad2afa9-0850-446f-8f4e-8f5c2832f598",
             "mealId": null,
-            "protein": 21,
+            "protein": 3.1,
             "ingredientName": null,
             "instruction": "Preheat oven to 350 degrees.\nMix all ingredients as you would a salad.\nPlace kale on a cookie sheet and bake until crispy (about 20\nminutes, but they may need more time to become crispy). \nGive a stir half way through, and remove from oven to cool\nwhen crispy.\nServe and enjoy!",
             "quantity": null,
@@ -4732,13 +4732,13 @@
             "mealTitle": "Snack",
             "id": "18",
             "week": 2,
-            "calories": 228
+            "calories": 98
         },
         {
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 0.1,
+            "protein": 39,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -4757,13 +4757,13 @@
             "mealTitle": "Dinner",
             "id": "16",
             "week": 2,
-            "calories": 2
+            "calories": 636
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 60,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -4782,7 +4782,7 @@
             "id": "43",
             "mealTitle": "Snack",
             "week": 2,
-            "calories": 70
+            "calories": 487
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
@@ -4931,7 +4931,7 @@
             "name": "Baked Salmon with Lemon and Thyme",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBaked%20salmon.jpg?alt=media&token=9d7c847d-4100-40af-ad28-b0b950931a14",
             "mealId": null,
-            "protein": 45,
+            "protein": 34.0,
             "ingredientName": null,
             "instruction": "Coat fillets with salt, pepper and thyme. Whisk fillets with\nlemon juice.\nPreheat the oven to 180 C. Place onion on a baking sheet\nand put salmon steaks over it.\nBake for 20 minutes.\nServe with steamed rapini and parboiled rice.",
             "quantity": null,
@@ -4970,13 +4970,13 @@
             "mealTitle": "Dinner",
             "id": "33",
             "week": 1,
-            "calories": 330
+            "calories": 246
         },
         {
             "name": "Baked Salmon with Lemon and Thyme",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBaked%20salmon.jpg?alt=media&token=9d7c847d-4100-40af-ad28-b0b950931a14",
             "mealId": null,
-            "protein": 50,
+            "protein": 34.0,
             "ingredientName": null,
             "instruction": "Coat fillets with salt, pepper and thyme. Whisk fillets with\nlemon juice.\nPreheat the oven to 180 C. Place onion on a baking sheet\nand put salmon steaks over it.\nBake for 20 minutes.\nServe with steamed rapini and parboiled rice.",
             "quantity": null,
@@ -5015,7 +5015,7 @@
             "mealTitle": "Lunch",
             "id": "4",
             "week": 1,
-            "calories": 577
+            "calories": 246
         },
         {
             "name": "Chicken Zucchini Meat Balls",
@@ -5131,7 +5131,7 @@
             "name": "Baked Salmon with Lemon and Thyme",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBaked%20salmon.jpg?alt=media&token=9d7c847d-4100-40af-ad28-b0b950931a14",
             "mealId": null,
-            "protein": 29,
+            "protein": 34.0,
             "ingredientName": null,
             "instruction": "Coat fillets with salt, pepper and thyme. Whisk fillets with\nlemon juice.\nPreheat the oven to 180 C. Place onion on a baking sheet\nand put salmon steaks over it.\nBake for 20 minutes.\nServe with steamed rapini and parboiled rice.",
             "quantity": null,
@@ -5170,7 +5170,7 @@
             "mealTitle": "Lunch",
             "id": "4",
             "week": 3,
-            "calories": 562
+            "calories": 246
         },
         {
             "name": "Pear",
@@ -5258,7 +5258,7 @@
             "name": "Sweet Potato Toast with Avocado",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSweet%20potato%20toast%20with%20avocado.jpg?alt=media&token=c816159f-f167-44a7-81cb-c226de8ba764",
             "mealId": null,
-            "protein": 44,
+            "protein": 3.0,
             "ingredientName": null,
             "instruction": "1. Slice sweet potatoes lengthwise into 1/4 inch slices.\n2. Add to the toaster-oven (or regular oven) cook the sweet\npotato toast on 375-400 degrees for 15-20 minutes.\n3. Remove skin from avocado and slice.\n4. Add to toast and sprinkle with sea salt and some lemon\nzest (optional).\nEnjoy!\nAdditional Topping Options:\nToasted sesame seeds\nToasted sunflower seeds\nLime Juice\nHummus with or without the avocado",
             "quantity": null,
@@ -5289,13 +5289,13 @@
             "mealTitle": "Breakfast",
             "id": "12",
             "week": 1,
-            "calories": 426
+            "calories": 232
         },
         {
             "name": "Greens and Beans with Rosemary and Thyme",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FGreen%20and%20beans.jpg?alt=media&token=f38de22e-011f-4bf4-b015-31f9ec523efc",
             "mealId": null,
-            "protein": 47,
+            "protein": 11.9,
             "ingredientName": null,
             "instruction": "Bring broth to a simmer in a large, high-sided skillet over\nmedium-high heat. Add onion and garlic and cook until\ntender, stirring occasionally, about 7 minutes. \nStir in greens, in batches if needed, along with beans,\nrosemary, thyme and crushed red pepper. Cover, reduce\nheat to medium and cook 5 minutes, stirring once. Uncover\nand cook another 2 minutes or until greens are very tender. \nStir in black pepper and serve.",
             "quantity": null,
@@ -5350,7 +5350,7 @@
             "mealTitle": "Dinner",
             "id": "26",
             "week": 1,
-            "calories": 643
+            "calories": 188
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
@@ -5417,7 +5417,7 @@
             "name": "Honey Lime Quinoa Fruit Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FQuinoa%20fruit%20salad.jpg?alt=media&token=ca5304a7-064e-4655-9acf-d0e1673fbc00",
             "mealId": null,
-            "protein": 42,
+            "protein": 8.0,
             "ingredientName": null,
             "instruction": "Rinse and prepare the quinoa according to package. Let\nquinoa cool to room temperature.\nIn a large bowl, combine quinoa, strawberries, blueberries,\nand mango.\nTo make the glaze: In a small bowl combine the honey and\nlime juice. Drizzle over the fruit salad and toss to coat.\nGarnish with fresh basil.",
             "quantity": null,
@@ -5464,7 +5464,7 @@
             "mealTitle": "Breakfast",
             "id": "30",
             "week": 3,
-            "calories": 623
+            "calories": 346
         },
         {
             "name": "Fall Harvest Salad",
@@ -5584,7 +5584,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 0.1,
+            "protein": 53,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -5603,13 +5603,13 @@
             "mealTitle": "Lunch",
             "id": "21",
             "week": 2,
-            "calories": 2
+            "calories": 324
         },
         {
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 0.1,
+            "protein": 41,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -5628,7 +5628,7 @@
             "mealTitle": "Lunch",
             "id": "3",
             "week": 2,
-            "calories": 2
+            "calories": 479
         },
         {
             "name": "Strawberries",
@@ -5684,7 +5684,7 @@
             "name": "Baked Salmon with Lemon and Thyme",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBaked%20salmon.jpg?alt=media&token=9d7c847d-4100-40af-ad28-b0b950931a14",
             "mealId": null,
-            "protein": 25,
+            "protein": 34.0,
             "ingredientName": null,
             "instruction": "Coat fillets with salt, pepper and thyme. Whisk fillets with\nlemon juice.\nPreheat the oven to 180 C. Place onion on a baking sheet\nand put salmon steaks over it.\nBake for 20 minutes.\nServe with steamed rapini and parboiled rice.",
             "quantity": null,
@@ -5723,13 +5723,13 @@
             "mealTitle": "Lunch",
             "id": "37",
             "week": 3,
-            "calories": 798
+            "calories": 246
         },
         {
             "name": "Hummus-Crusted Chicken",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHummus%20chicken%20(1).jpg?alt=media&token=9bfb9ec0-4f25-4bf8-a690-1317c0d37e91",
             "mealId": null,
-            "protein": 23,
+            "protein": 47.0,
             "ingredientName": null,
             "instruction": "Preheat oven to 450\ufffdF. Prepare one large baking dish or two\nsmaller baking dishes with cooking spray.\nPat the chicken dry. Season the chicken breasts with\ngenerous pinches of salt and pepper. In a large bowl, toss\nthe zucchini, squash and onion with olive oil until evenly\ncoated. Season with salt and pepper.\nIf using one baking dish, place all of the vegetables on the\nbottom of the dish in an even layer. Lay the four chicken\nbreasts evenly on top, then cover each chicken breast with\nthe hummus so that the entire breast is covered. Squeeze\nthe juice of one lemon over the chicken and vegetables.\nThen sprinkle the pan with smoked paprika or sumac. Thinly\nslice the remaining lemon, and place the slices in between\nthe chicken and vegetables if desired.\n**If using two pans, use one for the chicken and one for the\nvegetables.**\nBake for about 25-30 minutes, until the chicken is cooked\nthrough and the vegetables are tender. Serve immediately.",
             "quantity": null,
@@ -5784,13 +5784,13 @@
             "mealTitle": "Lunch",
             "id": "32",
             "week": 3,
-            "calories": 464
+            "calories": 383
         },
         {
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 0.1,
+            "protein": 26,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -5809,13 +5809,13 @@
             "mealTitle": "Lunch",
             "id": "21",
             "week": 4,
-            "calories": 2
+            "calories": 441
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FTumeric%20chickpea%20burger.jpg?alt=media&token=397facbd-1c83-4d50-bedb-8f80ee2b4c52",
             "mealId": null,
-            "protein": 58,
+            "protein": 9.5,
             "ingredientName": null,
             "instruction": "In a large cast iron pan, drizzle in a little olive oil and fry the\nonion and garlic until slightly golden but not burned.\nRemove from heat and allow to cool.\nIn a food processor, process the chickpeas until they turn to\na slightly textured paste, be sure to turn off the food\nprocessor and scrape down the sides to get all the\nchickpeas ground up. Add in onion and garlic, salt, pepper,\nturmeric and cayenne pepper and mix to fully combine.\nTurn the food processor off and stir in the chopped parsley.\nTake a large plate and sprinkle a few tablespoons of\nchickpea flour onto it. Using a spoon, scoop some of the\nmixture onto your hands and shape into a ball, the size of a\ngolf ball, and then press gently to make a patty.\nDrop into the chickpea flour to coat evenly. If too much flour\nsticks to the patty then gently dust it off with your fingers or\na pastry brush. You should have a very light coating all over\nthe patties/ burgers.\nReheat that same large cast iron pan to medium heat.\nDrizzle in a little more oil and place the patties in to cook.\nCook for about 2-3 minutes on each side until the bottom is\nnicely browned.\nServe with a big salad for a healthy lunch or dinner.\nEnjoy!",
             "quantity": null,
@@ -5866,13 +5866,13 @@
             "mealTitle": "Lunch",
             "id": "25",
             "week": 3,
-            "calories": 327
+            "calories": 252
         },
         {
             "name": "3-Ingredient Banana Pancakes",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBanana%20pancakes.jpeg?alt=media&token=58be2861-2318-4549-a808-2f8838f4ee46",
             "mealId": null,
-            "protein": 34,
+            "protein": 14.7,
             "ingredientName": null,
             "instruction": "In a mixing bowl, crack in the eggs and add in baking\npowder. And whisk to combine.\nIn another bowl add in 1\ufffd large bananas. Lightly mash with\na potato masher or a fork, but not too much. There should\nbe chunks of bananas to make fluffy pancakes. And use\nonly ripe bananas.\nPour wet mixture into mashed bananas and stir to combine.\nIn a frying pan, cook mini pancakes over a medium low\nheat. 1 or 2 tablespoons of batter is enough for each mini\npancake. When the baking powder is activated, flip it over\nand cook for about one minute more. Serve immediately\nwhen hot.",
             "quantity": null,
@@ -5899,7 +5899,7 @@
             "mealTitle": "Breakfast",
             "id": "26",
             "week": 4,
-            "calories": 254
+            "calories": 351
         },
         {
             "name": "Fall Harvest Salad",
@@ -5987,7 +5987,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 0.1,
+            "protein": 51,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -6006,13 +6006,13 @@
             "mealTitle": "Lunch",
             "id": "39",
             "week": 4,
-            "calories": 2
+            "calories": 251
         },
         {
             "name": "Kale Chips",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FKale%20chips.jpg?alt=media&token=6ad2afa9-0850-446f-8f4e-8f5c2832f598",
             "mealId": null,
-            "protein": 55,
+            "protein": 3.1,
             "ingredientName": null,
             "instruction": "Preheat oven to 350 degrees.\nMix all ingredients as you would a salad.\nPlace kale on a cookie sheet and bake until crispy (about 20\nminutes, but they may need more time to become crispy). \nGive a stir half way through, and remove from oven to cool\nwhen crispy.\nServe and enjoy!",
             "quantity": null,
@@ -6047,7 +6047,7 @@
             "mealTitle": "Snack",
             "id": "12",
             "week": 2,
-            "calories": 310
+            "calories": 98
         },
         {
             "name": "Pear",
@@ -6078,7 +6078,7 @@
             "name": "Hummus-Crusted Chicken",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHummus%20chicken%20(1).jpg?alt=media&token=9bfb9ec0-4f25-4bf8-a690-1317c0d37e91",
             "mealId": null,
-            "protein": 29,
+            "protein": 47.0,
             "ingredientName": null,
             "instruction": "Preheat oven to 450\ufffdF. Prepare one large baking dish or two\nsmaller baking dishes with cooking spray.\nPat the chicken dry. Season the chicken breasts with\ngenerous pinches of salt and pepper. In a large bowl, toss\nthe zucchini, squash and onion with olive oil until evenly\ncoated. Season with salt and pepper.\nIf using one baking dish, place all of the vegetables on the\nbottom of the dish in an even layer. Lay the four chicken\nbreasts evenly on top, then cover each chicken breast with\nthe hummus so that the entire breast is covered. Squeeze\nthe juice of one lemon over the chicken and vegetables.\nThen sprinkle the pan with smoked paprika or sumac. Thinly\nslice the remaining lemon, and place the slices in between\nthe chicken and vegetables if desired.\n**If using two pans, use one for the chicken and one for the\nvegetables.**\nBake for about 25-30 minutes, until the chicken is cooked\nthrough and the vegetables are tender. Serve immediately.",
             "quantity": null,
@@ -6133,13 +6133,13 @@
             "mealTitle": "Dinner",
             "id": "10",
             "week": 1,
-            "calories": 711
+            "calories": 383
         },
         {
             "name": "Cardamom Quinoa Porridge",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FQuinoa%20porridge.jpg?alt=media&token=d57b09cd-3dbe-4b17-90ff-06ad70ddf02b",
             "mealId": null,
-            "protein": 26,
+            "protein": 9.9,
             "ingredientName": null,
             "instruction": "In a saucepan, bring quinoa, 3/4 cup almond milk, water,\nvanilla, salt, and cardamom to a boil. Reduce heat and\nsimmer, covered, until liquid is absorbed, 15 minutes.\nRemove from heat and let rest five minutes, then fluff with\na fork.\nFor each serving, top 1/2 cup quinoa with 1/2 cup almond\nmilk, 1/2 sliced pear, and 2 Tbsp almonds.\nEnjoy!",
             "quantity": null,
@@ -6186,13 +6186,13 @@
             "mealTitle": "Breakfast",
             "id": "32",
             "week": 2,
-            "calories": 458
+            "calories": 326
         },
         {
             "name": "Kale Chips",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FKale%20chips.jpg?alt=media&token=6ad2afa9-0850-446f-8f4e-8f5c2832f598",
             "mealId": null,
-            "protein": 21,
+            "protein": 3.1,
             "ingredientName": null,
             "instruction": "Preheat oven to 350 degrees.\nMix all ingredients as you would a salad.\nPlace kale on a cookie sheet and bake until crispy (about 20\nminutes, but they may need more time to become crispy). \nGive a stir half way through, and remove from oven to cool\nwhen crispy.\nServe and enjoy!",
             "quantity": null,
@@ -6227,13 +6227,13 @@
             "mealTitle": "Snack",
             "id": "18",
             "week": 4,
-            "calories": 280
+            "calories": 98
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 60,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -6252,13 +6252,13 @@
             "id": "35",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 70
+            "calories": 458
         },
         {
             "name": "Cardamom Quinoa Porridge",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FQuinoa%20porridge.jpg?alt=media&token=d57b09cd-3dbe-4b17-90ff-06ad70ddf02b",
             "mealId": null,
-            "protein": 50,
+            "protein": 9.9,
             "ingredientName": null,
             "instruction": "In a saucepan, bring quinoa, 3/4 cup almond milk, water,\nvanilla, salt, and cardamom to a boil. Reduce heat and\nsimmer, covered, until liquid is absorbed, 15 minutes.\nRemove from heat and let rest five minutes, then fluff with\na fork.\nFor each serving, top 1/2 cup quinoa with 1/2 cup almond\nmilk, 1/2 sliced pear, and 2 Tbsp almonds.\nEnjoy!",
             "quantity": null,
@@ -6305,13 +6305,13 @@
             "mealTitle": "Breakfast",
             "id": "32",
             "week": 4,
-            "calories": 564
+            "calories": 326
         },
         {
             "name": "Wild rice salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FWild%20rice%20salad.jpg?alt=media&token=9b3cd204-db59-4056-b477-aaaf6c2be993",
             "mealId": null,
-            "protein": 60,
+            "protein": 15.1,
             "ingredientName": null,
             "instruction": "1. Cook the rice according to the packet instructions\nuntil tender. Drain, then allow to cool.\n2. Roughly chop the mixed nuts, pick and roughly chop\nthe basil and mint leaves, then roughly chop the\napricots.\n3. Combine with the rice, season with sea salt and\nblack pepper, then drizzle with oil. Serve with grilled\nmeat or fish.",
             "quantity": null,
@@ -6358,7 +6358,7 @@
             "mealTitle": "Dinner",
             "id": "6",
             "week": 2,
-            "calories": 551
+            "calories": 467
         },
         {
             "name": "Blueberries",
@@ -6389,7 +6389,7 @@
             "name": "Wild rice salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FWild%20rice%20salad.jpg?alt=media&token=9b3cd204-db59-4056-b477-aaaf6c2be993",
             "mealId": null,
-            "protein": 47,
+            "protein": 15.1,
             "ingredientName": null,
             "instruction": "1. Cook the rice according to the packet instructions\nuntil tender. Drain, then allow to cool.\n2. Roughly chop the mixed nuts, pick and roughly chop\nthe basil and mint leaves, then roughly chop the\napricots.\n3. Combine with the rice, season with sea salt and\nblack pepper, then drizzle with oil. Serve with grilled\nmeat or fish.",
             "quantity": null,
@@ -6436,13 +6436,13 @@
             "mealTitle": "Lunch",
             "id": "9",
             "week": 2,
-            "calories": 562
+            "calories": 467
         },
         {
             "name": "Sweet Potato Toast with Avocado",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSweet%20potato%20toast%20with%20avocado.jpg?alt=media&token=c816159f-f167-44a7-81cb-c226de8ba764",
             "mealId": null,
-            "protein": 47,
+            "protein": 3.0,
             "ingredientName": null,
             "instruction": "1. Slice sweet potatoes lengthwise into 1/4 inch slices.\n2. Add to the toaster-oven (or regular oven) cook the sweet\npotato toast on 375-400 degrees for 15-20 minutes.\n3. Remove skin from avocado and slice.\n4. Add to toast and sprinkle with sea salt and some lemon\nzest (optional).\nEnjoy!\nAdditional Topping Options:\nToasted sesame seeds\nToasted sunflower seeds\nLime Juice\nHummus with or without the avocado",
             "quantity": null,
@@ -6473,13 +6473,13 @@
             "mealTitle": "Breakfast",
             "id": "1",
             "week": 3,
-            "calories": 480
+            "calories": 232
         },
         {
             "name": "Greens and Beans with Rosemary and Thyme",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FGreen%20and%20beans.jpg?alt=media&token=f38de22e-011f-4bf4-b015-31f9ec523efc",
             "mealId": null,
-            "protein": 42,
+            "protein": 11.9,
             "ingredientName": null,
             "instruction": "Bring broth to a simmer in a large, high-sided skillet over\nmedium-high heat. Add onion and garlic and cook until\ntender, stirring occasionally, about 7 minutes. \nStir in greens, in batches if needed, along with beans,\nrosemary, thyme and crushed red pepper. Cover, reduce\nheat to medium and cook 5 minutes, stirring once. Uncover\nand cook another 2 minutes or until greens are very tender. \nStir in black pepper and serve.",
             "quantity": null,
@@ -6534,7 +6534,7 @@
             "mealTitle": "Lunch",
             "id": "13",
             "week": 1,
-            "calories": 614
+            "calories": 188
         },
         {
             "name": "Banana",
@@ -6627,7 +6627,7 @@
             "name": "Wild rice salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FWild%20rice%20salad.jpg?alt=media&token=9b3cd204-db59-4056-b477-aaaf6c2be993",
             "mealId": null,
-            "protein": 26,
+            "protein": 15.1,
             "ingredientName": null,
             "instruction": "1. Cook the rice according to the packet instructions\nuntil tender. Drain, then allow to cool.\n2. Roughly chop the mixed nuts, pick and roughly chop\nthe basil and mint leaves, then roughly chop the\napricots.\n3. Combine with the rice, season with sea salt and\nblack pepper, then drizzle with oil. Serve with grilled\nmeat or fish.",
             "quantity": null,
@@ -6674,7 +6674,7 @@
             "mealTitle": "Lunch",
             "id": "28",
             "week": 4,
-            "calories": 624
+            "calories": 467
         },
         {
             "name": "Chicken Zucchini Meat Balls",
@@ -6733,7 +6733,7 @@
             "name": "Beet-Ginger Smoothie Bowl",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBeet%20ginger%20smoothie%20bowl.jpg?alt=media&token=67345af2-458e-42ae-89dd-e6d666e5b5ad",
             "mealId": null,
-            "protein": 53,
+            "protein": 7.4,
             "ingredientName": null,
             "instruction": "Place all the ingredients for the smoothie bowl together in a\nhigh-speed blender and blend on high until smooth. \nPour into a bowl and top with raspberries, pomegranate\nseeds, honey, cacao nibs, and chia seeds.\nServe and enjoy!",
             "quantity": null,
@@ -6788,13 +6788,13 @@
             "mealTitle": "Breakfast",
             "id": "38",
             "week": 2,
-            "calories": 274
+            "calories": 320
         },
         {
             "name": "Plantain Pancakes",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPlantain%20pancakes.jpg?alt=media&token=e41bdf22-7e83-4e3a-985d-1424dea54538",
             "mealId": null,
-            "protein": 51,
+            "protein": 7.4,
             "ingredientName": null,
             "instruction": "Peel plantains and add them to a high speed blender with\nremaining ingredients and blend until smooth.\nHeat griddle or cast iron pan to medium-high heat and add\nadditional coconut oil to melt.\nUsing a 1/4 cup measure, ladle out batter to make\npancakes.\nWhen pancakes have a few bubbles and appear dry on top,\nflip and cook a few more minute.",
             "quantity": null,
@@ -6833,13 +6833,13 @@
             "mealTitle": "Breakfast",
             "id": "36",
             "week": 3,
-            "calories": 514
+            "calories": 296
         },
         {
             "name": "Wild rice salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FWild%20rice%20salad.jpg?alt=media&token=9b3cd204-db59-4056-b477-aaaf6c2be993",
             "mealId": null,
-            "protein": 41,
+            "protein": 15.1,
             "ingredientName": null,
             "instruction": "1. Cook the rice according to the packet instructions\nuntil tender. Drain, then allow to cool.\n2. Roughly chop the mixed nuts, pick and roughly chop\nthe basil and mint leaves, then roughly chop the\napricots.\n3. Combine with the rice, season with sea salt and\nblack pepper, then drizzle with oil. Serve with grilled\nmeat or fish.",
             "quantity": null,
@@ -6886,13 +6886,13 @@
             "mealTitle": "Lunch",
             "id": "9",
             "week": 4,
-            "calories": 229
+            "calories": 467
         },
         {
             "name": "Greens and Beans with Rosemary and Thyme",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FGreen%20and%20beans.jpg?alt=media&token=f38de22e-011f-4bf4-b015-31f9ec523efc",
             "mealId": null,
-            "protein": 55,
+            "protein": 11.9,
             "ingredientName": null,
             "instruction": "Bring broth to a simmer in a large, high-sided skillet over\nmedium-high heat. Add onion and garlic and cook until\ntender, stirring occasionally, about 7 minutes. \nStir in greens, in batches if needed, along with beans,\nrosemary, thyme and crushed red pepper. Cover, reduce\nheat to medium and cook 5 minutes, stirring once. Uncover\nand cook another 2 minutes or until greens are very tender. \nStir in black pepper and serve.",
             "quantity": null,
@@ -6947,7 +6947,7 @@
             "mealTitle": "Lunch",
             "id": "31",
             "week": 1,
-            "calories": 391
+            "calories": 188
         },
         {
             "name": "Chicken Zucchini Meat Balls",
@@ -7067,7 +7067,7 @@
             "name": "Turmeric Chickpea Burgers (PEP)",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FTumeric%20chickpea%20burger.jpg?alt=media&token=397facbd-1c83-4d50-bedb-8f80ee2b4c52",
             "mealId": null,
-            "protein": 49,
+            "protein": 9.5,
             "ingredientName": null,
             "instruction": "In a large cast iron pan, drizzle in a little olive oil and fry the\nonion and garlic until slightly golden but not burned.\nRemove from heat and allow to cool.\nIn a food processor, process the chickpeas until they turn to\na slightly textured paste, be sure to turn off the food\nprocessor and scrape down the sides to get all the\nchickpeas ground up. Add in onion and garlic, salt, pepper,\nturmeric and cayenne pepper and mix to fully combine.\nTurn the food processor off and stir in the chopped parsley.\nTake a large plate and sprinkle a few tablespoons of\nchickpea flour onto it. Using a spoon, scoop some of the\nmixture onto your hands and shape into a ball, the size of a\ngolf ball, and then press gently to make a patty.\nDrop into the chickpea flour to coat evenly. If too much flour\nsticks to the patty then gently dust it off with your fingers or\na pastry brush. You should have a very light coating all over\nthe patties/ burgers.\nReheat that same large cast iron pan to medium heat.\nDrizzle in a little more oil and place the patties in to cook.\nCook for about 2-3 minutes on each side until the bottom is\nnicely browned.\nServe with a big salad for a healthy lunch or dinner.\nEnjoy!",
             "quantity": null,
@@ -7118,13 +7118,13 @@
             "mealTitle": "Lunch",
             "id": "25",
             "week": 1,
-            "calories": 315
+            "calories": 252
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FTumeric%20chickpea%20burger.jpg?alt=media&token=397facbd-1c83-4d50-bedb-8f80ee2b4c52",
             "mealId": null,
-            "protein": 43,
+            "protein": 9.5,
             "ingredientName": null,
             "instruction": "In a large cast iron pan, drizzle in a little olive oil and fry the\nonion and garlic until slightly golden but not burned.\nRemove from heat and allow to cool.\nIn a food processor, process the chickpeas until they turn to\na slightly textured paste, be sure to turn off the food\nprocessor and scrape down the sides to get all the\nchickpeas ground up. Add in onion and garlic, salt, pepper,\nturmeric and cayenne pepper and mix to fully combine.\nTurn the food processor off and stir in the chopped parsley.\nTake a large plate and sprinkle a few tablespoons of\nchickpea flour onto it. Using a spoon, scoop some of the\nmixture onto your hands and shape into a ball, the size of a\ngolf ball, and then press gently to make a patty.\nDrop into the chickpea flour to coat evenly. If too much flour\nsticks to the patty then gently dust it off with your fingers or\na pastry brush. You should have a very light coating all over\nthe patties/ burgers.\nReheat that same large cast iron pan to medium heat.\nDrizzle in a little more oil and place the patties in to cook.\nCook for about 2-3 minutes on each side until the bottom is\nnicely browned.\nServe with a big salad for a healthy lunch or dinner.\nEnjoy!",
             "quantity": null,
@@ -7175,7 +7175,7 @@
             "mealTitle": "Dinner",
             "id": "39",
             "week": 1,
-            "calories": 288
+            "calories": 252
         },
         {
             "name": "Lentil, Kale & Sausage Stew",
@@ -7234,7 +7234,7 @@
             "name": "Plantain Pancakes",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPlantain%20pancakes.jpg?alt=media&token=e41bdf22-7e83-4e3a-985d-1424dea54538",
             "mealId": null,
-            "protein": 24,
+            "protein": 7.4,
             "ingredientName": null,
             "instruction": "Peel plantains and add them to a high speed blender with\nremaining ingredients and blend until smooth.\nHeat griddle or cast iron pan to medium-high heat and add\nadditional coconut oil to melt.\nUsing a 1/4 cup measure, ladle out batter to make\npancakes.\nWhen pancakes have a few bubbles and appear dry on top,\nflip and cook a few more minute.",
             "quantity": null,
@@ -7273,7 +7273,7 @@
             "mealTitle": "Breakfast",
             "id": "36",
             "week": 1,
-            "calories": 484
+            "calories": 296
         },
         {
             "name": "Pear",

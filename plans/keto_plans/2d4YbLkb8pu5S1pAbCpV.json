@@ -178,7 +178,7 @@
         },
         {
             "readyIn": "10 min",
-            "protein": 46,
+            "protein": 14.6,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Fry the bacon in a pan on medium high heat until\ncrispy. Put aside on a plate. Leave the rendered fat\nin the pan.\nUse the same pan to fry the eggs. Place it over\nmedium heat and crack your eggs into the bacon\ngrease (you can also crack them into a measuring\ncup and carefully pour into the pan to avoid\nsplattering of hot grease).\nCook the eggs any way you like them. For sunny\nside up - leave the eggs to fry on one side and cover\nthe pan with a lid to make sure they get cooked on\ntop. For eggs cooked over easy - flip the eggs over\nafter a few minutes and cook for another minute.\nCut the cherry tomatoes in half and fry them at the\nsame time.\nSalt and pepper to taste. Garnish with parsley.",
@@ -209,7 +209,7 @@
             "cookTime": "10 min",
             "id": "2",
             "ingredientName": null,
-            "calories": 476,
+            "calories": 268,
             "week": 2,
             "prepTime": "0 min"
         },
@@ -390,7 +390,7 @@
         },
         {
             "readyIn": "45 min",
-            "protein": 6.5,
+            "protein": 26,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -425,13 +425,13 @@
             "cookTime": "30 min",
             "id": "8",
             "ingredientName": null,
-            "calories": 209,
+            "calories": 735,
             "week": 1,
             "prepTime": "15 min"
         },
         {
             "readyIn": "6 min",
-            "protein": 43,
+            "protein": 5.5,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Place walnuts into a food processor until finely chopped\n2. Place chopped walnuts into a bowl and add garlic, green\nonion, lemon juice, Bragg\ufffds Liquid Aminos, and cumin.\n3. Mix together well\n4. Add sea salt and pepper to taste\n5. Place an amount of mixture on a lettuce leaf and top with\ntomatoes\n6. Roll up and enjoy with a smile!",
@@ -486,13 +486,13 @@
             "cookTime": "1 min",
             "id": "26",
             "ingredientName": null,
-            "calories": 201,
+            "calories": 231,
             "week": 4,
             "prepTime": "5 min"
         },
         {
             "readyIn": "30 min",
-            "protein": 46,
+            "protein": 36.0,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Preheat oven to 300 degrees F and set aside a\nmedium-large sized baking dish. Heat a large skillet\non your stovetop over medium heat. Prep your\nvegetables according to ingredient instructions.\nMix the yogurt, hemp seeds, garlic, and a pinch of\nsalt and pepper in a small bowl. Set aside.\nAdd the oil to the skillet and let it heat up for a few\nseconds. Once warmed, add the leek and scallion to\nthe skillet and reduce the heat to low. Cook until\nsoft, about 10 minutes. Once soft, add the spinach\nand lemon juice; season with salt. Increase heat to\nmedium-high; cook, turning frequently until wilted,\n4\ufffd5 minutes.\nTransfer spinach mixture to your baking dish, leaving\nany excess liquid behind. Make 4 deep indentations\nin centre of the spinach mix in the baking dish.\nCarefully break 1 egg into each indentation, taking\ncare to keep yolks intact.\nPlace your baking dish in the hot oven and bake\nuntil your egg whites are set, about 10\ufffd15 minutes.\nMeanwhile, warm a saucepan (or the skillet you\nused for the vegetables) on your stovetop and\nmelt 2 tablespoon of butter over medium-low heat.\nAdd the chili powder and a pinch of salt and cook\nuntil butter starts to foam and browned bits form at\nbottom of pan, 1\ufffd2 minutes. Add oregano and cook\nfor 30 seconds longer.\nRemove your eggs from the oven once they are\ncooked and serve by divide the yogurt mixture over\nthe 2 portions of the spinach and eggs and then\ndrizzling with the spiced butter. Serve immediately.",
@@ -563,13 +563,13 @@
             "cookTime": "20 min",
             "id": "25",
             "ingredientName": null,
-            "calories": 296,
+            "calories": 652,
             "week": 1,
             "prepTime": "10 min"
         },
         {
             "readyIn": "6 min",
-            "protein": 38,
+            "protein": 5.5,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Place walnuts into a food processor until finely chopped\n2. Place chopped walnuts into a bowl and add garlic, green\nonion, lemon juice, Bragg\ufffds Liquid Aminos, and cumin.\n3. Mix together well\n4. Add sea salt and pepper to taste\n5. Place an amount of mixture on a lettuce leaf and top with\ntomatoes\n6. Roll up and enjoy with a smile!",
@@ -624,7 +624,7 @@
             "cookTime": "1 min",
             "id": "26",
             "ingredientName": null,
-            "calories": 781,
+            "calories": 231,
             "week": 2,
             "prepTime": "5 min"
         },
@@ -744,7 +744,7 @@
         },
         {
             "readyIn": "10 min",
-            "protein": 34,
+            "protein": 19.6,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "1. Place all ingredients into blender and blend on high until\nwell mixed.\nEnjoy!",
@@ -791,7 +791,7 @@
             "cookTime": "0 min",
             "id": "13",
             "ingredientName": null,
-            "calories": 241,
+            "calories": 330,
             "week": 3,
             "prepTime": "10 min"
         },
@@ -838,7 +838,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 41,
+            "protein": 10.9,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "DIRECTIONS FOR MUESLI MIX:\nIn a medium bowl or a container with a tightly fitting lid,\nadd coconut flakes, macadamia nuts, chia seeds, pumpkin\nseeds, cinnamon, ginger, nutmeg and a pinch of salt, mix\nwell.\nStore muesli ingredients in a container with a tightly fitting\nlid for a day or two to let the flavors develop. This mixture\nwill keep for up to two months.\nDIRECTIONS FOR EACH SERVING:\nIn a small bowl, combine coconut milk, alcohol free vanilla,\nstevia and lemon juice.\nStir well, then add muesli and top with a dollop of plain\nyogurt.\nFor a softer texture, prepare a bowl the night before. Put a\nserving of muesli in a bowl and cover with the coconut milk\nmixture.\nPlace in refrigerator overnight. In the morning, enjoy plain\nor with a dollop of yogurt.",
@@ -901,7 +901,7 @@
             "cookTime": "0 min",
             "id": "6",
             "ingredientName": null,
-            "calories": 484,
+            "calories": 626,
             "week": 2,
             "prepTime": "5 min"
         },
@@ -956,7 +956,7 @@
         },
         {
             "readyIn": "6 min",
-            "protein": 31,
+            "protein": 5.5,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Place walnuts into a food processor until finely chopped\n2. Place chopped walnuts into a bowl and add garlic, green\nonion, lemon juice, Bragg\ufffds Liquid Aminos, and cumin.\n3. Mix together well\n4. Add sea salt and pepper to taste\n5. Place an amount of mixture on a lettuce leaf and top with\ntomatoes\n6. Roll up and enjoy with a smile!",
@@ -1011,7 +1011,7 @@
             "cookTime": "1 min",
             "id": "29",
             "ingredientName": null,
-            "calories": 615,
+            "calories": 231,
             "week": 4,
             "prepTime": "5 min"
         },
@@ -1172,7 +1172,7 @@
         },
         {
             "readyIn": "10 min",
-            "protein": 24,
+            "protein": 14.6,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Fry the bacon in a pan on medium high heat until\ncrispy. Put aside on a plate. Leave the rendered fat\nin the pan.\nUse the same pan to fry the eggs. Place it over\nmedium heat and crack your eggs into the bacon\ngrease (you can also crack them into a measuring\ncup and carefully pour into the pan to avoid\nsplattering of hot grease).\nCook the eggs any way you like them. For sunny\nside up - leave the eggs to fry on one side and cover\nthe pan with a lid to make sure they get cooked on\ntop. For eggs cooked over easy - flip the eggs over\nafter a few minutes and cook for another minute.\nCut the cherry tomatoes in half and fry them at the\nsame time.\nSalt and pepper to taste. Garnish with parsley.",
@@ -1203,13 +1203,13 @@
             "cookTime": "10 min",
             "id": "11",
             "ingredientName": null,
-            "calories": 483,
+            "calories": 268,
             "week": 2,
             "prepTime": "0 min"
         },
         {
             "readyIn": "5 min",
-            "protein": 37,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -1244,7 +1244,7 @@
             "cookTime": "0 min",
             "id": "1",
             "ingredientName": null,
-            "calories": 599,
+            "calories": 622,
             "week": 2,
             "prepTime": "5 min"
         },
@@ -1343,7 +1343,7 @@
         },
         {
             "readyIn": "30 min",
-            "protein": 34,
+            "protein": 36.0,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Preheat oven to 300 degrees F and set aside a\nmedium-large sized baking dish. Heat a large skillet\non your stovetop over medium heat. Prep your\nvegetables according to ingredient instructions.\nMix the yogurt, hemp seeds, garlic, and a pinch of\nsalt and pepper in a small bowl. Set aside.\nAdd the oil to the skillet and let it heat up for a few\nseconds. Once warmed, add the leek and scallion to\nthe skillet and reduce the heat to low. Cook until\nsoft, about 10 minutes. Once soft, add the spinach\nand lemon juice; season with salt. Increase heat to\nmedium-high; cook, turning frequently until wilted,\n4\ufffd5 minutes.\nTransfer spinach mixture to your baking dish, leaving\nany excess liquid behind. Make 4 deep indentations\nin centre of the spinach mix in the baking dish.\nCarefully break 1 egg into each indentation, taking\ncare to keep yolks intact.\nPlace your baking dish in the hot oven and bake\nuntil your egg whites are set, about 10\ufffd15 minutes.\nMeanwhile, warm a saucepan (or the skillet you\nused for the vegetables) on your stovetop and\nmelt 2 tablespoon of butter over medium-low heat.\nAdd the chili powder and a pinch of salt and cook\nuntil butter starts to foam and browned bits form at\nbottom of pan, 1\ufffd2 minutes. Add oregano and cook\nfor 30 seconds longer.\nRemove your eggs from the oven once they are\ncooked and serve by divide the yogurt mixture over\nthe 2 portions of the spinach and eggs and then\ndrizzling with the spiced butter. Serve immediately.",
@@ -1414,7 +1414,7 @@
             "cookTime": "20 min",
             "id": "1",
             "ingredientName": null,
-            "calories": 685,
+            "calories": 652,
             "week": 1,
             "prepTime": "10 min"
         },
@@ -1530,7 +1530,7 @@
         },
         {
             "readyIn": "45 min",
-            "protein": 6.5,
+            "protein": 27,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -1565,13 +1565,13 @@
             "cookTime": "30 min",
             "id": "24",
             "ingredientName": null,
-            "calories": 209,
+            "calories": 477,
             "week": 3,
             "prepTime": "15 min"
         },
         {
             "readyIn": "30 min",
-            "protein": 47,
+            "protein": 11.5,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Mix the shredded cheese and almond flour/meal in a\nmicrowaveable bowl. Add the cream cheese. Microwave on\nHIGH for 1 minute.Stir then microwave on HIGH for another\n30 seconds.\n2. Add the egg, salt, rosemary and any other flavourings,\nmix gently.\n3. Place in between 2 pieces of baking parchment/paper\nand roll into a circular pizza shape. Remove the top baking\npaper/parchment. If the mixture hardens and becomes\ndifficult to work with, pop it back in the microwave for 10-20\nseconds to soften again but not too long or you will cook\nthe egg.\n4. Make fork holes all over the pizza base to ensure it cooks\nevenly.\n5. Slide the baking paper/parchment with the pizza base, on\na baking tray or pizza stone, and bake at 220\ufffdC/425\ufffdF for\n12-15 minutes, or until brown.\n6. To make the base really crispy and sturdy, flip the pizza\nover (onto baking paper/parchment) once the top has\nbrowned.\n7. Once cooked, remove from the oven and add all the\ntoppings you like. Make sure any meat is already cooked as\nthis time it goes back into the oven just to heat up the\ntoppings and melt the cheese. Bake again at 220\ufffdC/425\ufffdF\nfor 5 minutes.\n8. Topping Ideas: pepperoni, peppers, cherry tomatoes,\nolives, ground/mince beef, mushrooms, herbs to customize\nyour pizza.",
@@ -1614,13 +1614,13 @@
             "cookTime": "20 min",
             "id": "27",
             "ingredientName": null,
-            "calories": 200,
+            "calories": 221,
             "week": 1,
             "prepTime": "10 min"
         },
         {
             "readyIn": "10 min",
-            "protein": 32,
+            "protein": 14.6,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Fry the bacon in a pan on medium high heat until\ncrispy. Put aside on a plate. Leave the rendered fat\nin the pan.\nUse the same pan to fry the eggs. Place it over\nmedium heat and crack your eggs into the bacon\ngrease (you can also crack them into a measuring\ncup and carefully pour into the pan to avoid\nsplattering of hot grease).\nCook the eggs any way you like them. For sunny\nside up - leave the eggs to fry on one side and cover\nthe pan with a lid to make sure they get cooked on\ntop. For eggs cooked over easy - flip the eggs over\nafter a few minutes and cook for another minute.\nCut the cherry tomatoes in half and fry them at the\nsame time.\nSalt and pepper to taste. Garnish with parsley.",
@@ -1651,13 +1651,13 @@
             "cookTime": "10 min",
             "id": "11",
             "ingredientName": null,
-            "calories": 574,
+            "calories": 268,
             "week": 4,
             "prepTime": "0 min"
         },
         {
             "readyIn": "15 min",
-            "protein": 49,
+            "protein": 2.4,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "Plan for roughly one medium-sized zucchini per\nperson.\nSplit the zucchini in half lengthwise.\nScoop the seeds with a spoon and slice the halves\nvery thinly with a potato peeler or use a spiralizer to\nmake zoodles.\nToss the zucchini noodles in a simmering sauce of\nyour choice and serve immediately.\nIf you aren't serving your zucchini with a sauce, then\nboil half a gallon (a couple of liters) of salted water\nin a large pot and parboil the zucchini slices for a\nminute.\nDrain the water and add olive oil or 2 or 3\ntablespoons of butter. Salt and pepper to taste and\nstir.",
@@ -1684,7 +1684,7 @@
             "cookTime": "5 min",
             "id": "2",
             "ingredientName": null,
-            "calories": 569,
+            "calories": 295,
             "week": 3,
             "prepTime": "10 min"
         },
@@ -2069,7 +2069,7 @@
         },
         {
             "readyIn": "30 min",
-            "protein": 20,
+            "protein": 36.0,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Preheat oven to 300 degrees F and set aside a\nmedium-large sized baking dish. Heat a large skillet\non your stovetop over medium heat. Prep your\nvegetables according to ingredient instructions.\nMix the yogurt, hemp seeds, garlic, and a pinch of\nsalt and pepper in a small bowl. Set aside.\nAdd the oil to the skillet and let it heat up for a few\nseconds. Once warmed, add the leek and scallion to\nthe skillet and reduce the heat to low. Cook until\nsoft, about 10 minutes. Once soft, add the spinach\nand lemon juice; season with salt. Increase heat to\nmedium-high; cook, turning frequently until wilted,\n4\ufffd5 minutes.\nTransfer spinach mixture to your baking dish, leaving\nany excess liquid behind. Make 4 deep indentations\nin centre of the spinach mix in the baking dish.\nCarefully break 1 egg into each indentation, taking\ncare to keep yolks intact.\nPlace your baking dish in the hot oven and bake\nuntil your egg whites are set, about 10\ufffd15 minutes.\nMeanwhile, warm a saucepan (or the skillet you\nused for the vegetables) on your stovetop and\nmelt 2 tablespoon of butter over medium-low heat.\nAdd the chili powder and a pinch of salt and cook\nuntil butter starts to foam and browned bits form at\nbottom of pan, 1\ufffd2 minutes. Add oregano and cook\nfor 30 seconds longer.\nRemove your eggs from the oven once they are\ncooked and serve by divide the yogurt mixture over\nthe 2 portions of the spinach and eggs and then\ndrizzling with the spiced butter. Serve immediately.",
@@ -2140,13 +2140,13 @@
             "cookTime": "20 min",
             "id": "25",
             "ingredientName": null,
-            "calories": 729,
+            "calories": 652,
             "week": 3,
             "prepTime": "10 min"
         },
         {
             "readyIn": "5 min",
-            "protein": 24,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -2181,13 +2181,13 @@
             "cookTime": "0 min",
             "id": "23",
             "ingredientName": null,
-            "calories": 677,
+            "calories": 622,
             "week": 2,
             "prepTime": "5 min"
         },
         {
             "readyIn": "5 min",
-            "protein": 50,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -2222,7 +2222,7 @@
             "cookTime": "0 min",
             "id": "1",
             "ingredientName": null,
-            "calories": 243,
+            "calories": 622,
             "week": 4,
             "prepTime": "5 min"
         },
@@ -2265,7 +2265,7 @@
         },
         {
             "readyIn": "30 min",
-            "protein": 26,
+            "protein": 11.5,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Mix the shredded cheese and almond flour/meal in a\nmicrowaveable bowl. Add the cream cheese. Microwave on\nHIGH for 1 minute.Stir then microwave on HIGH for another\n30 seconds.\n2. Add the egg, salt, rosemary and any other flavourings,\nmix gently.\n3. Place in between 2 pieces of baking parchment/paper\nand roll into a circular pizza shape. Remove the top baking\npaper/parchment. If the mixture hardens and becomes\ndifficult to work with, pop it back in the microwave for 10-20\nseconds to soften again but not too long or you will cook\nthe egg.\n4. Make fork holes all over the pizza base to ensure it cooks\nevenly.\n5. Slide the baking paper/parchment with the pizza base, on\na baking tray or pizza stone, and bake at 220\ufffdC/425\ufffdF for\n12-15 minutes, or until brown.\n6. To make the base really crispy and sturdy, flip the pizza\nover (onto baking paper/parchment) once the top has\nbrowned.\n7. Once cooked, remove from the oven and add all the\ntoppings you like. Make sure any meat is already cooked as\nthis time it goes back into the oven just to heat up the\ntoppings and melt the cheese. Bake again at 220\ufffdC/425\ufffdF\nfor 5 minutes.\n8. Topping Ideas: pepperoni, peppers, cherry tomatoes,\nolives, ground/mince beef, mushrooms, herbs to customize\nyour pizza.",
@@ -2308,13 +2308,13 @@
             "cookTime": "20 min",
             "id": "27",
             "ingredientName": null,
-            "calories": 751,
+            "calories": 221,
             "week": 3,
             "prepTime": "10 min"
         },
         {
             "readyIn": "10 min",
-            "protein": 50,
+            "protein": 14.6,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Fry the bacon in a pan on medium high heat until\ncrispy. Put aside on a plate. Leave the rendered fat\nin the pan.\nUse the same pan to fry the eggs. Place it over\nmedium heat and crack your eggs into the bacon\ngrease (you can also crack them into a measuring\ncup and carefully pour into the pan to avoid\nsplattering of hot grease).\nCook the eggs any way you like them. For sunny\nside up - leave the eggs to fry on one side and cover\nthe pan with a lid to make sure they get cooked on\ntop. For eggs cooked over easy - flip the eggs over\nafter a few minutes and cook for another minute.\nCut the cherry tomatoes in half and fry them at the\nsame time.\nSalt and pepper to taste. Garnish with parsley.",
@@ -2345,13 +2345,13 @@
             "cookTime": "10 min",
             "id": "24",
             "ingredientName": null,
-            "calories": 550,
+            "calories": 268,
             "week": 2,
             "prepTime": "0 min"
         },
         {
             "readyIn": "10 min",
-            "protein": 57,
+            "protein": 19.6,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "1. Place all ingredients into blender and blend on high until\nwell mixed.\nEnjoy!",
@@ -2398,7 +2398,7 @@
             "cookTime": "0 min",
             "id": "21",
             "ingredientName": null,
-            "calories": 317,
+            "calories": 330,
             "week": 1,
             "prepTime": "10 min"
         },
@@ -2485,7 +2485,7 @@
         },
         {
             "readyIn": "15 min",
-            "protein": 29,
+            "protein": 2.4,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "Plan for roughly one medium-sized zucchini per\nperson.\nSplit the zucchini in half lengthwise.\nScoop the seeds with a spoon and slice the halves\nvery thinly with a potato peeler or use a spiralizer to\nmake zoodles.\nToss the zucchini noodles in a simmering sauce of\nyour choice and serve immediately.\nIf you aren't serving your zucchini with a sauce, then\nboil half a gallon (a couple of liters) of salted water\nin a large pot and parboil the zucchini slices for a\nminute.\nDrain the water and add olive oil or 2 or 3\ntablespoons of butter. Salt and pepper to taste and\nstir.",
@@ -2512,7 +2512,7 @@
             "cookTime": "5 min",
             "id": "2",
             "ingredientName": null,
-            "calories": 791,
+            "calories": 295,
             "week": 1,
             "prepTime": "10 min"
         },
@@ -2717,7 +2717,7 @@
         },
         {
             "readyIn": "6 min",
-            "protein": 36,
+            "protein": 5.5,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Place walnuts into a food processor until finely chopped\n2. Place chopped walnuts into a bowl and add garlic, green\nonion, lemon juice, Bragg\ufffds Liquid Aminos, and cumin.\n3. Mix together well\n4. Add sea salt and pepper to taste\n5. Place an amount of mixture on a lettuce leaf and top with\ntomatoes\n6. Roll up and enjoy with a smile!",
@@ -2772,7 +2772,7 @@
             "cookTime": "1 min",
             "id": "20",
             "ingredientName": null,
-            "calories": 212,
+            "calories": 231,
             "week": 4,
             "prepTime": "5 min"
         },
@@ -3112,7 +3112,7 @@
         },
         {
             "readyIn": "6 min",
-            "protein": 32,
+            "protein": 5.5,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Place walnuts into a food processor until finely chopped\n2. Place chopped walnuts into a bowl and add garlic, green\nonion, lemon juice, Bragg\ufffds Liquid Aminos, and cumin.\n3. Mix together well\n4. Add sea salt and pepper to taste\n5. Place an amount of mixture on a lettuce leaf and top with\ntomatoes\n6. Roll up and enjoy with a smile!",
@@ -3167,13 +3167,13 @@
             "cookTime": "1 min",
             "id": "29",
             "ingredientName": null,
-            "calories": 521,
+            "calories": 231,
             "week": 2,
             "prepTime": "5 min"
         },
         {
             "readyIn": "5 min",
-            "protein": 22,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -3208,13 +3208,13 @@
             "cookTime": "0 min",
             "id": "10",
             "ingredientName": null,
-            "calories": 559,
+            "calories": 622,
             "week": 4,
             "prepTime": "5 min"
         },
         {
             "readyIn": "5 min",
-            "protein": 53,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -3249,7 +3249,7 @@
             "cookTime": "0 min",
             "id": "23",
             "ingredientName": null,
-            "calories": 275,
+            "calories": 622,
             "week": 4,
             "prepTime": "5 min"
         },
@@ -3409,7 +3409,7 @@
         },
         {
             "readyIn": "15 min",
-            "protein": 37,
+            "protein": 2.4,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "Plan for roughly one medium-sized zucchini per\nperson.\nSplit the zucchini in half lengthwise.\nScoop the seeds with a spoon and slice the halves\nvery thinly with a potato peeler or use a spiralizer to\nmake zoodles.\nToss the zucchini noodles in a simmering sauce of\nyour choice and serve immediately.\nIf you aren't serving your zucchini with a sauce, then\nboil half a gallon (a couple of liters) of salted water\nin a large pot and parboil the zucchini slices for a\nminute.\nDrain the water and add olive oil or 2 or 3\ntablespoons of butter. Salt and pepper to taste and\nstir.",
@@ -3436,13 +3436,13 @@
             "cookTime": "5 min",
             "id": "6",
             "ingredientName": null,
-            "calories": 689,
+            "calories": 295,
             "week": 3,
             "prepTime": "10 min"
         },
         {
             "readyIn": "25 min",
-            "protein": 57,
+            "protein": 22.4,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Season the salmon with salt and pepper. Fill saucepan\nwith thin layer of water.\n2. Place salmon on steamer rack in saucepan.\n3. Cook and cover until salmon is opaque (about 10\nminutes). Transfer to plate and let cool.\n4. Flake salmon into chunks.\n5. To make dressing and salad\nMix all ingredients together in a separate bowl using\na whisk, and whisk gently\nAssemble mixed greens salad (save some chives\nseparately) and toss with dressing.\nSprinkle with remaining chives.",
@@ -3501,7 +3501,7 @@
             "cookTime": "10 min",
             "id": "19",
             "ingredientName": null,
-            "calories": 759,
+            "calories": 300,
             "week": 3,
             "prepTime": "15 min"
         },
@@ -3848,7 +3848,7 @@
         },
         {
             "readyIn": "10 min",
-            "protein": 58,
+            "protein": 14.6,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Fry the bacon in a pan on medium high heat until\ncrispy. Put aside on a plate. Leave the rendered fat\nin the pan.\nUse the same pan to fry the eggs. Place it over\nmedium heat and crack your eggs into the bacon\ngrease (you can also crack them into a measuring\ncup and carefully pour into the pan to avoid\nsplattering of hot grease).\nCook the eggs any way you like them. For sunny\nside up - leave the eggs to fry on one side and cover\nthe pan with a lid to make sure they get cooked on\ntop. For eggs cooked over easy - flip the eggs over\nafter a few minutes and cook for another minute.\nCut the cherry tomatoes in half and fry them at the\nsame time.\nSalt and pepper to taste. Garnish with parsley.",
@@ -3879,13 +3879,13 @@
             "cookTime": "10 min",
             "id": "2",
             "ingredientName": null,
-            "calories": 619,
+            "calories": 268,
             "week": 4,
             "prepTime": "0 min"
         },
         {
             "readyIn": "45 min",
-            "protein": 6.5,
+            "protein": 31,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -3920,13 +3920,13 @@
             "cookTime": "30 min",
             "id": "8",
             "ingredientName": null,
-            "calories": 209,
+            "calories": 448,
             "week": 3,
             "prepTime": "15 min"
         },
         {
             "readyIn": "45 min",
-            "protein": 6.5,
+            "protein": 26,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -3961,13 +3961,13 @@
             "cookTime": "30 min",
             "id": "24",
             "ingredientName": null,
-            "calories": 209,
+            "calories": 446,
             "week": 1,
             "prepTime": "15 min"
         },
         {
             "readyIn": "25 min",
-            "protein": 54,
+            "protein": 22.4,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Season the salmon with salt and pepper. Fill saucepan\nwith thin layer of water.\n2. Place salmon on steamer rack in saucepan.\n3. Cook and cover until salmon is opaque (about 10\nminutes). Transfer to plate and let cool.\n4. Flake salmon into chunks.\n5. To make dressing and salad\nMix all ingredients together in a separate bowl using\na whisk, and whisk gently\nAssemble mixed greens salad (save some chives\nseparately) and toss with dressing.\nSprinkle with remaining chives.",
@@ -4026,7 +4026,7 @@
             "cookTime": "10 min",
             "id": "14",
             "ingredientName": null,
-            "calories": 296,
+            "calories": 300,
             "week": 3,
             "prepTime": "15 min"
         },
@@ -4191,7 +4191,7 @@
         },
         {
             "readyIn": "10 min",
-            "protein": 54,
+            "protein": 19.6,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "1. Place all ingredients into blender and blend on high until\nwell mixed.\nEnjoy!",
@@ -4238,7 +4238,7 @@
             "cookTime": "0 min",
             "id": "13",
             "ingredientName": null,
-            "calories": 707,
+            "calories": 330,
             "week": 1,
             "prepTime": "10 min"
         },
@@ -4305,7 +4305,7 @@
         },
         {
             "readyIn": "6 min",
-            "protein": 34,
+            "protein": 5.5,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Place walnuts into a food processor until finely chopped\n2. Place chopped walnuts into a bowl and add garlic, green\nonion, lemon juice, Bragg\ufffds Liquid Aminos, and cumin.\n3. Mix together well\n4. Add sea salt and pepper to taste\n5. Place an amount of mixture on a lettuce leaf and top with\ntomatoes\n6. Roll up and enjoy with a smile!",
@@ -4360,7 +4360,7 @@
             "cookTime": "1 min",
             "id": "20",
             "ingredientName": null,
-            "calories": 347,
+            "calories": 231,
             "week": 2,
             "prepTime": "5 min"
         },
@@ -4423,7 +4423,7 @@
         },
         {
             "readyIn": "10 min",
-            "protein": 47,
+            "protein": 19.6,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "1. Place all ingredients into blender and blend on high until\nwell mixed.\nEnjoy!",
@@ -4470,7 +4470,7 @@
             "cookTime": "0 min",
             "id": "21",
             "ingredientName": null,
-            "calories": 627,
+            "calories": 330,
             "week": 3,
             "prepTime": "10 min"
         },
@@ -4578,7 +4578,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 42,
+            "protein": 10.9,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "DIRECTIONS FOR MUESLI MIX:\nIn a medium bowl or a container with a tightly fitting lid,\nadd coconut flakes, macadamia nuts, chia seeds, pumpkin\nseeds, cinnamon, ginger, nutmeg and a pinch of salt, mix\nwell.\nStore muesli ingredients in a container with a tightly fitting\nlid for a day or two to let the flavors develop. This mixture\nwill keep for up to two months.\nDIRECTIONS FOR EACH SERVING:\nIn a small bowl, combine coconut milk, alcohol free vanilla,\nstevia and lemon juice.\nStir well, then add muesli and top with a dollop of plain\nyogurt.\nFor a softer texture, prepare a bowl the night before. Put a\nserving of muesli in a bowl and cover with the coconut milk\nmixture.\nPlace in refrigerator overnight. In the morning, enjoy plain\nor with a dollop of yogurt.",
@@ -4641,13 +4641,13 @@
             "cookTime": "0 min",
             "id": "15",
             "ingredientName": null,
-            "calories": 235,
+            "calories": 626,
             "week": 4,
             "prepTime": "5 min"
         },
         {
             "readyIn": "25 min",
-            "protein": 45,
+            "protein": 22.4,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Season the salmon with salt and pepper. Fill saucepan\nwith thin layer of water.\n2. Place salmon on steamer rack in saucepan.\n3. Cook and cover until salmon is opaque (about 10\nminutes). Transfer to plate and let cool.\n4. Flake salmon into chunks.\n5. To make dressing and salad\nMix all ingredients together in a separate bowl using\na whisk, and whisk gently\nAssemble mixed greens salad (save some chives\nseparately) and toss with dressing.\nSprinkle with remaining chives.",
@@ -4706,7 +4706,7 @@
             "cookTime": "10 min",
             "id": "14",
             "ingredientName": null,
-            "calories": 712,
+            "calories": 300,
             "week": 1,
             "prepTime": "15 min"
         },
@@ -4749,7 +4749,7 @@
         },
         {
             "readyIn": "30 min",
-            "protein": 26,
+            "protein": 11.5,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Mix the shredded cheese and almond flour/meal in a\nmicrowaveable bowl. Add the cream cheese. Microwave on\nHIGH for 1 minute.Stir then microwave on HIGH for another\n30 seconds.\n2. Add the egg, salt, rosemary and any other flavourings,\nmix gently.\n3. Place in between 2 pieces of baking parchment/paper\nand roll into a circular pizza shape. Remove the top baking\npaper/parchment. If the mixture hardens and becomes\ndifficult to work with, pop it back in the microwave for 10-20\nseconds to soften again but not too long or you will cook\nthe egg.\n4. Make fork holes all over the pizza base to ensure it cooks\nevenly.\n5. Slide the baking paper/parchment with the pizza base, on\na baking tray or pizza stone, and bake at 220\ufffdC/425\ufffdF for\n12-15 minutes, or until brown.\n6. To make the base really crispy and sturdy, flip the pizza\nover (onto baking paper/parchment) once the top has\nbrowned.\n7. Once cooked, remove from the oven and add all the\ntoppings you like. Make sure any meat is already cooked as\nthis time it goes back into the oven just to heat up the\ntoppings and melt the cheese. Bake again at 220\ufffdC/425\ufffdF\nfor 5 minutes.\n8. Topping Ideas: pepperoni, peppers, cherry tomatoes,\nolives, ground/mince beef, mushrooms, herbs to customize\nyour pizza.",
@@ -4792,7 +4792,7 @@
             "cookTime": "20 min",
             "id": "23",
             "ingredientName": null,
-            "calories": 421,
+            "calories": 221,
             "week": 1,
             "prepTime": "10 min"
         },
@@ -4924,7 +4924,7 @@
         },
         {
             "readyIn": "10 min",
-            "protein": 44,
+            "protein": 14.6,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Fry the bacon in a pan on medium high heat until\ncrispy. Put aside on a plate. Leave the rendered fat\nin the pan.\nUse the same pan to fry the eggs. Place it over\nmedium heat and crack your eggs into the bacon\ngrease (you can also crack them into a measuring\ncup and carefully pour into the pan to avoid\nsplattering of hot grease).\nCook the eggs any way you like them. For sunny\nside up - leave the eggs to fry on one side and cover\nthe pan with a lid to make sure they get cooked on\ntop. For eggs cooked over easy - flip the eggs over\nafter a few minutes and cook for another minute.\nCut the cherry tomatoes in half and fry them at the\nsame time.\nSalt and pepper to taste. Garnish with parsley.",
@@ -4955,7 +4955,7 @@
             "cookTime": "10 min",
             "id": "24",
             "ingredientName": null,
-            "calories": 585,
+            "calories": 268,
             "week": 4,
             "prepTime": "0 min"
         },
@@ -5018,7 +5018,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 37,
+            "protein": 10.9,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "DIRECTIONS FOR MUESLI MIX:\nIn a medium bowl or a container with a tightly fitting lid,\nadd coconut flakes, macadamia nuts, chia seeds, pumpkin\nseeds, cinnamon, ginger, nutmeg and a pinch of salt, mix\nwell.\nStore muesli ingredients in a container with a tightly fitting\nlid for a day or two to let the flavors develop. This mixture\nwill keep for up to two months.\nDIRECTIONS FOR EACH SERVING:\nIn a small bowl, combine coconut milk, alcohol free vanilla,\nstevia and lemon juice.\nStir well, then add muesli and top with a dollop of plain\nyogurt.\nFor a softer texture, prepare a bowl the night before. Put a\nserving of muesli in a bowl and cover with the coconut milk\nmixture.\nPlace in refrigerator overnight. In the morning, enjoy plain\nor with a dollop of yogurt.",
@@ -5081,7 +5081,7 @@
             "cookTime": "0 min",
             "id": "6",
             "ingredientName": null,
-            "calories": 477,
+            "calories": 626,
             "week": 4,
             "prepTime": "5 min"
         },
@@ -5307,7 +5307,7 @@
         },
         {
             "readyIn": "25 min",
-            "protein": 38,
+            "protein": 22.4,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Season the salmon with salt and pepper. Fill saucepan\nwith thin layer of water.\n2. Place salmon on steamer rack in saucepan.\n3. Cook and cover until salmon is opaque (about 10\nminutes). Transfer to plate and let cool.\n4. Flake salmon into chunks.\n5. To make dressing and salad\nMix all ingredients together in a separate bowl using\na whisk, and whisk gently\nAssemble mixed greens salad (save some chives\nseparately) and toss with dressing.\nSprinkle with remaining chives.",
@@ -5366,13 +5366,13 @@
             "cookTime": "10 min",
             "id": "19",
             "ingredientName": null,
-            "calories": 247,
+            "calories": 300,
             "week": 1,
             "prepTime": "15 min"
         },
         {
             "readyIn": "15 min",
-            "protein": 37,
+            "protein": 2.4,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "Plan for roughly one medium-sized zucchini per\nperson.\nSplit the zucchini in half lengthwise.\nScoop the seeds with a spoon and slice the halves\nvery thinly with a potato peeler or use a spiralizer to\nmake zoodles.\nToss the zucchini noodles in a simmering sauce of\nyour choice and serve immediately.\nIf you aren't serving your zucchini with a sauce, then\nboil half a gallon (a couple of liters) of salted water\nin a large pot and parboil the zucchini slices for a\nminute.\nDrain the water and add olive oil or 2 or 3\ntablespoons of butter. Salt and pepper to taste and\nstir.",
@@ -5399,7 +5399,7 @@
             "cookTime": "5 min",
             "id": "6",
             "ingredientName": null,
-            "calories": 519,
+            "calories": 295,
             "week": 1,
             "prepTime": "10 min"
         },
@@ -5458,7 +5458,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 23,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -5493,7 +5493,7 @@
             "cookTime": "0 min",
             "id": "10",
             "ingredientName": null,
-            "calories": 401,
+            "calories": 622,
             "week": 2,
             "prepTime": "5 min"
         },
@@ -5597,7 +5597,7 @@
         },
         {
             "readyIn": "30 min",
-            "protein": 22,
+            "protein": 11.5,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Mix the shredded cheese and almond flour/meal in a\nmicrowaveable bowl. Add the cream cheese. Microwave on\nHIGH for 1 minute.Stir then microwave on HIGH for another\n30 seconds.\n2. Add the egg, salt, rosemary and any other flavourings,\nmix gently.\n3. Place in between 2 pieces of baking parchment/paper\nand roll into a circular pizza shape. Remove the top baking\npaper/parchment. If the mixture hardens and becomes\ndifficult to work with, pop it back in the microwave for 10-20\nseconds to soften again but not too long or you will cook\nthe egg.\n4. Make fork holes all over the pizza base to ensure it cooks\nevenly.\n5. Slide the baking paper/parchment with the pizza base, on\na baking tray or pizza stone, and bake at 220\ufffdC/425\ufffdF for\n12-15 minutes, or until brown.\n6. To make the base really crispy and sturdy, flip the pizza\nover (onto baking paper/parchment) once the top has\nbrowned.\n7. Once cooked, remove from the oven and add all the\ntoppings you like. Make sure any meat is already cooked as\nthis time it goes back into the oven just to heat up the\ntoppings and melt the cheese. Bake again at 220\ufffdC/425\ufffdF\nfor 5 minutes.\n8. Topping Ideas: pepperoni, peppers, cherry tomatoes,\nolives, ground/mince beef, mushrooms, herbs to customize\nyour pizza.",
@@ -5640,7 +5640,7 @@
             "cookTime": "20 min",
             "id": "23",
             "ingredientName": null,
-            "calories": 574,
+            "calories": 221,
             "week": 3,
             "prepTime": "10 min"
         },
@@ -5805,7 +5805,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 24,
+            "protein": 10.9,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "DIRECTIONS FOR MUESLI MIX:\nIn a medium bowl or a container with a tightly fitting lid,\nadd coconut flakes, macadamia nuts, chia seeds, pumpkin\nseeds, cinnamon, ginger, nutmeg and a pinch of salt, mix\nwell.\nStore muesli ingredients in a container with a tightly fitting\nlid for a day or two to let the flavors develop. This mixture\nwill keep for up to two months.\nDIRECTIONS FOR EACH SERVING:\nIn a small bowl, combine coconut milk, alcohol free vanilla,\nstevia and lemon juice.\nStir well, then add muesli and top with a dollop of plain\nyogurt.\nFor a softer texture, prepare a bowl the night before. Put a\nserving of muesli in a bowl and cover with the coconut milk\nmixture.\nPlace in refrigerator overnight. In the morning, enjoy plain\nor with a dollop of yogurt.",
@@ -5868,7 +5868,7 @@
             "cookTime": "0 min",
             "id": "15",
             "ingredientName": null,
-            "calories": 722,
+            "calories": 626,
             "week": 2,
             "prepTime": "5 min"
         },
@@ -6318,7 +6318,7 @@
         },
         {
             "readyIn": "30 min",
-            "protein": 26,
+            "protein": 36.0,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Preheat oven to 300 degrees F and set aside a\nmedium-large sized baking dish. Heat a large skillet\non your stovetop over medium heat. Prep your\nvegetables according to ingredient instructions.\nMix the yogurt, hemp seeds, garlic, and a pinch of\nsalt and pepper in a small bowl. Set aside.\nAdd the oil to the skillet and let it heat up for a few\nseconds. Once warmed, add the leek and scallion to\nthe skillet and reduce the heat to low. Cook until\nsoft, about 10 minutes. Once soft, add the spinach\nand lemon juice; season with salt. Increase heat to\nmedium-high; cook, turning frequently until wilted,\n4\ufffd5 minutes.\nTransfer spinach mixture to your baking dish, leaving\nany excess liquid behind. Make 4 deep indentations\nin centre of the spinach mix in the baking dish.\nCarefully break 1 egg into each indentation, taking\ncare to keep yolks intact.\nPlace your baking dish in the hot oven and bake\nuntil your egg whites are set, about 10\ufffd15 minutes.\nMeanwhile, warm a saucepan (or the skillet you\nused for the vegetables) on your stovetop and\nmelt 2 tablespoon of butter over medium-low heat.\nAdd the chili powder and a pinch of salt and cook\nuntil butter starts to foam and browned bits form at\nbottom of pan, 1\ufffd2 minutes. Add oregano and cook\nfor 30 seconds longer.\nRemove your eggs from the oven once they are\ncooked and serve by divide the yogurt mixture over\nthe 2 portions of the spinach and eggs and then\ndrizzling with the spiced butter. Serve immediately.",
@@ -6389,7 +6389,7 @@
             "cookTime": "20 min",
             "id": "1",
             "ingredientName": null,
-            "calories": 590,
+            "calories": 652,
             "week": 3,
             "prepTime": "10 min"
         },

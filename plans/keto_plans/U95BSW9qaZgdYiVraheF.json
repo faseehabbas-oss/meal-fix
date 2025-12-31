@@ -7,7 +7,7 @@
     "meals": [
         {
             "readyIn": "30 min",
-            "protein": 30,
+            "protein": 11.5,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Mix the shredded cheese and almond flour/meal in a\nmicrowaveable bowl. Add the cream cheese. Microwave on\nHIGH for 1 minute.Stir then microwave on HIGH for another\n30 seconds.\n2. Add the egg, salt, rosemary and any other flavourings,\nmix gently.\n3. Place in between 2 pieces of baking parchment/paper\nand roll into a circular pizza shape. Remove the top baking\npaper/parchment. If the mixture hardens and becomes\ndifficult to work with, pop it back in the microwave for 10-20\nseconds to soften again but not too long or you will cook\nthe egg.\n4. Make fork holes all over the pizza base to ensure it cooks\nevenly.\n5. Slide the baking paper/parchment with the pizza base, on\na baking tray or pizza stone, and bake at 220\ufffdC/425\ufffdF for\n12-15 minutes, or until brown.\n6. To make the base really crispy and sturdy, flip the pizza\nover (onto baking paper/parchment) once the top has\nbrowned.\n7. Once cooked, remove from the oven and add all the\ntoppings you like. Make sure any meat is already cooked as\nthis time it goes back into the oven just to heat up the\ntoppings and melt the cheese. Bake again at 220\ufffdC/425\ufffdF\nfor 5 minutes.\n8. Topping Ideas: pepperoni, peppers, cherry tomatoes,\nolives, ground/mince beef, mushrooms, herbs to customize\nyour pizza.",
@@ -50,7 +50,7 @@
             "cookTime": "20 min",
             "id": "40",
             "ingredientName": null,
-            "calories": 736,
+            "calories": 221,
             "week": 3,
             "prepTime": "10 min"
         },
@@ -149,7 +149,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 24,
+            "protein": 10.9,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "DIRECTIONS FOR MUESLI MIX:\nIn a medium bowl or a container with a tightly fitting lid,\nadd coconut flakes, macadamia nuts, chia seeds, pumpkin\nseeds, cinnamon, ginger, nutmeg and a pinch of salt, mix\nwell.\nStore muesli ingredients in a container with a tightly fitting\nlid for a day or two to let the flavors develop. This mixture\nwill keep for up to two months.\nDIRECTIONS FOR EACH SERVING:\nIn a small bowl, combine coconut milk, alcohol free vanilla,\nstevia and lemon juice.\nStir well, then add muesli and top with a dollop of plain\nyogurt.\nFor a softer texture, prepare a bowl the night before. Put a\nserving of muesli in a bowl and cover with the coconut milk\nmixture.\nPlace in refrigerator overnight. In the morning, enjoy plain\nor with a dollop of yogurt.",
@@ -212,7 +212,7 @@
             "cookTime": "0 min",
             "id": "18",
             "ingredientName": null,
-            "calories": 761,
+            "calories": 626,
             "week": 4,
             "prepTime": "5 min"
         },
@@ -1043,7 +1043,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 37,
+            "protein": 5.2,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine everything in a blender until smooth.\nServe and enjoy!",
@@ -1090,7 +1090,7 @@
             "cookTime": "0 min",
             "id": "30",
             "ingredientName": null,
-            "calories": 764,
+            "calories": 282,
             "week": 1,
             "prepTime": "5 min"
         },
@@ -1320,7 +1320,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 24,
+            "protein": 10.9,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "DIRECTIONS FOR MUESLI MIX:\nIn a medium bowl or a container with a tightly fitting lid,\nadd coconut flakes, macadamia nuts, chia seeds, pumpkin\nseeds, cinnamon, ginger, nutmeg and a pinch of salt, mix\nwell.\nStore muesli ingredients in a container with a tightly fitting\nlid for a day or two to let the flavors develop. This mixture\nwill keep for up to two months.\nDIRECTIONS FOR EACH SERVING:\nIn a small bowl, combine coconut milk, alcohol free vanilla,\nstevia and lemon juice.\nStir well, then add muesli and top with a dollop of plain\nyogurt.\nFor a softer texture, prepare a bowl the night before. Put a\nserving of muesli in a bowl and cover with the coconut milk\nmixture.\nPlace in refrigerator overnight. In the morning, enjoy plain\nor with a dollop of yogurt.",
@@ -1383,13 +1383,13 @@
             "cookTime": "0 min",
             "id": "13",
             "ingredientName": null,
-            "calories": 476,
+            "calories": 626,
             "week": 2,
             "prepTime": "5 min"
         },
         {
             "readyIn": "35 min",
-            "protein": 30,
+            "protein": 22.6,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Preheat oven to 400F. Line a baking sheet with\nparchment paper or foil.\n2. Cook the onions in the vegetable oil in a pan over\nmedium heat for about 5 minutes until softened. Turn off\nthe heat, remove the pan from the heat, and allow the\nonions to cool.\n3. In a large bowl, mix the ground beef, cooked onions,\nrosemary, sage, coriander, salt, and black pepper together\nuntil thoroughly combined.\n4. Form 2 inch balls from the mixture with your hands.\nArrange the balls on the baking sheet spaced evenly apart.\n5. Bake for about 20 minutes in the oven or until the\nmeatballs are thoroughly cooked.",
@@ -1436,7 +1436,7 @@
             "cookTime": "20 min",
             "id": "32",
             "ingredientName": null,
-            "calories": 451,
+            "calories": 260,
             "week": 1,
             "prepTime": "15 min"
         },
@@ -1495,7 +1495,7 @@
         },
         {
             "readyIn": "35 min",
-            "protein": 37,
+            "protein": 22.6,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Preheat oven to 400F. Line a baking sheet with\nparchment paper or foil.\n2. Cook the onions in the vegetable oil in a pan over\nmedium heat for about 5 minutes until softened. Turn off\nthe heat, remove the pan from the heat, and allow the\nonions to cool.\n3. In a large bowl, mix the ground beef, cooked onions,\nrosemary, sage, coriander, salt, and black pepper together\nuntil thoroughly combined.\n4. Form 2 inch balls from the mixture with your hands.\nArrange the balls on the baking sheet spaced evenly apart.\n5. Bake for about 20 minutes in the oven or until the\nmeatballs are thoroughly cooked.",
@@ -1542,7 +1542,7 @@
             "cookTime": "20 min",
             "id": "9",
             "ingredientName": null,
-            "calories": 544,
+            "calories": 260,
             "week": 3,
             "prepTime": "15 min"
         },
@@ -1597,7 +1597,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 23,
+            "protein": 10.9,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "DIRECTIONS FOR MUESLI MIX:\nIn a medium bowl or a container with a tightly fitting lid,\nadd coconut flakes, macadamia nuts, chia seeds, pumpkin\nseeds, cinnamon, ginger, nutmeg and a pinch of salt, mix\nwell.\nStore muesli ingredients in a container with a tightly fitting\nlid for a day or two to let the flavors develop. This mixture\nwill keep for up to two months.\nDIRECTIONS FOR EACH SERVING:\nIn a small bowl, combine coconut milk, alcohol free vanilla,\nstevia and lemon juice.\nStir well, then add muesli and top with a dollop of plain\nyogurt.\nFor a softer texture, prepare a bowl the night before. Put a\nserving of muesli in a bowl and cover with the coconut milk\nmixture.\nPlace in refrigerator overnight. In the morning, enjoy plain\nor with a dollop of yogurt.",
@@ -1660,7 +1660,7 @@
             "cookTime": "0 min",
             "id": "26",
             "ingredientName": null,
-            "calories": 282,
+            "calories": 626,
             "week": 2,
             "prepTime": "5 min"
         },
@@ -1719,7 +1719,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 21,
+            "protein": 10.9,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "DIRECTIONS FOR MUESLI MIX:\nIn a medium bowl or a container with a tightly fitting lid,\nadd coconut flakes, macadamia nuts, chia seeds, pumpkin\nseeds, cinnamon, ginger, nutmeg and a pinch of salt, mix\nwell.\nStore muesli ingredients in a container with a tightly fitting\nlid for a day or two to let the flavors develop. This mixture\nwill keep for up to two months.\nDIRECTIONS FOR EACH SERVING:\nIn a small bowl, combine coconut milk, alcohol free vanilla,\nstevia and lemon juice.\nStir well, then add muesli and top with a dollop of plain\nyogurt.\nFor a softer texture, prepare a bowl the night before. Put a\nserving of muesli in a bowl and cover with the coconut milk\nmixture.\nPlace in refrigerator overnight. In the morning, enjoy plain\nor with a dollop of yogurt.",
@@ -1782,7 +1782,7 @@
             "cookTime": "0 min",
             "id": "13",
             "ingredientName": null,
-            "calories": 334,
+            "calories": 626,
             "week": 4,
             "prepTime": "5 min"
         },
@@ -1837,7 +1837,7 @@
         },
         {
             "readyIn": "30 min",
-            "protein": 40,
+            "protein": 11.5,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Mix the shredded cheese and almond flour/meal in a\nmicrowaveable bowl. Add the cream cheese. Microwave on\nHIGH for 1 minute.Stir then microwave on HIGH for another\n30 seconds.\n2. Add the egg, salt, rosemary and any other flavourings,\nmix gently.\n3. Place in between 2 pieces of baking parchment/paper\nand roll into a circular pizza shape. Remove the top baking\npaper/parchment. If the mixture hardens and becomes\ndifficult to work with, pop it back in the microwave for 10-20\nseconds to soften again but not too long or you will cook\nthe egg.\n4. Make fork holes all over the pizza base to ensure it cooks\nevenly.\n5. Slide the baking paper/parchment with the pizza base, on\na baking tray or pizza stone, and bake at 220\ufffdC/425\ufffdF for\n12-15 minutes, or until brown.\n6. To make the base really crispy and sturdy, flip the pizza\nover (onto baking paper/parchment) once the top has\nbrowned.\n7. Once cooked, remove from the oven and add all the\ntoppings you like. Make sure any meat is already cooked as\nthis time it goes back into the oven just to heat up the\ntoppings and melt the cheese. Bake again at 220\ufffdC/425\ufffdF\nfor 5 minutes.\n8. Topping Ideas: pepperoni, peppers, cherry tomatoes,\nolives, ground/mince beef, mushrooms, herbs to customize\nyour pizza.",
@@ -1880,13 +1880,13 @@
             "cookTime": "20 min",
             "id": "40",
             "ingredientName": null,
-            "calories": 513,
+            "calories": 221,
             "week": 1,
             "prepTime": "10 min"
         },
         {
             "readyIn": "1 h 20 min",
-            "protein": 52,
+            "protein": 9.9,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "In a large saucepan of boiling salted water, cook the\ncauliflower until tender, about 8 minutes. Or steam. Drain,\nrinse under cold water until cool and drain well.\nIn a blender, combine cooked cauliflower, almond milk,\nwater, raw almonds, chopped garlic, lemon juice, onion,\ncucumber, 1 1/4 cups (reserve 1/4 cup for toasting) almonds,\nblend until smooth. Add the olive oil and pulse just until\nincorporated. If necessary, add more water to thin the soup.\nSeason the soup with salt and refrigerate until chilled, about\n1 hour.\nToasted almonds: Preheat the oven to 350\ufffd. Spread the\nremaining 1/4 cup of slivered almonds on a cookie sheet or\npie plate and toast for about 6 minutes, until fragrant and\nlightly golden.\nPour the soup into bowls.\nGarnish the soup with the toasted almonds and enjoy!",
@@ -1941,7 +1941,7 @@
             "cookTime": "15 min",
             "id": "14",
             "ingredientName": null,
-            "calories": 511,
+            "calories": 384,
             "week": 2,
             "prepTime": "1 h 5 min"
         },
@@ -2065,7 +2065,7 @@
         },
         {
             "readyIn": "35 min",
-            "protein": 28,
+            "protein": 22.6,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Preheat oven to 400F. Line a baking sheet with\nparchment paper or foil.\n2. Cook the onions in the vegetable oil in a pan over\nmedium heat for about 5 minutes until softened. Turn off\nthe heat, remove the pan from the heat, and allow the\nonions to cool.\n3. In a large bowl, mix the ground beef, cooked onions,\nrosemary, sage, coriander, salt, and black pepper together\nuntil thoroughly combined.\n4. Form 2 inch balls from the mixture with your hands.\nArrange the balls on the baking sheet spaced evenly apart.\n5. Bake for about 20 minutes in the oven or until the\nmeatballs are thoroughly cooked.",
@@ -2112,7 +2112,7 @@
             "cookTime": "20 min",
             "id": "19",
             "ingredientName": null,
-            "calories": 528,
+            "calories": 260,
             "week": 1,
             "prepTime": "15 min"
         },
@@ -2232,7 +2232,7 @@
         },
         {
             "readyIn": "10 min",
-            "protein": 32,
+            "protein": 9.0,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Process the parsley, mint, garlic and sea salt in a food\nprocessor until minced.\n\n2. Transfer the herbs and salt to a large mixing bowl.\n\n3. Add the tomatoes, hemp seeds, olive oil and lemon juice.\nMix well and serve.",
@@ -2279,7 +2279,7 @@
             "cookTime": "0 min",
             "id": "25",
             "ingredientName": null,
-            "calories": 569,
+            "calories": 208,
             "week": 3,
             "prepTime": "10 min"
         },
@@ -2382,7 +2382,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 29,
+            "protein": 10.9,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "DIRECTIONS FOR MUESLI MIX:\nIn a medium bowl or a container with a tightly fitting lid,\nadd coconut flakes, macadamia nuts, chia seeds, pumpkin\nseeds, cinnamon, ginger, nutmeg and a pinch of salt, mix\nwell.\nStore muesli ingredients in a container with a tightly fitting\nlid for a day or two to let the flavors develop. This mixture\nwill keep for up to two months.\nDIRECTIONS FOR EACH SERVING:\nIn a small bowl, combine coconut milk, alcohol free vanilla,\nstevia and lemon juice.\nStir well, then add muesli and top with a dollop of plain\nyogurt.\nFor a softer texture, prepare a bowl the night before. Put a\nserving of muesli in a bowl and cover with the coconut milk\nmixture.\nPlace in refrigerator overnight. In the morning, enjoy plain\nor with a dollop of yogurt.",
@@ -2445,13 +2445,13 @@
             "cookTime": "0 min",
             "id": "5",
             "ingredientName": null,
-            "calories": 785,
+            "calories": 626,
             "week": 2,
             "prepTime": "5 min"
         },
         {
             "readyIn": "10 min",
-            "protein": 55,
+            "protein": 9.0,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Process the parsley, mint, garlic and sea salt in a food\nprocessor until minced.\n\n2. Transfer the herbs and salt to a large mixing bowl.\n\n3. Add the tomatoes, hemp seeds, olive oil and lemon juice.\nMix well and serve.",
@@ -2498,7 +2498,7 @@
             "cookTime": "0 min",
             "id": "25",
             "ingredientName": null,
-            "calories": 670,
+            "calories": 208,
             "week": 1,
             "prepTime": "10 min"
         },
@@ -2667,7 +2667,7 @@
         },
         {
             "readyIn": "35 min",
-            "protein": 49,
+            "protein": 22.6,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Preheat oven to 400F. Line a baking sheet with\nparchment paper or foil.\n2. Cook the onions in the vegetable oil in a pan over\nmedium heat for about 5 minutes until softened. Turn off\nthe heat, remove the pan from the heat, and allow the\nonions to cool.\n3. In a large bowl, mix the ground beef, cooked onions,\nrosemary, sage, coriander, salt, and black pepper together\nuntil thoroughly combined.\n4. Form 2 inch balls from the mixture with your hands.\nArrange the balls on the baking sheet spaced evenly apart.\n5. Bake for about 20 minutes in the oven or until the\nmeatballs are thoroughly cooked.",
@@ -2714,13 +2714,13 @@
             "cookTime": "20 min",
             "id": "19",
             "ingredientName": null,
-            "calories": 257,
+            "calories": 260,
             "week": 3,
             "prepTime": "15 min"
         },
         {
             "readyIn": "5 min",
-            "protein": 46,
+            "protein": 0.8,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "Mix everything up and enjoy as an easy and tasty side.",
@@ -2751,7 +2751,7 @@
             "cookTime": "0 min",
             "id": "39",
             "ingredientName": null,
-            "calories": 688,
+            "calories": 79,
             "week": 3,
             "prepTime": "5 min"
         },
@@ -2854,7 +2854,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 60,
+            "protein": 10.9,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "DIRECTIONS FOR MUESLI MIX:\nIn a medium bowl or a container with a tightly fitting lid,\nadd coconut flakes, macadamia nuts, chia seeds, pumpkin\nseeds, cinnamon, ginger, nutmeg and a pinch of salt, mix\nwell.\nStore muesli ingredients in a container with a tightly fitting\nlid for a day or two to let the flavors develop. This mixture\nwill keep for up to two months.\nDIRECTIONS FOR EACH SERVING:\nIn a small bowl, combine coconut milk, alcohol free vanilla,\nstevia and lemon juice.\nStir well, then add muesli and top with a dollop of plain\nyogurt.\nFor a softer texture, prepare a bowl the night before. Put a\nserving of muesli in a bowl and cover with the coconut milk\nmixture.\nPlace in refrigerator overnight. In the morning, enjoy plain\nor with a dollop of yogurt.",
@@ -2917,13 +2917,13 @@
             "cookTime": "0 min",
             "id": "5",
             "ingredientName": null,
-            "calories": 264,
+            "calories": 626,
             "week": 4,
             "prepTime": "5 min"
         },
         {
             "readyIn": "5 min",
-            "protein": 37,
+            "protein": 0.8,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "Mix everything up and enjoy as an easy and tasty side.",
@@ -2954,7 +2954,7 @@
             "cookTime": "0 min",
             "id": "26",
             "ingredientName": null,
-            "calories": 243,
+            "calories": 79,
             "week": 1,
             "prepTime": "5 min"
         },
@@ -3290,7 +3290,7 @@
         },
         {
             "readyIn": "30 min",
-            "protein": 44,
+            "protein": 11.5,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Mix the shredded cheese and almond flour/meal in a\nmicrowaveable bowl. Add the cream cheese. Microwave on\nHIGH for 1 minute.Stir then microwave on HIGH for another\n30 seconds.\n2. Add the egg, salt, rosemary and any other flavourings,\nmix gently.\n3. Place in between 2 pieces of baking parchment/paper\nand roll into a circular pizza shape. Remove the top baking\npaper/parchment. If the mixture hardens and becomes\ndifficult to work with, pop it back in the microwave for 10-20\nseconds to soften again but not too long or you will cook\nthe egg.\n4. Make fork holes all over the pizza base to ensure it cooks\nevenly.\n5. Slide the baking paper/parchment with the pizza base, on\na baking tray or pizza stone, and bake at 220\ufffdC/425\ufffdF for\n12-15 minutes, or until brown.\n6. To make the base really crispy and sturdy, flip the pizza\nover (onto baking paper/parchment) once the top has\nbrowned.\n7. Once cooked, remove from the oven and add all the\ntoppings you like. Make sure any meat is already cooked as\nthis time it goes back into the oven just to heat up the\ntoppings and melt the cheese. Bake again at 220\ufffdC/425\ufffdF\nfor 5 minutes.\n8. Topping Ideas: pepperoni, peppers, cherry tomatoes,\nolives, ground/mince beef, mushrooms, herbs to customize\nyour pizza.",
@@ -3333,7 +3333,7 @@
             "cookTime": "20 min",
             "id": "34",
             "ingredientName": null,
-            "calories": 672,
+            "calories": 221,
             "week": 3,
             "prepTime": "10 min"
         },
@@ -3461,7 +3461,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 60,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -3496,13 +3496,13 @@
             "cookTime": "0 min",
             "id": "9",
             "ingredientName": null,
-            "calories": 524,
+            "calories": 622,
             "week": 2,
             "prepTime": "5 min"
         },
         {
             "readyIn": "45 min",
-            "protein": 6.5,
+            "protein": 47,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -3537,7 +3537,7 @@
             "cookTime": "30 min",
             "id": "35",
             "ingredientName": null,
-            "calories": 209,
+            "calories": 658,
             "week": 3,
             "prepTime": "15 min"
         },
@@ -3596,7 +3596,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 37,
+            "protein": 5.2,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine everything in a blender until smooth.\nServe and enjoy!",
@@ -3643,7 +3643,7 @@
             "cookTime": "0 min",
             "id": "36",
             "ingredientName": null,
-            "calories": 585,
+            "calories": 282,
             "week": 1,
             "prepTime": "5 min"
         },
@@ -3731,7 +3731,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 21,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -3766,13 +3766,13 @@
             "cookTime": "0 min",
             "id": "1",
             "ingredientName": null,
-            "calories": 338,
+            "calories": 622,
             "week": 4,
             "prepTime": "5 min"
         },
         {
             "readyIn": "20 min",
-            "protein": 36,
+            "protein": 14.8,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "Optional:\nSteam the tempeh.\nThe easiest way to do this is by wrapping it in a wet\npaper towel and placing in a microwave safe bowl.\nMicrowave in 2 minute increments, for 4 to 6\nminutes total, stopping and letting it sit for a minute\nor so between increments.\n1. Stir coconut aminos, garlic, and ginger together in a\nsmall bowl.\n2. Coat the bottom of a large skillet with 1 tablespoon of\navocado oil and place over medium heat.\n3. Add tempeh cubes in a single layer. Cook about 10\nminutes, flipping once or twice, until browned on multiple\nsides. Remove from heat.\n4. Sprinkle the stir-fried tempeh with sesame seeds.\nServe and enjoy!",
@@ -3811,13 +3811,13 @@
             "cookTime": "15 min",
             "id": "24",
             "ingredientName": null,
-            "calories": 467,
+            "calories": 240,
             "week": 3,
             "prepTime": "5 min"
         },
         {
             "readyIn": "5 min",
-            "protein": 54,
+            "protein": 10.9,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "DIRECTIONS FOR MUESLI MIX:\nIn a medium bowl or a container with a tightly fitting lid,\nadd coconut flakes, macadamia nuts, chia seeds, pumpkin\nseeds, cinnamon, ginger, nutmeg and a pinch of salt, mix\nwell.\nStore muesli ingredients in a container with a tightly fitting\nlid for a day or two to let the flavors develop. This mixture\nwill keep for up to two months.\nDIRECTIONS FOR EACH SERVING:\nIn a small bowl, combine coconut milk, alcohol free vanilla,\nstevia and lemon juice.\nStir well, then add muesli and top with a dollop of plain\nyogurt.\nFor a softer texture, prepare a bowl the night before. Put a\nserving of muesli in a bowl and cover with the coconut milk\nmixture.\nPlace in refrigerator overnight. In the morning, enjoy plain\nor with a dollop of yogurt.",
@@ -3880,7 +3880,7 @@
             "cookTime": "0 min",
             "id": "26",
             "ingredientName": null,
-            "calories": 329,
+            "calories": 626,
             "week": 4,
             "prepTime": "5 min"
         },
@@ -4190,7 +4190,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 39,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -4225,7 +4225,7 @@
             "cookTime": "0 min",
             "id": "9",
             "ingredientName": null,
-            "calories": 776,
+            "calories": 622,
             "week": 4,
             "prepTime": "5 min"
         },
@@ -4325,7 +4325,7 @@
         },
         {
             "readyIn": "1 h 20 min",
-            "protein": 56,
+            "protein": 9.9,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "In a large saucepan of boiling salted water, cook the\ncauliflower until tender, about 8 minutes. Or steam. Drain,\nrinse under cold water until cool and drain well.\nIn a blender, combine cooked cauliflower, almond milk,\nwater, raw almonds, chopped garlic, lemon juice, onion,\ncucumber, 1 1/4 cups (reserve 1/4 cup for toasting) almonds,\nblend until smooth. Add the olive oil and pulse just until\nincorporated. If necessary, add more water to thin the soup.\nSeason the soup with salt and refrigerate until chilled, about\n1 hour.\nToasted almonds: Preheat the oven to 350\ufffd. Spread the\nremaining 1/4 cup of slivered almonds on a cookie sheet or\npie plate and toast for about 6 minutes, until fragrant and\nlightly golden.\nPour the soup into bowls.\nGarnish the soup with the toasted almonds and enjoy!",
@@ -4380,13 +4380,13 @@
             "cookTime": "15 min",
             "id": "14",
             "ingredientName": null,
-            "calories": 560,
+            "calories": 384,
             "week": 4,
             "prepTime": "1 h 5 min"
         },
         {
             "readyIn": "5 min",
-            "protein": 28,
+            "protein": 5.2,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine everything in a blender until smooth.\nServe and enjoy!",
@@ -4433,7 +4433,7 @@
             "cookTime": "0 min",
             "id": "36",
             "ingredientName": null,
-            "calories": 301,
+            "calories": 282,
             "week": 3,
             "prepTime": "5 min"
         },
@@ -5045,7 +5045,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 57,
+            "protein": 5.2,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine everything in a blender until smooth.\nServe and enjoy!",
@@ -5092,7 +5092,7 @@
             "cookTime": "0 min",
             "id": "30",
             "ingredientName": null,
-            "calories": 691,
+            "calories": 282,
             "week": 3,
             "prepTime": "5 min"
         },
@@ -5359,7 +5359,7 @@
         },
         {
             "readyIn": "35 min",
-            "protein": 25,
+            "protein": 22.6,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Preheat oven to 400F. Line a baking sheet with\nparchment paper or foil.\n2. Cook the onions in the vegetable oil in a pan over\nmedium heat for about 5 minutes until softened. Turn off\nthe heat, remove the pan from the heat, and allow the\nonions to cool.\n3. In a large bowl, mix the ground beef, cooked onions,\nrosemary, sage, coriander, salt, and black pepper together\nuntil thoroughly combined.\n4. Form 2 inch balls from the mixture with your hands.\nArrange the balls on the baking sheet spaced evenly apart.\n5. Bake for about 20 minutes in the oven or until the\nmeatballs are thoroughly cooked.",
@@ -5406,13 +5406,13 @@
             "cookTime": "20 min",
             "id": "9",
             "ingredientName": null,
-            "calories": 449,
+            "calories": 260,
             "week": 1,
             "prepTime": "15 min"
         },
         {
             "readyIn": "35 min",
-            "protein": 41,
+            "protein": 22.6,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Preheat oven to 400F. Line a baking sheet with\nparchment paper or foil.\n2. Cook the onions in the vegetable oil in a pan over\nmedium heat for about 5 minutes until softened. Turn off\nthe heat, remove the pan from the heat, and allow the\nonions to cool.\n3. In a large bowl, mix the ground beef, cooked onions,\nrosemary, sage, coriander, salt, and black pepper together\nuntil thoroughly combined.\n4. Form 2 inch balls from the mixture with your hands.\nArrange the balls on the baking sheet spaced evenly apart.\n5. Bake for about 20 minutes in the oven or until the\nmeatballs are thoroughly cooked.",
@@ -5459,7 +5459,7 @@
             "cookTime": "20 min",
             "id": "32",
             "ingredientName": null,
-            "calories": 446,
+            "calories": 260,
             "week": 3,
             "prepTime": "15 min"
         },
@@ -5641,7 +5641,7 @@
         },
         {
             "readyIn": "45 min",
-            "protein": 6.5,
+            "protein": 37,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -5676,13 +5676,13 @@
             "cookTime": "30 min",
             "id": "35",
             "ingredientName": null,
-            "calories": 209,
+            "calories": 616,
             "week": 1,
             "prepTime": "15 min"
         },
         {
             "readyIn": "1 h 20 min",
-            "protein": 29,
+            "protein": 9.9,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "In a large saucepan of boiling salted water, cook the\ncauliflower until tender, about 8 minutes. Or steam. Drain,\nrinse under cold water until cool and drain well.\nIn a blender, combine cooked cauliflower, almond milk,\nwater, raw almonds, chopped garlic, lemon juice, onion,\ncucumber, 1 1/4 cups (reserve 1/4 cup for toasting) almonds,\nblend until smooth. Add the olive oil and pulse just until\nincorporated. If necessary, add more water to thin the soup.\nSeason the soup with salt and refrigerate until chilled, about\n1 hour.\nToasted almonds: Preheat the oven to 350\ufffd. Spread the\nremaining 1/4 cup of slivered almonds on a cookie sheet or\npie plate and toast for about 6 minutes, until fragrant and\nlightly golden.\nPour the soup into bowls.\nGarnish the soup with the toasted almonds and enjoy!",
@@ -5737,7 +5737,7 @@
             "cookTime": "15 min",
             "id": "20",
             "ingredientName": null,
-            "calories": 221,
+            "calories": 384,
             "week": 2,
             "prepTime": "1 h 5 min"
         },
@@ -5821,7 +5821,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 25,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -5856,7 +5856,7 @@
             "cookTime": "0 min",
             "id": "22",
             "ingredientName": null,
-            "calories": 317,
+            "calories": 622,
             "week": 2,
             "prepTime": "5 min"
         },
@@ -5952,7 +5952,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 51,
+            "protein": 0.8,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "Mix everything up and enjoy as an easy and tasty side.",
@@ -5983,7 +5983,7 @@
             "cookTime": "0 min",
             "id": "26",
             "ingredientName": null,
-            "calories": 532,
+            "calories": 79,
             "week": 3,
             "prepTime": "5 min"
         },
@@ -6038,7 +6038,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 58,
+            "protein": 10.9,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "DIRECTIONS FOR MUESLI MIX:\nIn a medium bowl or a container with a tightly fitting lid,\nadd coconut flakes, macadamia nuts, chia seeds, pumpkin\nseeds, cinnamon, ginger, nutmeg and a pinch of salt, mix\nwell.\nStore muesli ingredients in a container with a tightly fitting\nlid for a day or two to let the flavors develop. This mixture\nwill keep for up to two months.\nDIRECTIONS FOR EACH SERVING:\nIn a small bowl, combine coconut milk, alcohol free vanilla,\nstevia and lemon juice.\nStir well, then add muesli and top with a dollop of plain\nyogurt.\nFor a softer texture, prepare a bowl the night before. Put a\nserving of muesli in a bowl and cover with the coconut milk\nmixture.\nPlace in refrigerator overnight. In the morning, enjoy plain\nor with a dollop of yogurt.",
@@ -6101,13 +6101,13 @@
             "cookTime": "0 min",
             "id": "18",
             "ingredientName": null,
-            "calories": 480,
+            "calories": 626,
             "week": 2,
             "prepTime": "5 min"
         },
         {
             "readyIn": "5 min",
-            "protein": 52,
+            "protein": 0.8,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "Mix everything up and enjoy as an easy and tasty side.",
@@ -6138,7 +6138,7 @@
             "cookTime": "0 min",
             "id": "39",
             "ingredientName": null,
-            "calories": 512,
+            "calories": 79,
             "week": 1,
             "prepTime": "5 min"
         },
@@ -6242,7 +6242,7 @@
         },
         {
             "readyIn": "10 min",
-            "protein": 39,
+            "protein": 9.0,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Process the parsley, mint, garlic and sea salt in a food\nprocessor until minced.\n\n2. Transfer the herbs and salt to a large mixing bowl.\n\n3. Add the tomatoes, hemp seeds, olive oil and lemon juice.\nMix well and serve.",
@@ -6289,7 +6289,7 @@
             "cookTime": "0 min",
             "id": "18",
             "ingredientName": null,
-            "calories": 650,
+            "calories": 208,
             "week": 1,
             "prepTime": "10 min"
         },
@@ -6473,7 +6473,7 @@
         },
         {
             "readyIn": "45 min",
-            "protein": 6.5,
+            "protein": 30,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -6508,7 +6508,7 @@
             "cookTime": "30 min",
             "id": "10",
             "ingredientName": null,
-            "calories": 209,
+            "calories": 767,
             "week": 1,
             "prepTime": "15 min"
         },
@@ -6612,7 +6612,7 @@
         },
         {
             "readyIn": "20 min",
-            "protein": 22,
+            "protein": 14.8,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "Optional:\nSteam the tempeh.\nThe easiest way to do this is by wrapping it in a wet\npaper towel and placing in a microwave safe bowl.\nMicrowave in 2 minute increments, for 4 to 6\nminutes total, stopping and letting it sit for a minute\nor so between increments.\n1. Stir coconut aminos, garlic, and ginger together in a\nsmall bowl.\n2. Coat the bottom of a large skillet with 1 tablespoon of\navocado oil and place over medium heat.\n3. Add tempeh cubes in a single layer. Cook about 10\nminutes, flipping once or twice, until browned on multiple\nsides. Remove from heat.\n4. Sprinkle the stir-fried tempeh with sesame seeds.\nServe and enjoy!",
@@ -6651,7 +6651,7 @@
             "cookTime": "15 min",
             "id": "17",
             "ingredientName": null,
-            "calories": 554,
+            "calories": 240,
             "week": 1,
             "prepTime": "5 min"
         },
@@ -6828,7 +6828,7 @@
         },
         {
             "readyIn": "45 min",
-            "protein": 6.5,
+            "protein": 39,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -6863,13 +6863,13 @@
             "cookTime": "30 min",
             "id": "10",
             "ingredientName": null,
-            "calories": 209,
+            "calories": 612,
             "week": 3,
             "prepTime": "15 min"
         },
         {
             "readyIn": "30 min",
-            "protein": 60,
+            "protein": 11.5,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Mix the shredded cheese and almond flour/meal in a\nmicrowaveable bowl. Add the cream cheese. Microwave on\nHIGH for 1 minute.Stir then microwave on HIGH for another\n30 seconds.\n2. Add the egg, salt, rosemary and any other flavourings,\nmix gently.\n3. Place in between 2 pieces of baking parchment/paper\nand roll into a circular pizza shape. Remove the top baking\npaper/parchment. If the mixture hardens and becomes\ndifficult to work with, pop it back in the microwave for 10-20\nseconds to soften again but not too long or you will cook\nthe egg.\n4. Make fork holes all over the pizza base to ensure it cooks\nevenly.\n5. Slide the baking paper/parchment with the pizza base, on\na baking tray or pizza stone, and bake at 220\ufffdC/425\ufffdF for\n12-15 minutes, or until brown.\n6. To make the base really crispy and sturdy, flip the pizza\nover (onto baking paper/parchment) once the top has\nbrowned.\n7. Once cooked, remove from the oven and add all the\ntoppings you like. Make sure any meat is already cooked as\nthis time it goes back into the oven just to heat up the\ntoppings and melt the cheese. Bake again at 220\ufffdC/425\ufffdF\nfor 5 minutes.\n8. Topping Ideas: pepperoni, peppers, cherry tomatoes,\nolives, ground/mince beef, mushrooms, herbs to customize\nyour pizza.",
@@ -6912,7 +6912,7 @@
             "cookTime": "20 min",
             "id": "34",
             "ingredientName": null,
-            "calories": 659,
+            "calories": 221,
             "week": 1,
             "prepTime": "10 min"
         },
@@ -7011,7 +7011,7 @@
         },
         {
             "readyIn": "1 h 20 min",
-            "protein": 30,
+            "protein": 9.9,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "In a large saucepan of boiling salted water, cook the\ncauliflower until tender, about 8 minutes. Or steam. Drain,\nrinse under cold water until cool and drain well.\nIn a blender, combine cooked cauliflower, almond milk,\nwater, raw almonds, chopped garlic, lemon juice, onion,\ncucumber, 1 1/4 cups (reserve 1/4 cup for toasting) almonds,\nblend until smooth. Add the olive oil and pulse just until\nincorporated. If necessary, add more water to thin the soup.\nSeason the soup with salt and refrigerate until chilled, about\n1 hour.\nToasted almonds: Preheat the oven to 350\ufffd. Spread the\nremaining 1/4 cup of slivered almonds on a cookie sheet or\npie plate and toast for about 6 minutes, until fragrant and\nlightly golden.\nPour the soup into bowls.\nGarnish the soup with the toasted almonds and enjoy!",
@@ -7066,7 +7066,7 @@
             "cookTime": "15 min",
             "id": "20",
             "ingredientName": null,
-            "calories": 610,
+            "calories": 384,
             "week": 4,
             "prepTime": "1 h 5 min"
         },
@@ -7222,7 +7222,7 @@
         },
         {
             "readyIn": "20 min",
-            "protein": 36,
+            "protein": 14.8,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "Optional:\nSteam the tempeh.\nThe easiest way to do this is by wrapping it in a wet\npaper towel and placing in a microwave safe bowl.\nMicrowave in 2 minute increments, for 4 to 6\nminutes total, stopping and letting it sit for a minute\nor so between increments.\n1. Stir coconut aminos, garlic, and ginger together in a\nsmall bowl.\n2. Coat the bottom of a large skillet with 1 tablespoon of\navocado oil and place over medium heat.\n3. Add tempeh cubes in a single layer. Cook about 10\nminutes, flipping once or twice, until browned on multiple\nsides. Remove from heat.\n4. Sprinkle the stir-fried tempeh with sesame seeds.\nServe and enjoy!",
@@ -7261,7 +7261,7 @@
             "cookTime": "15 min",
             "id": "24",
             "ingredientName": null,
-            "calories": 322,
+            "calories": 240,
             "week": 1,
             "prepTime": "5 min"
         },
@@ -7333,7 +7333,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 39,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -7368,7 +7368,7 @@
             "cookTime": "0 min",
             "id": "1",
             "ingredientName": null,
-            "calories": 501,
+            "calories": 622,
             "week": 2,
             "prepTime": "5 min"
         },
@@ -7587,7 +7587,7 @@
         },
         {
             "readyIn": "20 min",
-            "protein": 53,
+            "protein": 14.8,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "Optional:\nSteam the tempeh.\nThe easiest way to do this is by wrapping it in a wet\npaper towel and placing in a microwave safe bowl.\nMicrowave in 2 minute increments, for 4 to 6\nminutes total, stopping and letting it sit for a minute\nor so between increments.\n1. Stir coconut aminos, garlic, and ginger together in a\nsmall bowl.\n2. Coat the bottom of a large skillet with 1 tablespoon of\navocado oil and place over medium heat.\n3. Add tempeh cubes in a single layer. Cook about 10\nminutes, flipping once or twice, until browned on multiple\nsides. Remove from heat.\n4. Sprinkle the stir-fried tempeh with sesame seeds.\nServe and enjoy!",
@@ -7626,13 +7626,13 @@
             "cookTime": "15 min",
             "id": "17",
             "ingredientName": null,
-            "calories": 530,
+            "calories": 240,
             "week": 3,
             "prepTime": "5 min"
         },
         {
             "readyIn": "10 min",
-            "protein": 24,
+            "protein": 9.0,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Process the parsley, mint, garlic and sea salt in a food\nprocessor until minced.\n\n2. Transfer the herbs and salt to a large mixing bowl.\n\n3. Add the tomatoes, hemp seeds, olive oil and lemon juice.\nMix well and serve.",
@@ -7679,7 +7679,7 @@
             "cookTime": "0 min",
             "id": "18",
             "ingredientName": null,
-            "calories": 696,
+            "calories": 208,
             "week": 3,
             "prepTime": "10 min"
         },
@@ -7820,7 +7820,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 60,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -7855,7 +7855,7 @@
             "cookTime": "0 min",
             "id": "22",
             "ingredientName": null,
-            "calories": 761,
+            "calories": 622,
             "week": 4,
             "prepTime": "5 min"
         }

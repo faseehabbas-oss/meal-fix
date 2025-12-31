@@ -48,7 +48,7 @@
         },
         {
             "readyIn": "35 min",
-            "protein": 59,
+            "protein": 22.6,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Preheat oven to 400F. Line a baking sheet with\nparchment paper or foil.\n2. Cook the onions in the vegetable oil in a pan over\nmedium heat for about 5 minutes until softened. Turn off\nthe heat, remove the pan from the heat, and allow the\nonions to cool.\n3. In a large bowl, mix the ground beef, cooked onions,\nrosemary, sage, coriander, salt, and black pepper together\nuntil thoroughly combined.\n4. Form 2 inch balls from the mixture with your hands.\nArrange the balls on the baking sheet spaced evenly apart.\n5. Bake for about 20 minutes in the oven or until the\nmeatballs are thoroughly cooked.",
@@ -95,7 +95,7 @@
             "cookTime": "20 min",
             "id": "3",
             "ingredientName": null,
-            "calories": 527,
+            "calories": 260,
             "week": 2,
             "prepTime": "15 min"
         },
@@ -166,7 +166,7 @@
         },
         {
             "readyIn": "45 min",
-            "protein": 6.5,
+            "protein": 20,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -201,7 +201,7 @@
             "cookTime": "30 min",
             "id": "8",
             "ingredientName": null,
-            "calories": 209,
+            "calories": 594,
             "week": 3,
             "prepTime": "15 min"
         },
@@ -968,7 +968,7 @@
         },
         {
             "readyIn": "25 min",
-            "protein": 36,
+            "protein": 22.4,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Season the salmon with salt and pepper. Fill saucepan\nwith thin layer of water.\n2. Place salmon on steamer rack in saucepan.\n3. Cook and cover until salmon is opaque (about 10\nminutes). Transfer to plate and let cool.\n4. Flake salmon into chunks.\n5. To make dressing and salad\nMix all ingredients together in a separate bowl using\na whisk, and whisk gently\nAssemble mixed greens salad (save some chives\nseparately) and toss with dressing.\nSprinkle with remaining chives.",
@@ -1027,7 +1027,7 @@
             "cookTime": "10 min",
             "id": "19",
             "ingredientName": null,
-            "calories": 295,
+            "calories": 300,
             "week": 3,
             "prepTime": "15 min"
         },
@@ -1086,7 +1086,7 @@
         },
         {
             "readyIn": "6 min",
-            "protein": 20,
+            "protein": 5.5,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Place walnuts into a food processor until finely chopped\n2. Place chopped walnuts into a bowl and add garlic, green\nonion, lemon juice, Bragg\ufffds Liquid Aminos, and cumin.\n3. Mix together well\n4. Add sea salt and pepper to taste\n5. Place an amount of mixture on a lettuce leaf and top with\ntomatoes\n6. Roll up and enjoy with a smile!",
@@ -1141,7 +1141,7 @@
             "cookTime": "1 min",
             "id": "18",
             "ingredientName": null,
-            "calories": 607,
+            "calories": 231,
             "week": 4,
             "prepTime": "5 min"
         },
@@ -1290,7 +1290,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 33,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -1325,7 +1325,7 @@
             "cookTime": "0 min",
             "id": "21",
             "ingredientName": null,
-            "calories": 640,
+            "calories": 622,
             "week": 4,
             "prepTime": "5 min"
         },
@@ -1388,7 +1388,7 @@
         },
         {
             "readyIn": "35 min",
-            "protein": 34,
+            "protein": 22.6,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Preheat oven to 400F. Line a baking sheet with\nparchment paper or foil.\n2. Cook the onions in the vegetable oil in a pan over\nmedium heat for about 5 minutes until softened. Turn off\nthe heat, remove the pan from the heat, and allow the\nonions to cool.\n3. In a large bowl, mix the ground beef, cooked onions,\nrosemary, sage, coriander, salt, and black pepper together\nuntil thoroughly combined.\n4. Form 2 inch balls from the mixture with your hands.\nArrange the balls on the baking sheet spaced evenly apart.\n5. Bake for about 20 minutes in the oven or until the\nmeatballs are thoroughly cooked.",
@@ -1435,7 +1435,7 @@
             "cookTime": "20 min",
             "id": "6",
             "ingredientName": null,
-            "calories": 655,
+            "calories": 260,
             "week": 2,
             "prepTime": "15 min"
         },
@@ -1697,7 +1697,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 22,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -1732,13 +1732,13 @@
             "cookTime": "0 min",
             "id": "9",
             "ingredientName": null,
-            "calories": 230,
+            "calories": 622,
             "week": 4,
             "prepTime": "5 min"
         },
         {
             "readyIn": "15 min",
-            "protein": 37,
+            "protein": 2.4,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "Plan for roughly one medium-sized zucchini per\nperson.\nSplit the zucchini in half lengthwise.\nScoop the seeds with a spoon and slice the halves\nvery thinly with a potato peeler or use a spiralizer to\nmake zoodles.\nToss the zucchini noodles in a simmering sauce of\nyour choice and serve immediately.\nIf you aren't serving your zucchini with a sauce, then\nboil half a gallon (a couple of liters) of salted water\nin a large pot and parboil the zucchini slices for a\nminute.\nDrain the water and add olive oil or 2 or 3\ntablespoons of butter. Salt and pepper to taste and\nstir.",
@@ -1765,7 +1765,7 @@
             "cookTime": "5 min",
             "id": "6",
             "ingredientName": null,
-            "calories": 580,
+            "calories": 295,
             "week": 3,
             "prepTime": "10 min"
         },
@@ -1954,7 +1954,7 @@
         },
         {
             "readyIn": "35 min",
-            "protein": 25,
+            "protein": 22.6,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Preheat oven to 400F. Line a baking sheet with\nparchment paper or foil.\n2. Cook the onions in the vegetable oil in a pan over\nmedium heat for about 5 minutes until softened. Turn off\nthe heat, remove the pan from the heat, and allow the\nonions to cool.\n3. In a large bowl, mix the ground beef, cooked onions,\nrosemary, sage, coriander, salt, and black pepper together\nuntil thoroughly combined.\n4. Form 2 inch balls from the mixture with your hands.\nArrange the balls on the baking sheet spaced evenly apart.\n5. Bake for about 20 minutes in the oven or until the\nmeatballs are thoroughly cooked.",
@@ -2001,7 +2001,7 @@
             "cookTime": "20 min",
             "id": "15",
             "ingredientName": null,
-            "calories": 250,
+            "calories": 260,
             "week": 4,
             "prepTime": "15 min"
         },
@@ -2117,7 +2117,7 @@
         },
         {
             "readyIn": "6 min",
-            "protein": 21,
+            "protein": 5.5,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Place walnuts into a food processor until finely chopped\n2. Place chopped walnuts into a bowl and add garlic, green\nonion, lemon juice, Bragg\ufffds Liquid Aminos, and cumin.\n3. Mix together well\n4. Add sea salt and pepper to taste\n5. Place an amount of mixture on a lettuce leaf and top with\ntomatoes\n6. Roll up and enjoy with a smile!",
@@ -2172,13 +2172,13 @@
             "cookTime": "1 min",
             "id": "23",
             "ingredientName": null,
-            "calories": 273,
+            "calories": 231,
             "week": 2,
             "prepTime": "5 min"
         },
         {
             "readyIn": "5 min",
-            "protein": 38,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -2213,7 +2213,7 @@
             "cookTime": "0 min",
             "id": "1",
             "ingredientName": null,
-            "calories": 683,
+            "calories": 622,
             "week": 2,
             "prepTime": "5 min"
         },
@@ -2248,7 +2248,7 @@
         },
         {
             "readyIn": "15 min",
-            "protein": 36,
+            "protein": 2.4,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "Plan for roughly one medium-sized zucchini per\nperson.\nSplit the zucchini in half lengthwise.\nScoop the seeds with a spoon and slice the halves\nvery thinly with a potato peeler or use a spiralizer to\nmake zoodles.\nToss the zucchini noodles in a simmering sauce of\nyour choice and serve immediately.\nIf you aren't serving your zucchini with a sauce, then\nboil half a gallon (a couple of liters) of salted water\nin a large pot and parboil the zucchini slices for a\nminute.\nDrain the water and add olive oil or 2 or 3\ntablespoons of butter. Salt and pepper to taste and\nstir.",
@@ -2275,7 +2275,7 @@
             "cookTime": "5 min",
             "id": "2",
             "ingredientName": null,
-            "calories": 389,
+            "calories": 295,
             "week": 1,
             "prepTime": "10 min"
         },
@@ -2904,7 +2904,7 @@
         },
         {
             "readyIn": "45 min",
-            "protein": 6.5,
+            "protein": 57,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -2939,13 +2939,13 @@
             "cookTime": "30 min",
             "id": "8",
             "ingredientName": null,
-            "calories": 209,
+            "calories": 438,
             "week": 1,
             "prepTime": "15 min"
         },
         {
             "readyIn": "5 min",
-            "protein": 37,
+            "protein": 10.9,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "DIRECTIONS FOR MUESLI MIX:\nIn a medium bowl or a container with a tightly fitting lid,\nadd coconut flakes, macadamia nuts, chia seeds, pumpkin\nseeds, cinnamon, ginger, nutmeg and a pinch of salt, mix\nwell.\nStore muesli ingredients in a container with a tightly fitting\nlid for a day or two to let the flavors develop. This mixture\nwill keep for up to two months.\nDIRECTIONS FOR EACH SERVING:\nIn a small bowl, combine coconut milk, alcohol free vanilla,\nstevia and lemon juice.\nStir well, then add muesli and top with a dollop of plain\nyogurt.\nFor a softer texture, prepare a bowl the night before. Put a\nserving of muesli in a bowl and cover with the coconut milk\nmixture.\nPlace in refrigerator overnight. In the morning, enjoy plain\nor with a dollop of yogurt.",
@@ -3008,7 +3008,7 @@
             "cookTime": "0 min",
             "id": "5",
             "ingredientName": null,
-            "calories": 599,
+            "calories": 626,
             "week": 4,
             "prepTime": "5 min"
         },
@@ -3088,7 +3088,7 @@
         },
         {
             "readyIn": "35 min",
-            "protein": 49,
+            "protein": 22.6,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Preheat oven to 400F. Line a baking sheet with\nparchment paper or foil.\n2. Cook the onions in the vegetable oil in a pan over\nmedium heat for about 5 minutes until softened. Turn off\nthe heat, remove the pan from the heat, and allow the\nonions to cool.\n3. In a large bowl, mix the ground beef, cooked onions,\nrosemary, sage, coriander, salt, and black pepper together\nuntil thoroughly combined.\n4. Form 2 inch balls from the mixture with your hands.\nArrange the balls on the baking sheet spaced evenly apart.\n5. Bake for about 20 minutes in the oven or until the\nmeatballs are thoroughly cooked.",
@@ -3135,7 +3135,7 @@
             "cookTime": "20 min",
             "id": "6",
             "ingredientName": null,
-            "calories": 487,
+            "calories": 260,
             "week": 4,
             "prepTime": "15 min"
         },
@@ -3357,7 +3357,7 @@
         },
         {
             "readyIn": "6 min",
-            "protein": 40,
+            "protein": 5.5,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Place walnuts into a food processor until finely chopped\n2. Place chopped walnuts into a bowl and add garlic, green\nonion, lemon juice, Bragg\ufffds Liquid Aminos, and cumin.\n3. Mix together well\n4. Add sea salt and pepper to taste\n5. Place an amount of mixture on a lettuce leaf and top with\ntomatoes\n6. Roll up and enjoy with a smile!",
@@ -3412,7 +3412,7 @@
             "cookTime": "1 min",
             "id": "26",
             "ingredientName": null,
-            "calories": 521,
+            "calories": 231,
             "week": 2,
             "prepTime": "5 min"
         },
@@ -3471,7 +3471,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 23,
+            "protein": 10.9,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "DIRECTIONS FOR MUESLI MIX:\nIn a medium bowl or a container with a tightly fitting lid,\nadd coconut flakes, macadamia nuts, chia seeds, pumpkin\nseeds, cinnamon, ginger, nutmeg and a pinch of salt, mix\nwell.\nStore muesli ingredients in a container with a tightly fitting\nlid for a day or two to let the flavors develop. This mixture\nwill keep for up to two months.\nDIRECTIONS FOR EACH SERVING:\nIn a small bowl, combine coconut milk, alcohol free vanilla,\nstevia and lemon juice.\nStir well, then add muesli and top with a dollop of plain\nyogurt.\nFor a softer texture, prepare a bowl the night before. Put a\nserving of muesli in a bowl and cover with the coconut milk\nmixture.\nPlace in refrigerator overnight. In the morning, enjoy plain\nor with a dollop of yogurt.",
@@ -3534,7 +3534,7 @@
             "cookTime": "0 min",
             "id": "13",
             "ingredientName": null,
-            "calories": 473,
+            "calories": 626,
             "week": 4,
             "prepTime": "5 min"
         },
@@ -3597,7 +3597,7 @@
         },
         {
             "readyIn": "15 min",
-            "protein": 31,
+            "protein": 2.4,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "Plan for roughly one medium-sized zucchini per\nperson.\nSplit the zucchini in half lengthwise.\nScoop the seeds with a spoon and slice the halves\nvery thinly with a potato peeler or use a spiralizer to\nmake zoodles.\nToss the zucchini noodles in a simmering sauce of\nyour choice and serve immediately.\nIf you aren't serving your zucchini with a sauce, then\nboil half a gallon (a couple of liters) of salted water\nin a large pot and parboil the zucchini slices for a\nminute.\nDrain the water and add olive oil or 2 or 3\ntablespoons of butter. Salt and pepper to taste and\nstir.",
@@ -3624,7 +3624,7 @@
             "cookTime": "5 min",
             "id": "2",
             "ingredientName": null,
-            "calories": 452,
+            "calories": 295,
             "week": 3,
             "prepTime": "10 min"
         },
@@ -3851,7 +3851,7 @@
         },
         {
             "readyIn": "45 min",
-            "protein": 6.5,
+            "protein": 22,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -3886,13 +3886,13 @@
             "cookTime": "30 min",
             "id": "24",
             "ingredientName": null,
-            "calories": 209,
+            "calories": 316,
             "week": 1,
             "prepTime": "15 min"
         },
         {
             "readyIn": "5 min",
-            "protein": 39,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -3927,7 +3927,7 @@
             "cookTime": "0 min",
             "id": "1",
             "ingredientName": null,
-            "calories": 432,
+            "calories": 622,
             "week": 4,
             "prepTime": "5 min"
         },
@@ -4035,7 +4035,7 @@
         },
         {
             "readyIn": "6 min",
-            "protein": 38,
+            "protein": 5.5,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Place walnuts into a food processor until finely chopped\n2. Place chopped walnuts into a bowl and add garlic, green\nonion, lemon juice, Bragg\ufffds Liquid Aminos, and cumin.\n3. Mix together well\n4. Add sea salt and pepper to taste\n5. Place an amount of mixture on a lettuce leaf and top with\ntomatoes\n6. Roll up and enjoy with a smile!",
@@ -4090,13 +4090,13 @@
             "cookTime": "1 min",
             "id": "26",
             "ingredientName": null,
-            "calories": 743,
+            "calories": 231,
             "week": 4,
             "prepTime": "5 min"
         },
         {
             "readyIn": "6 min",
-            "protein": 41,
+            "protein": 5.5,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Place walnuts into a food processor until finely chopped\n2. Place chopped walnuts into a bowl and add garlic, green\nonion, lemon juice, Bragg\ufffds Liquid Aminos, and cumin.\n3. Mix together well\n4. Add sea salt and pepper to taste\n5. Place an amount of mixture on a lettuce leaf and top with\ntomatoes\n6. Roll up and enjoy with a smile!",
@@ -4151,7 +4151,7 @@
             "cookTime": "1 min",
             "id": "18",
             "ingredientName": null,
-            "calories": 302,
+            "calories": 231,
             "week": 2,
             "prepTime": "5 min"
         },
@@ -4222,7 +4222,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 39,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -4257,7 +4257,7 @@
             "cookTime": "0 min",
             "id": "21",
             "ingredientName": null,
-            "calories": 207,
+            "calories": 622,
             "week": 2,
             "prepTime": "5 min"
         },
@@ -4471,7 +4471,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 53,
+            "protein": 10.9,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "DIRECTIONS FOR MUESLI MIX:\nIn a medium bowl or a container with a tightly fitting lid,\nadd coconut flakes, macadamia nuts, chia seeds, pumpkin\nseeds, cinnamon, ginger, nutmeg and a pinch of salt, mix\nwell.\nStore muesli ingredients in a container with a tightly fitting\nlid for a day or two to let the flavors develop. This mixture\nwill keep for up to two months.\nDIRECTIONS FOR EACH SERVING:\nIn a small bowl, combine coconut milk, alcohol free vanilla,\nstevia and lemon juice.\nStir well, then add muesli and top with a dollop of plain\nyogurt.\nFor a softer texture, prepare a bowl the night before. Put a\nserving of muesli in a bowl and cover with the coconut milk\nmixture.\nPlace in refrigerator overnight. In the morning, enjoy plain\nor with a dollop of yogurt.",
@@ -4534,13 +4534,13 @@
             "cookTime": "0 min",
             "id": "5",
             "ingredientName": null,
-            "calories": 752,
+            "calories": 626,
             "week": 2,
             "prepTime": "5 min"
         },
         {
             "readyIn": "35 min",
-            "protein": 27,
+            "protein": 22.6,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Preheat oven to 400F. Line a baking sheet with\nparchment paper or foil.\n2. Cook the onions in the vegetable oil in a pan over\nmedium heat for about 5 minutes until softened. Turn off\nthe heat, remove the pan from the heat, and allow the\nonions to cool.\n3. In a large bowl, mix the ground beef, cooked onions,\nrosemary, sage, coriander, salt, and black pepper together\nuntil thoroughly combined.\n4. Form 2 inch balls from the mixture with your hands.\nArrange the balls on the baking sheet spaced evenly apart.\n5. Bake for about 20 minutes in the oven or until the\nmeatballs are thoroughly cooked.",
@@ -4587,7 +4587,7 @@
             "cookTime": "20 min",
             "id": "15",
             "ingredientName": null,
-            "calories": 254,
+            "calories": 260,
             "week": 2,
             "prepTime": "15 min"
         },
@@ -4723,7 +4723,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 28,
+            "protein": 10.9,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "DIRECTIONS FOR MUESLI MIX:\nIn a medium bowl or a container with a tightly fitting lid,\nadd coconut flakes, macadamia nuts, chia seeds, pumpkin\nseeds, cinnamon, ginger, nutmeg and a pinch of salt, mix\nwell.\nStore muesli ingredients in a container with a tightly fitting\nlid for a day or two to let the flavors develop. This mixture\nwill keep for up to two months.\nDIRECTIONS FOR EACH SERVING:\nIn a small bowl, combine coconut milk, alcohol free vanilla,\nstevia and lemon juice.\nStir well, then add muesli and top with a dollop of plain\nyogurt.\nFor a softer texture, prepare a bowl the night before. Put a\nserving of muesli in a bowl and cover with the coconut milk\nmixture.\nPlace in refrigerator overnight. In the morning, enjoy plain\nor with a dollop of yogurt.",
@@ -4786,7 +4786,7 @@
             "cookTime": "0 min",
             "id": "13",
             "ingredientName": null,
-            "calories": 534,
+            "calories": 626,
             "week": 2,
             "prepTime": "5 min"
         },
@@ -4919,7 +4919,7 @@
         },
         {
             "readyIn": "25 min",
-            "protein": 33,
+            "protein": 22.4,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Season the salmon with salt and pepper. Fill saucepan\nwith thin layer of water.\n2. Place salmon on steamer rack in saucepan.\n3. Cook and cover until salmon is opaque (about 10\nminutes). Transfer to plate and let cool.\n4. Flake salmon into chunks.\n5. To make dressing and salad\nMix all ingredients together in a separate bowl using\na whisk, and whisk gently\nAssemble mixed greens salad (save some chives\nseparately) and toss with dressing.\nSprinkle with remaining chives.",
@@ -4978,13 +4978,13 @@
             "cookTime": "10 min",
             "id": "14",
             "ingredientName": null,
-            "calories": 676,
+            "calories": 300,
             "week": 3,
             "prepTime": "15 min"
         },
         {
             "readyIn": "45 min",
-            "protein": 6.5,
+            "protein": 54,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -5019,7 +5019,7 @@
             "cookTime": "30 min",
             "id": "24",
             "ingredientName": null,
-            "calories": 209,
+            "calories": 471,
             "week": 3,
             "prepTime": "15 min"
         },
@@ -5200,7 +5200,7 @@
         },
         {
             "readyIn": "35 min",
-            "protein": 34,
+            "protein": 22.6,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Preheat oven to 400F. Line a baking sheet with\nparchment paper or foil.\n2. Cook the onions in the vegetable oil in a pan over\nmedium heat for about 5 minutes until softened. Turn off\nthe heat, remove the pan from the heat, and allow the\nonions to cool.\n3. In a large bowl, mix the ground beef, cooked onions,\nrosemary, sage, coriander, salt, and black pepper together\nuntil thoroughly combined.\n4. Form 2 inch balls from the mixture with your hands.\nArrange the balls on the baking sheet spaced evenly apart.\n5. Bake for about 20 minutes in the oven or until the\nmeatballs are thoroughly cooked.",
@@ -5247,7 +5247,7 @@
             "cookTime": "20 min",
             "id": "3",
             "ingredientName": null,
-            "calories": 748,
+            "calories": 260,
             "week": 4,
             "prepTime": "15 min"
         },
@@ -5310,7 +5310,7 @@
         },
         {
             "readyIn": "6 min",
-            "protein": 52,
+            "protein": 5.5,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Place walnuts into a food processor until finely chopped\n2. Place chopped walnuts into a bowl and add garlic, green\nonion, lemon juice, Bragg\ufffds Liquid Aminos, and cumin.\n3. Mix together well\n4. Add sea salt and pepper to taste\n5. Place an amount of mixture on a lettuce leaf and top with\ntomatoes\n6. Roll up and enjoy with a smile!",
@@ -5365,13 +5365,13 @@
             "cookTime": "1 min",
             "id": "23",
             "ingredientName": null,
-            "calories": 474,
+            "calories": 231,
             "week": 4,
             "prepTime": "5 min"
         },
         {
             "readyIn": "15 min",
-            "protein": 28,
+            "protein": 2.4,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "Plan for roughly one medium-sized zucchini per\nperson.\nSplit the zucchini in half lengthwise.\nScoop the seeds with a spoon and slice the halves\nvery thinly with a potato peeler or use a spiralizer to\nmake zoodles.\nToss the zucchini noodles in a simmering sauce of\nyour choice and serve immediately.\nIf you aren't serving your zucchini with a sauce, then\nboil half a gallon (a couple of liters) of salted water\nin a large pot and parboil the zucchini slices for a\nminute.\nDrain the water and add olive oil or 2 or 3\ntablespoons of butter. Salt and pepper to taste and\nstir.",
@@ -5398,7 +5398,7 @@
             "cookTime": "5 min",
             "id": "6",
             "ingredientName": null,
-            "calories": 665,
+            "calories": 295,
             "week": 1,
             "prepTime": "10 min"
         },
@@ -5685,7 +5685,7 @@
         },
         {
             "readyIn": "25 min",
-            "protein": 54,
+            "protein": 22.4,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Season the salmon with salt and pepper. Fill saucepan\nwith thin layer of water.\n2. Place salmon on steamer rack in saucepan.\n3. Cook and cover until salmon is opaque (about 10\nminutes). Transfer to plate and let cool.\n4. Flake salmon into chunks.\n5. To make dressing and salad\nMix all ingredients together in a separate bowl using\na whisk, and whisk gently\nAssemble mixed greens salad (save some chives\nseparately) and toss with dressing.\nSprinkle with remaining chives.",
@@ -5744,13 +5744,13 @@
             "cookTime": "10 min",
             "id": "19",
             "ingredientName": null,
-            "calories": 386,
+            "calories": 300,
             "week": 1,
             "prepTime": "15 min"
         },
         {
             "readyIn": "25 min",
-            "protein": 48,
+            "protein": 22.4,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Season the salmon with salt and pepper. Fill saucepan\nwith thin layer of water.\n2. Place salmon on steamer rack in saucepan.\n3. Cook and cover until salmon is opaque (about 10\nminutes). Transfer to plate and let cool.\n4. Flake salmon into chunks.\n5. To make dressing and salad\nMix all ingredients together in a separate bowl using\na whisk, and whisk gently\nAssemble mixed greens salad (save some chives\nseparately) and toss with dressing.\nSprinkle with remaining chives.",
@@ -5809,7 +5809,7 @@
             "cookTime": "10 min",
             "id": "14",
             "ingredientName": null,
-            "calories": 230,
+            "calories": 300,
             "week": 1,
             "prepTime": "15 min"
         },
@@ -5998,7 +5998,7 @@
         },
         {
             "readyIn": "5 min",
-            "protein": 33,
+            "protein": 6.7,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "Combine ingredients in a blender until smooth and enjoy!",
@@ -6033,7 +6033,7 @@
             "cookTime": "0 min",
             "id": "9",
             "ingredientName": null,
-            "calories": 413,
+            "calories": 622,
             "week": 2,
             "prepTime": "5 min"
         }
