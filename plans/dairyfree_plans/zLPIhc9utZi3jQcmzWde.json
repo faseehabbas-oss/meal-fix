@@ -212,7 +212,7 @@
             "name": "Cauliflower Rice",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FCauliflower%20rice.jpg?alt=media&token=25c6b33a-ee46-43a7-9fe2-180b906352b6",
             "mealId": null,
-            "protein": 36,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "Cut cauliflower into large florets.\nRice cauliflower using shredding blade on food processor. Or\npulse cauliflower in food processor with chopping blade, or\ngrate by hand on box grater.\nHeat oil in large frying pan over medium heat. Add\ncauliflower rice and saut\ufffd until just cooked through, about 5\nminutes.\nSeason with salt and pepper to taste.",
             "quantity": null,
@@ -243,7 +243,7 @@
             "mealTitle": "Dinner",
             "id": "24",
             "week": 4,
-            "calories": 210
+            "calories": 300
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
@@ -478,7 +478,7 @@
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 35,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -529,7 +529,7 @@
             "mealTitle": "Lunch",
             "id": "56",
             "week": 1,
-            "calories": 722
+            "calories": 410
         },
         {
             "name": "Berry Smoothie Bowl",
@@ -1161,7 +1161,7 @@
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 34,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -1212,13 +1212,13 @@
             "mealTitle": "Lunch",
             "id": "4",
             "week": 3,
-            "calories": 682
+            "calories": 410
         },
         {
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 29,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -1269,13 +1269,13 @@
             "mealTitle": "Lunch",
             "id": "29",
             "week": 1,
-            "calories": 778
+            "calories": 410
         },
         {
             "name": "Cauliflower Rice",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FCauliflower%20rice.jpg?alt=media&token=25c6b33a-ee46-43a7-9fe2-180b906352b6",
             "mealId": null,
-            "protein": 20,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "Cut cauliflower into large florets.\nRice cauliflower using shredding blade on food processor. Or\npulse cauliflower in food processor with chopping blade, or\ngrate by hand on box grater.\nHeat oil in large frying pan over medium heat. Add\ncauliflower rice and saut\ufffd until just cooked through, about 5\nminutes.\nSeason with salt and pepper to taste.",
             "quantity": null,
@@ -1306,13 +1306,13 @@
             "mealTitle": "Dinner",
             "id": "50",
             "week": 4,
-            "calories": 241
+            "calories": 300
         },
         {
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 44,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -1363,7 +1363,7 @@
             "mealTitle": "Dinner",
             "id": "24",
             "week": 1,
-            "calories": 646
+            "calories": 410
         },
         {
             "name": "Cardamom Quinoa Porridge",
@@ -1422,7 +1422,7 @@
             "name": "Cauliflower Rice",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FCauliflower%20rice.jpg?alt=media&token=25c6b33a-ee46-43a7-9fe2-180b906352b6",
             "mealId": null,
-            "protein": 33,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "Cut cauliflower into large florets.\nRice cauliflower using shredding blade on food processor. Or\npulse cauliflower in food processor with chopping blade, or\ngrate by hand on box grater.\nHeat oil in large frying pan over medium heat. Add\ncauliflower rice and saut\ufffd until just cooked through, about 5\nminutes.\nSeason with salt and pepper to taste.",
             "quantity": null,
@@ -1453,7 +1453,7 @@
             "id": "58",
             "mealTitle": "Lunch",
             "week": 2,
-            "calories": 256
+            "calories": 300
         },
         {
             "name": "Chicken Zucchini Meat Balls",
@@ -1879,7 +1879,7 @@
             "name": "Lentil, Kale & Sausage Stew",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FLentil%20kale%20sausage%20stew.jpg?alt=media&token=5f2286e4-270f-44a7-9977-10f2e6b27f06",
             "mealId": null,
-            "protein": 37,
+            "protein": 37.0,
             "ingredientName": null,
             "instruction": "Heat oil in large pot over med-high heat. Add sausage and\ncook until browned- about 8-10 mins.\nAdd onions and cook- about 3-5 mins. Add garlic and cook about 1 min. Add broth, kale, sweet potatoes, and lentils.\nBring to boil, reduce heat and simmer until lentils and sweet\npotatoes are tender- about 30-35 mins",
             "quantity": null,
@@ -1926,7 +1926,7 @@
             "mealTitle": "Dinner",
             "id": "14",
             "week": 4,
-            "calories": 321
+            "calories": 487
         },
         {
             "name": "Kale Chips",
@@ -2189,7 +2189,7 @@
             "name": "Lentil, Kale & Sausage Stew",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FLentil%20kale%20sausage%20stew.jpg?alt=media&token=5f2286e4-270f-44a7-9977-10f2e6b27f06",
             "mealId": null,
-            "protein": 51,
+            "protein": 37.0,
             "ingredientName": null,
             "instruction": "Heat oil in large pot over med-high heat. Add sausage and\ncook until browned- about 8-10 mins.\nAdd onions and cook- about 3-5 mins. Add garlic and cook about 1 min. Add broth, kale, sweet potatoes, and lentils.\nBring to boil, reduce heat and simmer until lentils and sweet\npotatoes are tender- about 30-35 mins",
             "quantity": null,
@@ -2236,7 +2236,7 @@
             "mealTitle": "Dinner",
             "id": "14",
             "week": 2,
-            "calories": 234
+            "calories": 487
         },
         {
             "name": "Kale Chips",
@@ -3285,7 +3285,7 @@
             "name": "Cauliflower Rice",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FCauliflower%20rice.jpg?alt=media&token=25c6b33a-ee46-43a7-9fe2-180b906352b6",
             "mealId": null,
-            "protein": 22,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "Cut cauliflower into large florets.\nRice cauliflower using shredding blade on food processor. Or\npulse cauliflower in food processor with chopping blade, or\ngrate by hand on box grater.\nHeat oil in large frying pan over medium heat. Add\ncauliflower rice and saut\ufffd until just cooked through, about 5\nminutes.\nSeason with salt and pepper to taste.",
             "quantity": null,
@@ -3316,7 +3316,7 @@
             "id": "58",
             "mealTitle": "Lunch",
             "week": 4,
-            "calories": 545
+            "calories": 300
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",
@@ -4020,7 +4020,7 @@
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 24,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -4071,7 +4071,7 @@
             "mealTitle": "Lunch",
             "id": "4",
             "week": 1,
-            "calories": 420
+            "calories": 410
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
@@ -4260,7 +4260,7 @@
             "name": "Lentil, Kale & Sausage Stew",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FLentil%20kale%20sausage%20stew.jpg?alt=media&token=5f2286e4-270f-44a7-9977-10f2e6b27f06",
             "mealId": null,
-            "protein": 36,
+            "protein": 37.0,
             "ingredientName": null,
             "instruction": "Heat oil in large pot over med-high heat. Add sausage and\ncook until browned- about 8-10 mins.\nAdd onions and cook- about 3-5 mins. Add garlic and cook about 1 min. Add broth, kale, sweet potatoes, and lentils.\nBring to boil, reduce heat and simmer until lentils and sweet\npotatoes are tender- about 30-35 mins",
             "quantity": null,
@@ -4307,7 +4307,7 @@
             "mealTitle": "Lunch",
             "id": "47",
             "week": 4,
-            "calories": 418
+            "calories": 487
         },
         {
             "name": "Detox Cabbage Salad",
@@ -4411,7 +4411,7 @@
             "name": "Cauliflower Rice",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FCauliflower%20rice.jpg?alt=media&token=25c6b33a-ee46-43a7-9fe2-180b906352b6",
             "mealId": null,
-            "protein": 29,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "Cut cauliflower into large florets.\nRice cauliflower using shredding blade on food processor. Or\npulse cauliflower in food processor with chopping blade, or\ngrate by hand on box grater.\nHeat oil in large frying pan over medium heat. Add\ncauliflower rice and saut\ufffd until just cooked through, about 5\nminutes.\nSeason with salt and pepper to taste.",
             "quantity": null,
@@ -4442,7 +4442,7 @@
             "mealTitle": "Lunch",
             "id": "4",
             "week": 4,
-            "calories": 714
+            "calories": 300
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
@@ -4542,7 +4542,7 @@
             "name": "Cauliflower Rice",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FCauliflower%20rice.jpg?alt=media&token=25c6b33a-ee46-43a7-9fe2-180b906352b6",
             "mealId": null,
-            "protein": 21,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "Cut cauliflower into large florets.\nRice cauliflower using shredding blade on food processor. Or\npulse cauliflower in food processor with chopping blade, or\ngrate by hand on box grater.\nHeat oil in large frying pan over medium heat. Add\ncauliflower rice and saut\ufffd until just cooked through, about 5\nminutes.\nSeason with salt and pepper to taste.",
             "quantity": null,
@@ -4573,13 +4573,13 @@
             "mealTitle": "Dinner",
             "id": "24",
             "week": 2,
-            "calories": 268
+            "calories": 300
         },
         {
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 31,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -4630,7 +4630,7 @@
             "mealTitle": "Dinner",
             "id": "49",
             "week": 3,
-            "calories": 307
+            "calories": 410
         },
         {
             "name": "Cardamom Quinoa Porridge",
@@ -4866,7 +4866,7 @@
             "name": "Cauliflower Rice",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FCauliflower%20rice.jpg?alt=media&token=25c6b33a-ee46-43a7-9fe2-180b906352b6",
             "mealId": null,
-            "protein": 36,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "Cut cauliflower into large florets.\nRice cauliflower using shredding blade on food processor. Or\npulse cauliflower in food processor with chopping blade, or\ngrate by hand on box grater.\nHeat oil in large frying pan over medium heat. Add\ncauliflower rice and saut\ufffd until just cooked through, about 5\nminutes.\nSeason with salt and pepper to taste.",
             "quantity": null,
@@ -4897,13 +4897,13 @@
             "mealTitle": "Dinner",
             "id": "50",
             "week": 2,
-            "calories": 692
+            "calories": 300
         },
         {
             "name": "Lentil, Kale & Sausage Stew",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FLentil%20kale%20sausage%20stew.jpg?alt=media&token=5f2286e4-270f-44a7-9977-10f2e6b27f06",
             "mealId": null,
-            "protein": 25,
+            "protein": 37.0,
             "ingredientName": null,
             "instruction": "Heat oil in large pot over med-high heat. Add sausage and\ncook until browned- about 8-10 mins.\nAdd onions and cook- about 3-5 mins. Add garlic and cook about 1 min. Add broth, kale, sweet potatoes, and lentils.\nBring to boil, reduce heat and simmer until lentils and sweet\npotatoes are tender- about 30-35 mins",
             "quantity": null,
@@ -4950,7 +4950,7 @@
             "mealTitle": "Dinner",
             "id": "42",
             "week": 4,
-            "calories": 621
+            "calories": 487
         },
         {
             "name": "Avocado and Herb Omelet",
@@ -6873,7 +6873,7 @@
             "name": "Lentil, Kale & Sausage Stew",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FLentil%20kale%20sausage%20stew.jpg?alt=media&token=5f2286e4-270f-44a7-9977-10f2e6b27f06",
             "mealId": null,
-            "protein": 57,
+            "protein": 37.0,
             "ingredientName": null,
             "instruction": "Heat oil in large pot over med-high heat. Add sausage and\ncook until browned- about 8-10 mins.\nAdd onions and cook- about 3-5 mins. Add garlic and cook about 1 min. Add broth, kale, sweet potatoes, and lentils.\nBring to boil, reduce heat and simmer until lentils and sweet\npotatoes are tender- about 30-35 mins",
             "quantity": null,
@@ -6920,7 +6920,7 @@
             "mealTitle": "Lunch",
             "id": "21",
             "week": 2,
-            "calories": 665
+            "calories": 487
         },
         {
             "name": "Toasted Almond Butter",
@@ -6951,7 +6951,7 @@
             "name": "Cauliflower Rice",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FCauliflower%20rice.jpg?alt=media&token=25c6b33a-ee46-43a7-9fe2-180b906352b6",
             "mealId": null,
-            "protein": 34,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "Cut cauliflower into large florets.\nRice cauliflower using shredding blade on food processor. Or\npulse cauliflower in food processor with chopping blade, or\ngrate by hand on box grater.\nHeat oil in large frying pan over medium heat. Add\ncauliflower rice and saut\ufffd until just cooked through, about 5\nminutes.\nSeason with salt and pepper to taste.",
             "quantity": null,
@@ -6982,7 +6982,7 @@
             "mealTitle": "Lunch",
             "id": "4",
             "week": 2,
-            "calories": 460
+            "calories": 300
         },
         {
             "name": "Berry Smoothie Bowl",
@@ -7181,7 +7181,7 @@
             "name": "Lentil, Kale & Sausage Stew",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FLentil%20kale%20sausage%20stew.jpg?alt=media&token=5f2286e4-270f-44a7-9977-10f2e6b27f06",
             "mealId": null,
-            "protein": 35,
+            "protein": 37.0,
             "ingredientName": null,
             "instruction": "Heat oil in large pot over med-high heat. Add sausage and\ncook until browned- about 8-10 mins.\nAdd onions and cook- about 3-5 mins. Add garlic and cook about 1 min. Add broth, kale, sweet potatoes, and lentils.\nBring to boil, reduce heat and simmer until lentils and sweet\npotatoes are tender- about 30-35 mins",
             "quantity": null,
@@ -7228,7 +7228,7 @@
             "mealTitle": "Lunch",
             "id": "21",
             "week": 4,
-            "calories": 452
+            "calories": 487
         },
         {
             "name": "Wild rice salad",
@@ -7373,7 +7373,7 @@
             "name": "Lentil, Kale & Sausage Stew",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FLentil%20kale%20sausage%20stew.jpg?alt=media&token=5f2286e4-270f-44a7-9977-10f2e6b27f06",
             "mealId": null,
-            "protein": 60,
+            "protein": 37.0,
             "ingredientName": null,
             "instruction": "Heat oil in large pot over med-high heat. Add sausage and\ncook until browned- about 8-10 mins.\nAdd onions and cook- about 3-5 mins. Add garlic and cook about 1 min. Add broth, kale, sweet potatoes, and lentils.\nBring to boil, reduce heat and simmer until lentils and sweet\npotatoes are tender- about 30-35 mins",
             "quantity": null,
@@ -7420,7 +7420,7 @@
             "mealTitle": "Dinner",
             "id": "42",
             "week": 2,
-            "calories": 431
+            "calories": 487
         },
         {
             "name": "Toasted Oat and Coconut Muesli",
@@ -8156,7 +8156,7 @@
             "name": "Lentil, Kale & Sausage Stew",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FLentil%20kale%20sausage%20stew.jpg?alt=media&token=5f2286e4-270f-44a7-9977-10f2e6b27f06",
             "mealId": null,
-            "protein": 54,
+            "protein": 37.0,
             "ingredientName": null,
             "instruction": "Heat oil in large pot over med-high heat. Add sausage and\ncook until browned- about 8-10 mins.\nAdd onions and cook- about 3-5 mins. Add garlic and cook about 1 min. Add broth, kale, sweet potatoes, and lentils.\nBring to boil, reduce heat and simmer until lentils and sweet\npotatoes are tender- about 30-35 mins",
             "quantity": null,
@@ -8203,7 +8203,7 @@
             "mealTitle": "Lunch",
             "id": "47",
             "week": 2,
-            "calories": 561
+            "calories": 487
         },
         {
             "name": "Apple",
@@ -8740,7 +8740,7 @@
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 54,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -8791,7 +8791,7 @@
             "mealTitle": "Lunch",
             "id": "56",
             "week": 3,
-            "calories": 603
+            "calories": 410
         },
         {
             "name": "Berry Smoothie Bowl",
@@ -9369,7 +9369,7 @@
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 60,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -9420,7 +9420,7 @@
             "mealTitle": "Lunch",
             "id": "29",
             "week": 3,
-            "calories": 624
+            "calories": 410
         },
         {
             "name": "Wild rice salad",
@@ -9590,7 +9590,7 @@
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 49,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -9641,7 +9641,7 @@
             "mealTitle": "Dinner",
             "id": "24",
             "week": 3,
-            "calories": 496
+            "calories": 410
         },
         {
             "name": "Low-carb chia pudding",
@@ -9840,7 +9840,7 @@
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 35,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -9891,7 +9891,7 @@
             "mealTitle": "Dinner",
             "id": "49",
             "week": 1,
-            "calories": 393
+            "calories": 410
         },
         {
             "name": "Toasted Oat and Coconut Muesli",
@@ -11058,7 +11058,7 @@
             "name": "Cauliflower Rice",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FCauliflower%20rice.jpg?alt=media&token=25c6b33a-ee46-43a7-9fe2-180b906352b6",
             "mealId": null,
-            "protein": 48,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "Cut cauliflower into large florets.\nRice cauliflower using shredding blade on food processor. Or\npulse cauliflower in food processor with chopping blade, or\ngrate by hand on box grater.\nHeat oil in large frying pan over medium heat. Add\ncauliflower rice and saut\ufffd until just cooked through, about 5\nminutes.\nSeason with salt and pepper to taste.",
             "quantity": null,
@@ -11089,13 +11089,13 @@
             "mealTitle": "Dinner",
             "id": "31",
             "week": 4,
-            "calories": 437
+            "calories": 300
         },
         {
             "name": "Cauliflower Rice",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FCauliflower%20rice.jpg?alt=media&token=25c6b33a-ee46-43a7-9fe2-180b906352b6",
             "mealId": null,
-            "protein": 38,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "Cut cauliflower into large florets.\nRice cauliflower using shredding blade on food processor. Or\npulse cauliflower in food processor with chopping blade, or\ngrate by hand on box grater.\nHeat oil in large frying pan over medium heat. Add\ncauliflower rice and saut\ufffd until just cooked through, about 5\nminutes.\nSeason with salt and pepper to taste.",
             "quantity": null,
@@ -11126,7 +11126,7 @@
             "mealTitle": "Dinner",
             "id": "31",
             "week": 2,
-            "calories": 654
+            "calories": 300
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",

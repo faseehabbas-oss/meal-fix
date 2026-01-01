@@ -593,7 +593,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 34,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -612,7 +612,7 @@
             "cookTime": "0 min",
             "id": "26",
             "ingredientName": null,
-            "calories": 505,
+            "calories": 237,
             "week": 4,
             "prepTime": "1 min"
         },
@@ -1502,7 +1502,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 20,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -1521,7 +1521,7 @@
             "cookTime": "0 min",
             "id": "26",
             "ingredientName": null,
-            "calories": 247,
+            "calories": 237,
             "week": 2,
             "prepTime": "1 min"
         },
@@ -1552,7 +1552,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 40,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -1571,7 +1571,7 @@
             "cookTime": "0 min",
             "id": "61",
             "ingredientName": null,
-            "calories": 456,
+            "calories": 237,
             "week": 2,
             "prepTime": "1 min"
         },
@@ -2152,7 +2152,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 32,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -2171,7 +2171,7 @@
             "cookTime": "0 min",
             "id": "34",
             "ingredientName": null,
-            "calories": 457,
+            "calories": 237,
             "week": 4,
             "prepTime": "1 min"
         },
@@ -4125,7 +4125,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 42,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -4144,7 +4144,7 @@
             "cookTime": "0 min",
             "id": "52",
             "ingredientName": null,
-            "calories": 235,
+            "calories": 237,
             "week": 4,
             "prepTime": "1 min"
         },
@@ -4191,7 +4191,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 29,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -4210,7 +4210,7 @@
             "cookTime": "0 min",
             "id": "43",
             "ingredientName": null,
-            "calories": 651,
+            "calories": 237,
             "week": 2,
             "prepTime": "1 min"
         },
@@ -4579,7 +4579,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 34,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -4598,13 +4598,13 @@
             "cookTime": "0 min",
             "id": "43",
             "ingredientName": null,
-            "calories": 511,
+            "calories": 237,
             "week": 4,
             "prepTime": "1 min"
         },
         {
             "readyIn": "1 min",
-            "protein": 50,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -4623,7 +4623,7 @@
             "cookTime": "0 min",
             "id": "17",
             "ingredientName": null,
-            "calories": 226,
+            "calories": 237,
             "week": 4,
             "prepTime": "1 min"
         },
@@ -5534,7 +5534,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 36,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -5553,7 +5553,7 @@
             "cookTime": "0 min",
             "id": "34",
             "ingredientName": null,
-            "calories": 613,
+            "calories": 237,
             "week": 2,
             "prepTime": "1 min"
         },
@@ -5896,7 +5896,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 56,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -5915,13 +5915,13 @@
             "cookTime": "0 min",
             "id": "61",
             "ingredientName": null,
-            "calories": 760,
+            "calories": 237,
             "week": 4,
             "prepTime": "1 min"
         },
         {
             "readyIn": "1 min",
-            "protein": 27,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -5940,7 +5940,7 @@
             "cookTime": "0 min",
             "id": "9",
             "ingredientName": null,
-            "calories": 280,
+            "calories": 237,
             "week": 4,
             "prepTime": "1 min"
         },
@@ -6207,7 +6207,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 32,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -6226,7 +6226,7 @@
             "cookTime": "0 min",
             "id": "52",
             "ingredientName": null,
-            "calories": 225,
+            "calories": 237,
             "week": 2,
             "prepTime": "1 min"
         },
@@ -6741,7 +6741,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 36,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -6760,7 +6760,7 @@
             "cookTime": "0 min",
             "id": "9",
             "ingredientName": null,
-            "calories": 630,
+            "calories": 237,
             "week": 2,
             "prepTime": "1 min"
         },
@@ -9045,7 +9045,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 34,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -9064,7 +9064,7 @@
             "cookTime": "0 min",
             "id": "17",
             "ingredientName": null,
-            "calories": 707,
+            "calories": 237,
             "week": 2,
             "prepTime": "1 min"
         },

@@ -400,7 +400,7 @@
             "name": "Lentil, Kale & Sausage Stew",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FLentil%20kale%20sausage%20stew.jpg?alt=media&token=5f2286e4-270f-44a7-9977-10f2e6b27f06",
             "mealId": null,
-            "protein": 48,
+            "protein": 37.0,
             "ingredientName": null,
             "instruction": "Heat oil in large pot over med-high heat. Add sausage and\ncook until browned- about 8-10 mins.\nAdd onions and cook- about 3-5 mins. Add garlic and cook about 1 min. Add broth, kale, sweet potatoes, and lentils.\nBring to boil, reduce heat and simmer until lentils and sweet\npotatoes are tender- about 30-35 mins",
             "quantity": null,
@@ -447,7 +447,7 @@
             "mealTitle": "Dinner",
             "id": "23",
             "week": 2,
-            "calories": 774
+            "calories": 487
         },
         {
             "name": "Chicken Zucchini Meat Balls",
@@ -722,7 +722,7 @@
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 45,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -773,7 +773,7 @@
             "mealTitle": "Lunch",
             "id": "2",
             "week": 1,
-            "calories": 697
+            "calories": 410
         },
         {
             "name": "Baked Salmon with Lemon and Thyme",
@@ -1167,7 +1167,7 @@
             "name": "Lentil, Kale & Sausage Stew",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FLentil%20kale%20sausage%20stew.jpg?alt=media&token=5f2286e4-270f-44a7-9977-10f2e6b27f06",
             "mealId": null,
-            "protein": 55,
+            "protein": 37.0,
             "ingredientName": null,
             "instruction": "Heat oil in large pot over med-high heat. Add sausage and\ncook until browned- about 8-10 mins.\nAdd onions and cook- about 3-5 mins. Add garlic and cook about 1 min. Add broth, kale, sweet potatoes, and lentils.\nBring to boil, reduce heat and simmer until lentils and sweet\npotatoes are tender- about 30-35 mins",
             "quantity": null,
@@ -1214,7 +1214,7 @@
             "mealTitle": "Lunch",
             "id": "12",
             "week": 4,
-            "calories": 464
+            "calories": 487
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",
@@ -1399,7 +1399,7 @@
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 54,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -1450,7 +1450,7 @@
             "id": "32",
             "mealTitle": "Dinner",
             "week": 3,
-            "calories": 240
+            "calories": 410
         },
         {
             "name": "Chicken Zucchini Meat Balls",
@@ -1780,7 +1780,7 @@
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FFall%20Harvest%20Salad.png?alt=media&token=bca2e4eb-8c47-41e4-a698-e79b075adc8c",
             "mealId": "",
-            "protein": 31,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients (lemon, tahini, salt, cayenne pepper) into a little bowl and whisk together until one smooth consistency. Add water bit by bit as needed, if consistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing massage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad dressing and mix well.",
             "quantity": "",
@@ -1832,7 +1832,7 @@
             "mealTitle": "Dinner",
             "id": "30",
             "week": 1,
-            "calories": 436
+            "calories": 410
         },
         {
             "name": "Baked Salmon with Lemon and Thyme",
@@ -2005,7 +2005,7 @@
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 52,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -2056,7 +2056,7 @@
             "mealTitle": "Lunch",
             "id": "18",
             "week": 1,
-            "calories": 685
+            "calories": 410
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",
@@ -2180,7 +2180,7 @@
             "name": "Lentil, Kale & Sausage Stew",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FLentil%20kale%20sausage%20stew.jpg?alt=media&token=5f2286e4-270f-44a7-9977-10f2e6b27f06",
             "mealId": null,
-            "protein": 30,
+            "protein": 37.0,
             "ingredientName": null,
             "instruction": "Heat oil in large pot over med-high heat. Add sausage and\ncook until browned- about 8-10 mins.\nAdd onions and cook- about 3-5 mins. Add garlic and cook about 1 min. Add broth, kale, sweet potatoes, and lentils.\nBring to boil, reduce heat and simmer until lentils and sweet\npotatoes are tender- about 30-35 mins",
             "quantity": null,
@@ -2227,7 +2227,7 @@
             "mealTitle": "Dinner",
             "id": "23",
             "week": 4,
-            "calories": 699
+            "calories": 487
         },
         {
             "name": "Baked Salmon with Lemon and Thyme",
@@ -2560,7 +2560,7 @@
             "name": "Lentil, Kale & Sausage Stew",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FLentil%20kale%20sausage%20stew.jpg?alt=media&token=5f2286e4-270f-44a7-9977-10f2e6b27f06",
             "mealId": null,
-            "protein": 60,
+            "protein": 37.0,
             "ingredientName": null,
             "instruction": "Heat oil in large pot over med-high heat. Add sausage and\ncook until browned- about 8-10 mins.\nAdd onions and cook- about 3-5 mins. Add garlic and cook about 1 min. Add broth, kale, sweet potatoes, and lentils.\nBring to boil, reduce heat and simmer until lentils and sweet\npotatoes are tender- about 30-35 mins",
             "quantity": null,
@@ -2607,7 +2607,7 @@
             "mealTitle": "Dinner",
             "id": "9",
             "week": 2,
-            "calories": 493
+            "calories": 487
         },
         {
             "name": "Apple",
@@ -3085,7 +3085,7 @@
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 25,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -3136,13 +3136,13 @@
             "mealTitle": "Lunch",
             "id": "2",
             "week": 3,
-            "calories": 435
+            "calories": 410
         },
         {
             "name": "Lentil, Kale & Sausage Stew",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FLentil%20kale%20sausage%20stew.jpg?alt=media&token=5f2286e4-270f-44a7-9977-10f2e6b27f06",
             "mealId": null,
-            "protein": 42,
+            "protein": 37.0,
             "ingredientName": null,
             "instruction": "Heat oil in large pot over med-high heat. Add sausage and\ncook until browned- about 8-10 mins.\nAdd onions and cook- about 3-5 mins. Add garlic and cook about 1 min. Add broth, kale, sweet potatoes, and lentils.\nBring to boil, reduce heat and simmer until lentils and sweet\npotatoes are tender- about 30-35 mins",
             "quantity": null,
@@ -3189,7 +3189,7 @@
             "mealTitle": "Dinner",
             "id": "9",
             "week": 4,
-            "calories": 533
+            "calories": 487
         },
         {
             "name": "Cardamom Quinoa Porridge",
@@ -3669,7 +3669,7 @@
             "name": "Lentil, Kale & Sausage Stew",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FLentil%20kale%20sausage%20stew.jpg?alt=media&token=5f2286e4-270f-44a7-9977-10f2e6b27f06",
             "mealId": null,
-            "protein": 22,
+            "protein": 37.0,
             "ingredientName": null,
             "instruction": "Heat oil in large pot over med-high heat. Add sausage and\ncook until browned- about 8-10 mins.\nAdd onions and cook- about 3-5 mins. Add garlic and cook about 1 min. Add broth, kale, sweet potatoes, and lentils.\nBring to boil, reduce heat and simmer until lentils and sweet\npotatoes are tender- about 30-35 mins",
             "quantity": null,
@@ -3716,13 +3716,13 @@
             "mealTitle": "Lunch",
             "id": "26",
             "week": 2,
-            "calories": 751
+            "calories": 487
         },
         {
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FFall%20Harvest%20Salad.png?alt=media&token=bca2e4eb-8c47-41e4-a698-e79b075adc8c",
             "mealId": "",
-            "protein": 47,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients (lemon, tahini, salt, cayenne pepper) into a little bowl and whisk together until one smooth consistency. Add water bit by bit as needed, if consistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing massage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad dressing and mix well.",
             "quantity": "",
@@ -3774,7 +3774,7 @@
             "mealTitle": "Dinner",
             "id": "30",
             "week": 3,
-            "calories": 492
+            "calories": 410
         },
         {
             "name": "Cardamom Quinoa Porridge",
@@ -3911,7 +3911,7 @@
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 35,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -3962,13 +3962,13 @@
             "mealTitle": "Lunch",
             "id": "18",
             "week": 3,
-            "calories": 381
+            "calories": 410
         },
         {
             "name": "Lentil, Kale & Sausage Stew",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FLentil%20kale%20sausage%20stew.jpg?alt=media&token=5f2286e4-270f-44a7-9977-10f2e6b27f06",
             "mealId": null,
-            "protein": 44,
+            "protein": 37.0,
             "ingredientName": null,
             "instruction": "Heat oil in large pot over med-high heat. Add sausage and\ncook until browned- about 8-10 mins.\nAdd onions and cook- about 3-5 mins. Add garlic and cook about 1 min. Add broth, kale, sweet potatoes, and lentils.\nBring to boil, reduce heat and simmer until lentils and sweet\npotatoes are tender- about 30-35 mins",
             "quantity": null,
@@ -4015,7 +4015,7 @@
             "mealTitle": "Lunch",
             "id": "26",
             "week": 4,
-            "calories": 336
+            "calories": 487
         },
         {
             "name": "Pear",
@@ -4288,7 +4288,7 @@
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 58,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -4339,7 +4339,7 @@
             "mealTitle": "Dinner",
             "id": "14",
             "week": 1,
-            "calories": 337
+            "calories": 410
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",
@@ -5595,7 +5595,7 @@
             "name": "Lentil, Kale & Sausage Stew",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FLentil%20kale%20sausage%20stew.jpg?alt=media&token=5f2286e4-270f-44a7-9977-10f2e6b27f06",
             "mealId": null,
-            "protein": 21,
+            "protein": 37.0,
             "ingredientName": null,
             "instruction": "Heat oil in large pot over med-high heat. Add sausage and\ncook until browned- about 8-10 mins.\nAdd onions and cook- about 3-5 mins. Add garlic and cook about 1 min. Add broth, kale, sweet potatoes, and lentils.\nBring to boil, reduce heat and simmer until lentils and sweet\npotatoes are tender- about 30-35 mins",
             "quantity": null,
@@ -5642,7 +5642,7 @@
             "mealTitle": "Lunch",
             "id": "12",
             "week": 2,
-            "calories": 231
+            "calories": 487
         },
         {
             "name": "3-Ingredient Banana Pancakes",
@@ -5795,7 +5795,7 @@
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 30,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -5846,7 +5846,7 @@
             "mealTitle": "Dinner",
             "id": "14",
             "week": 3,
-            "calories": 634
+            "calories": 410
         },
         {
             "name": "Chicken Zucchini Meat Balls",
@@ -6129,7 +6129,7 @@
             "name": "Fall Harvest Salad",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FHarvest%20salad.jpg?alt=media&token=7e60beb8-ce07-47aa-bf6d-0214e614ec4f",
             "mealId": null,
-            "protein": 50,
+            "protein": 18.3,
             "ingredientName": null,
             "instruction": "1. To make the dressing: add all dressing ingredients\n(lemon, tahini, salt, cayenne pepper) into a little\nbowl and whisk together until one smooth\nconsistency. Add water bit by bit as needed, if\nconsistency is too thick.\n2. Place kale in a bowl, using 1/2 of the dressing\nmassage the kale until tender.\n3. Top with the rest of the ingredients, remaining salad\ndressing and mix well.",
             "quantity": null,
@@ -6180,7 +6180,7 @@
             "id": "32",
             "mealTitle": "Dinner",
             "week": 1,
-            "calories": 290
+            "calories": 410
         },
         {
             "name": "Sweet Potato Toast with Avocado",

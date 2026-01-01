@@ -7,7 +7,7 @@
     "meals": [
         {
             "readyIn": "1 min",
-            "protein": 43,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -26,7 +26,7 @@
             "cookTime": "0 min",
             "id": "56",
             "ingredientName": null,
-            "calories": 202,
+            "calories": 237,
             "week": 4,
             "prepTime": "1 min"
         },
@@ -281,7 +281,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 58,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -300,7 +300,7 @@
             "cookTime": "0 min",
             "id": "10",
             "ingredientName": null,
-            "calories": 539,
+            "calories": 237,
             "week": 4,
             "prepTime": "1 min"
         },
@@ -2417,7 +2417,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 42,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -2436,7 +2436,7 @@
             "cookTime": "0 min",
             "id": "56",
             "ingredientName": null,
-            "calories": 775,
+            "calories": 237,
             "week": 2,
             "prepTime": "1 min"
         },
@@ -3339,7 +3339,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 41,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -3358,7 +3358,7 @@
             "cookTime": "0 min",
             "id": "29",
             "ingredientName": null,
-            "calories": 520,
+            "calories": 237,
             "week": 2,
             "prepTime": "1 min"
         },
@@ -4062,7 +4062,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 47,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -4081,7 +4081,7 @@
             "cookTime": "0 min",
             "id": "38",
             "ingredientName": null,
-            "calories": 302,
+            "calories": 237,
             "week": 4,
             "prepTime": "1 min"
         },
@@ -4630,7 +4630,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 38,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -4649,7 +4649,7 @@
             "cookTime": "0 min",
             "id": "38",
             "ingredientName": null,
-            "calories": 766,
+            "calories": 237,
             "week": 2,
             "prepTime": "1 min"
         },
@@ -4753,7 +4753,7 @@
         },
         {
             "readyIn": "15 min",
-            "protein": 30,
+            "protein": 13.4,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Wash and dry spinach then chop into pieces\n2. Add eggs to a pot and cover with cold water by 1 inch.\nBring water and eggs to a rolling boil at medium/high heat\nfor about 8-10 minutes. Remove eggs from heat, drain and\ncool in ice water and peel\n3. Crumble cheese with hands, cut cherry tomatoes in half\nor leave full if they are bite size\n4. Cook turkey bacon by placing strips on a skillet and turn\nevery 2-3 minutes, adjusting heat if necessary for about\n8-10 minutes until bacon reaches your desired crisp.\nTransfer strips using tongs to a paper-towel lined plate to\nabsorb some of the excess oil. Cut bacon into bite size\npieces for salad\n5. Combine salad ingredients in a large bowl.\n6. separate 1 large egg yolk in a separate large bowl, whisk\n7. Blend egg yolk, mustard, salt, lemon juice, pepper in a\nfood processor or blender until smooth. Slowly add oil until\nemulsified.\n8. Add all salad ingredients together, drizzle with dressing.\nServe and enjoy!",
@@ -4812,7 +4812,7 @@
             "cookTime": "0 min",
             "id": "8",
             "ingredientName": null,
-            "calories": 419,
+            "calories": 440,
             "week": 4,
             "prepTime": "15 min"
         },
@@ -5080,7 +5080,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 45,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -5099,7 +5099,7 @@
             "cookTime": "0 min",
             "id": "67",
             "ingredientName": null,
-            "calories": 644,
+            "calories": 237,
             "week": 4,
             "prepTime": "1 min"
         },
@@ -6496,7 +6496,7 @@
         },
         {
             "readyIn": "15 min",
-            "protein": 42,
+            "protein": 13.4,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Wash and dry spinach then chop into pieces\n2. Add eggs to a pot and cover with cold water by 1 inch.\nBring water and eggs to a rolling boil at medium/high heat\nfor about 8-10 minutes. Remove eggs from heat, drain and\ncool in ice water and peel\n3. Crumble cheese with hands, cut cherry tomatoes in half\nor leave full if they are bite size\n4. Cook turkey bacon by placing strips on a skillet and turn\nevery 2-3 minutes, adjusting heat if necessary for about\n8-10 minutes until bacon reaches your desired crisp.\nTransfer strips using tongs to a paper-towel lined plate to\nabsorb some of the excess oil. Cut bacon into bite size\npieces for salad\n5. Combine salad ingredients in a large bowl.\n6. separate 1 large egg yolk in a separate large bowl, whisk\n7. Blend egg yolk, mustard, salt, lemon juice, pepper in a\nfood processor or blender until smooth. Slowly add oil until\nemulsified.\n8. Add all salad ingredients together, drizzle with dressing.\nServe and enjoy!",
@@ -6555,7 +6555,7 @@
             "cookTime": "0 min",
             "id": "25",
             "ingredientName": null,
-            "calories": 735,
+            "calories": 440,
             "week": 2,
             "prepTime": "15 min"
         },
@@ -6695,7 +6695,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 20,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -6714,7 +6714,7 @@
             "cookTime": "0 min",
             "id": "10",
             "ingredientName": null,
-            "calories": 392,
+            "calories": 237,
             "week": 2,
             "prepTime": "1 min"
         },
@@ -9042,7 +9042,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 55,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -9061,7 +9061,7 @@
             "cookTime": "0 min",
             "id": "47",
             "ingredientName": null,
-            "calories": 339,
+            "calories": 237,
             "week": 4,
             "prepTime": "1 min"
         },
@@ -9777,7 +9777,7 @@
         },
         {
             "readyIn": "15 min",
-            "protein": 22,
+            "protein": 13.4,
             "mealTitle": "Dinner",
             "quantity": null,
             "instruction": "1. Wash and dry spinach then chop into pieces\n2. Add eggs to a pot and cover with cold water by 1 inch.\nBring water and eggs to a rolling boil at medium/high heat\nfor about 8-10 minutes. Remove eggs from heat, drain and\ncool in ice water and peel\n3. Crumble cheese with hands, cut cherry tomatoes in half\nor leave full if they are bite size\n4. Cook turkey bacon by placing strips on a skillet and turn\nevery 2-3 minutes, adjusting heat if necessary for about\n8-10 minutes until bacon reaches your desired crisp.\nTransfer strips using tongs to a paper-towel lined plate to\nabsorb some of the excess oil. Cut bacon into bite size\npieces for salad\n5. Combine salad ingredients in a large bowl.\n6. separate 1 large egg yolk in a separate large bowl, whisk\n7. Blend egg yolk, mustard, salt, lemon juice, pepper in a\nfood processor or blender until smooth. Slowly add oil until\nemulsified.\n8. Add all salad ingredients together, drizzle with dressing.\nServe and enjoy!",
@@ -9836,7 +9836,7 @@
             "cookTime": "0 min",
             "id": "8",
             "ingredientName": null,
-            "calories": 258,
+            "calories": 440,
             "week": 2,
             "prepTime": "15 min"
         },
@@ -10679,7 +10679,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 24,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -10698,7 +10698,7 @@
             "cookTime": "0 min",
             "id": "47",
             "ingredientName": null,
-            "calories": 441,
+            "calories": 237,
             "week": 2,
             "prepTime": "1 min"
         },
@@ -10916,7 +10916,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 46,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -10935,7 +10935,7 @@
             "cookTime": "0 min",
             "id": "19",
             "ingredientName": null,
-            "calories": 494,
+            "calories": 237,
             "week": 2,
             "prepTime": "1 min"
         },
@@ -11100,7 +11100,7 @@
         },
         {
             "readyIn": "1 min",
-            "protein": 34,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -11119,13 +11119,13 @@
             "cookTime": "0 min",
             "id": "29",
             "ingredientName": null,
-            "calories": 518,
+            "calories": 237,
             "week": 4,
             "prepTime": "1 min"
         },
         {
             "readyIn": "1 min",
-            "protein": 40,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -11144,13 +11144,13 @@
             "cookTime": "0 min",
             "id": "19",
             "ingredientName": null,
-            "calories": 572,
+            "calories": 237,
             "week": 4,
             "prepTime": "1 min"
         },
         {
             "readyIn": "1 min",
-            "protein": 24,
+            "protein": 8.3,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "1. Purchase organic almonds - enjoy 8-10 almonds a day as\na power snack!",
@@ -11169,7 +11169,7 @@
             "cookTime": "0 min",
             "id": "67",
             "ingredientName": null,
-            "calories": 335,
+            "calories": 237,
             "week": 2,
             "prepTime": "1 min"
         },
@@ -14026,7 +14026,7 @@
         },
         {
             "readyIn": "15 min",
-            "protein": 57,
+            "protein": 13.4,
             "mealTitle": "Lunch",
             "quantity": null,
             "instruction": "1. Wash and dry spinach then chop into pieces\n2. Add eggs to a pot and cover with cold water by 1 inch.\nBring water and eggs to a rolling boil at medium/high heat\nfor about 8-10 minutes. Remove eggs from heat, drain and\ncool in ice water and peel\n3. Crumble cheese with hands, cut cherry tomatoes in half\nor leave full if they are bite size\n4. Cook turkey bacon by placing strips on a skillet and turn\nevery 2-3 minutes, adjusting heat if necessary for about\n8-10 minutes until bacon reaches your desired crisp.\nTransfer strips using tongs to a paper-towel lined plate to\nabsorb some of the excess oil. Cut bacon into bite size\npieces for salad\n5. Combine salad ingredients in a large bowl.\n6. separate 1 large egg yolk in a separate large bowl, whisk\n7. Blend egg yolk, mustard, salt, lemon juice, pepper in a\nfood processor or blender until smooth. Slowly add oil until\nemulsified.\n8. Add all salad ingredients together, drizzle with dressing.\nServe and enjoy!",
@@ -14085,7 +14085,7 @@
             "cookTime": "0 min",
             "id": "25",
             "ingredientName": null,
-            "calories": 612,
+            "calories": 440,
             "week": 4,
             "prepTime": "15 min"
         },
