@@ -125,7 +125,7 @@
         },
         {
             "readyIn": "12 min",
-            "protein": 60,
+            "protein": 20.0,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "1. Crack the eggs into a mixing bowl, season with a pinch of\nsea salt and black pepper, then beat well with a fork until\nfully combined.\n2. Place a small non-stick frying pan on a low heat to warm\nup.\n3. Grate the cheese onto a board and set aside.\n4. Add 1/2 tablespoon of oil to the hot pan, then carefully\npour in the eggs.\n5. Tilt the pan to spread them out evenly, using a fork to\nswirl the eggs around the pan a little.\n6. When the omelette begins to cook and firm up, but still\nhas a little raw egg on top, sprinkle over the cheese.\n7. Using a spatula, ease around the edges of the omelette,\nthen fold it over in half.\n8. When it starts to turn golden brown underneath, remove\nthe pan from the heat and slide the omelette onto a plate. .\nEnjoy!",
@@ -156,7 +156,7 @@
             "cookTime": "10 min",
             "id": "11",
             "ingredientName": null,
-            "calories": 668,
+            "calories": 334,
             "week": 2,
             "prepTime": "2 min"
         },
@@ -1044,7 +1044,7 @@
         },
         {
             "readyIn": "45 min",
-            "protein": 57,
+            "protein": 6.5,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -1079,7 +1079,7 @@
             "cookTime": "30 min",
             "id": "50",
             "ingredientName": null,
-            "calories": 597,
+            "calories": 209,
             "week": 1,
             "prepTime": "15 min"
         },
@@ -1154,7 +1154,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 48,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -1173,7 +1173,7 @@
             "cookTime": "0 mmin",
             "id": "51",
             "ingredientName": null,
-            "calories": 528,
+            "calories": 172,
             "week": 1,
             "prepTime": "2 min"
         },
@@ -1257,7 +1257,7 @@
         },
         {
             "readyIn": "45 min",
-            "protein": 34,
+            "protein": 6.5,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -1292,7 +1292,7 @@
             "cookTime": "30 min",
             "id": "15",
             "ingredientName": null,
-            "calories": 738,
+            "calories": 209,
             "week": 1,
             "prepTime": "15 min"
         },
@@ -2397,7 +2397,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 40,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -2416,7 +2416,7 @@
             "cookTime": "0 mmin",
             "id": "34",
             "ingredientName": null,
-            "calories": 551,
+            "calories": 172,
             "week": 1,
             "prepTime": "2 min"
         },
@@ -3389,7 +3389,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 23,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -3408,7 +3408,7 @@
             "cookTime": "0 mmin",
             "id": "51",
             "ingredientName": null,
-            "calories": 491,
+            "calories": 172,
             "week": 3,
             "prepTime": "2 min"
         },
@@ -4150,7 +4150,7 @@
         },
         {
             "readyIn": "45 min",
-            "protein": 47,
+            "protein": 6.5,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -4185,7 +4185,7 @@
             "cookTime": "30 min",
             "id": "50",
             "ingredientName": null,
-            "calories": 624,
+            "calories": 209,
             "week": 3,
             "prepTime": "15 min"
         },
@@ -5131,7 +5131,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 25,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -5150,7 +5150,7 @@
             "cookTime": "0 mmin",
             "id": "16",
             "ingredientName": null,
-            "calories": 779,
+            "calories": 172,
             "week": 1,
             "prepTime": "2 min"
         },
@@ -8022,7 +8022,7 @@
         },
         {
             "readyIn": "12 min",
-            "protein": 57,
+            "protein": 20.0,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "1. Crack the eggs into a mixing bowl, season with a pinch of\nsea salt and black pepper, then beat well with a fork until\nfully combined.\n2. Place a small non-stick frying pan on a low heat to warm\nup.\n3. Grate the cheese onto a board and set aside.\n4. Add 1/2 tablespoon of oil to the hot pan, then carefully\npour in the eggs.\n5. Tilt the pan to spread them out evenly, using a fork to\nswirl the eggs around the pan a little.\n6. When the omelette begins to cook and firm up, but still\nhas a little raw egg on top, sprinkle over the cheese.\n7. Using a spatula, ease around the edges of the omelette,\nthen fold it over in half.\n8. When it starts to turn golden brown underneath, remove\nthe pan from the heat and slide the omelette onto a plate. .\nEnjoy!",
@@ -8053,7 +8053,7 @@
             "cookTime": "10 min",
             "id": "28",
             "ingredientName": null,
-            "calories": 273,
+            "calories": 334,
             "week": 2,
             "prepTime": "2 min"
         },
@@ -8939,7 +8939,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 48,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -8958,7 +8958,7 @@
             "cookTime": "0 mmin",
             "id": "34",
             "ingredientName": null,
-            "calories": 773,
+            "calories": 172,
             "week": 3,
             "prepTime": "2 min"
         },
@@ -9747,7 +9747,7 @@
         },
         {
             "readyIn": "45 min",
-            "protein": 57,
+            "protein": 6.5,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -9782,13 +9782,13 @@
             "cookTime": "30 min",
             "id": "15",
             "ingredientName": null,
-            "calories": 227,
+            "calories": 209,
             "week": 3,
             "prepTime": "15 min"
         },
         {
             "readyIn": "12 min",
-            "protein": 53,
+            "protein": 20.0,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "1. Crack the eggs into a mixing bowl, season with a pinch of\nsea salt and black pepper, then beat well with a fork until\nfully combined.\n2. Place a small non-stick frying pan on a low heat to warm\nup.\n3. Grate the cheese onto a board and set aside.\n4. Add 1/2 tablespoon of oil to the hot pan, then carefully\npour in the eggs.\n5. Tilt the pan to spread them out evenly, using a fork to\nswirl the eggs around the pan a little.\n6. When the omelette begins to cook and firm up, but still\nhas a little raw egg on top, sprinkle over the cheese.\n7. Using a spatula, ease around the edges of the omelette,\nthen fold it over in half.\n8. When it starts to turn golden brown underneath, remove\nthe pan from the heat and slide the omelette onto a plate. .\nEnjoy!",
@@ -9819,7 +9819,7 @@
             "cookTime": "10 min",
             "id": "11",
             "ingredientName": null,
-            "calories": 638,
+            "calories": 334,
             "week": 4,
             "prepTime": "2 min"
         },
@@ -12180,7 +12180,7 @@
         },
         {
             "readyIn": "12 min",
-            "protein": 38,
+            "protein": 20.0,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "1. Crack the eggs into a mixing bowl, season with a pinch of\nsea salt and black pepper, then beat well with a fork until\nfully combined.\n2. Place a small non-stick frying pan on a low heat to warm\nup.\n3. Grate the cheese onto a board and set aside.\n4. Add 1/2 tablespoon of oil to the hot pan, then carefully\npour in the eggs.\n5. Tilt the pan to spread them out evenly, using a fork to\nswirl the eggs around the pan a little.\n6. When the omelette begins to cook and firm up, but still\nhas a little raw egg on top, sprinkle over the cheese.\n7. Using a spatula, ease around the edges of the omelette,\nthen fold it over in half.\n8. When it starts to turn golden brown underneath, remove\nthe pan from the heat and slide the omelette onto a plate. .\nEnjoy!",
@@ -12211,7 +12211,7 @@
             "cookTime": "10 min",
             "id": "28",
             "ingredientName": null,
-            "calories": 624,
+            "calories": 334,
             "week": 4,
             "prepTime": "2 min"
         },
@@ -12653,7 +12653,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 33,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -12672,7 +12672,7 @@
             "cookTime": "0 mmin",
             "id": "16",
             "ingredientName": null,
-            "calories": 315,
+            "calories": 172,
             "week": 3,
             "prepTime": "2 min"
         },

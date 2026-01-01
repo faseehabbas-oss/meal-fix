@@ -206,7 +206,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 56,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -225,7 +225,7 @@
             "mealTitle": "Lunch",
             "id": "3",
             "week": 4,
-            "calories": 601
+            "calories": 2
         },
         {
             "name": "Hummus-Crusted Chicken",
@@ -984,7 +984,7 @@
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 38,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -1039,7 +1039,7 @@
             "mealTitle": "Lunch",
             "id": "4",
             "week": 2,
-            "calories": 392
+            "calories": 297
         },
         {
             "name": "Wild rice salad",
@@ -1340,7 +1340,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 37,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -1359,7 +1359,7 @@
             "mealTitle": "Lunch",
             "id": "39",
             "week": 2,
-            "calories": 370
+            "calories": 2
         },
         {
             "name": "Greens and Beans with Rosemary and Thyme",
@@ -1714,7 +1714,7 @@
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 51,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -1769,7 +1769,7 @@
             "mealTitle": "Dinner",
             "id": "35",
             "week": 2,
-            "calories": 661
+            "calories": 297
         },
         {
             "name": "Banana",
@@ -1801,7 +1801,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 40,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -1820,7 +1820,7 @@
             "mealTitle": "Dinner",
             "id": "16",
             "week": 4,
-            "calories": 634
+            "calories": 2
         },
         {
             "name": "Cardamom Quinoa Porridge",
@@ -2543,7 +2543,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 36,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -2562,7 +2562,7 @@
             "mealTitle": "Dinner",
             "id": "34",
             "week": 4,
-            "calories": 779
+            "calories": 2
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",
@@ -2625,7 +2625,7 @@
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 44,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -2680,13 +2680,13 @@
             "mealTitle": "Lunch",
             "id": "40",
             "week": 2,
-            "calories": 520
+            "calories": 297
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 30,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -2741,7 +2741,7 @@
             "mealTitle": "Dinner",
             "id": "35",
             "week": 4,
-            "calories": 404
+            "calories": 297
         },
         {
             "name": "Lentil, Kale & Sausage Stew",
@@ -3863,7 +3863,7 @@
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 44,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -3918,7 +3918,7 @@
             "mealTitle": "Lunch",
             "id": "22",
             "week": 4,
-            "calories": 228
+            "calories": 297
         },
         {
             "name": "Chicken Zucchini Meat Balls",
@@ -4034,7 +4034,7 @@
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 34,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -4089,13 +4089,13 @@
             "mealTitle": "Lunch",
             "id": "40",
             "week": 4,
-            "calories": 463
+            "calories": 297
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 55,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -4150,7 +4150,7 @@
             "mealTitle": "Dinner",
             "id": "17",
             "week": 2,
-            "calories": 219
+            "calories": 297
         },
         {
             "name": "Pear",
@@ -4647,7 +4647,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 50,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -4666,7 +4666,7 @@
             "mealTitle": "Dinner",
             "id": "34",
             "week": 2,
-            "calories": 493
+            "calories": 2
         },
         {
             "name": "Pear",
@@ -4738,7 +4738,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 39,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -4757,7 +4757,7 @@
             "mealTitle": "Dinner",
             "id": "16",
             "week": 2,
-            "calories": 636
+            "calories": 2
         },
         {
             "name": "Apple",
@@ -4788,7 +4788,7 @@
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 59,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -4843,7 +4843,7 @@
             "mealTitle": "Lunch",
             "id": "4",
             "week": 4,
-            "calories": 504
+            "calories": 297
         },
         {
             "name": "Strawberries",
@@ -5356,7 +5356,7 @@
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 50,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -5411,7 +5411,7 @@
             "mealTitle": "Lunch",
             "id": "22",
             "week": 2,
-            "calories": 266
+            "calories": 297
         },
         {
             "name": "Honey Lime Quinoa Fruit Salad",
@@ -5584,7 +5584,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 53,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -5603,13 +5603,13 @@
             "mealTitle": "Lunch",
             "id": "21",
             "week": 2,
-            "calories": 324
+            "calories": 2
         },
         {
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 41,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -5628,7 +5628,7 @@
             "mealTitle": "Lunch",
             "id": "3",
             "week": 2,
-            "calories": 479
+            "calories": 2
         },
         {
             "name": "Strawberries",
@@ -5790,7 +5790,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 26,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -5809,7 +5809,7 @@
             "mealTitle": "Lunch",
             "id": "21",
             "week": 4,
-            "calories": 441
+            "calories": 2
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",
@@ -5987,7 +5987,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 51,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -6006,7 +6006,7 @@
             "mealTitle": "Lunch",
             "id": "39",
             "week": 4,
-            "calories": 251
+            "calories": 2
         },
         {
             "name": "Kale Chips",
@@ -6566,7 +6566,7 @@
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 57,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -6621,7 +6621,7 @@
             "mealTitle": "Dinner",
             "id": "17",
             "week": 4,
-            "calories": 204
+            "calories": 297
         },
         {
             "name": "Wild rice salad",

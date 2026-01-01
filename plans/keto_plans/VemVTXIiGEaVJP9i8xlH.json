@@ -1923,7 +1923,7 @@
         },
         {
             "readyIn": "12 min",
-            "protein": 49,
+            "protein": 20.0,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "1. Crack the eggs into a mixing bowl, season with a pinch of\nsea salt and black pepper, then beat well with a fork until\nfully combined.\n2. Place a small non-stick frying pan on a low heat to warm\nup.\n3. Grate the cheese onto a board and set aside.\n4. Add 1/2 tablespoon of oil to the hot pan, then carefully\npour in the eggs.\n5. Tilt the pan to spread them out evenly, using a fork to\nswirl the eggs around the pan a little.\n6. When the omelette begins to cook and firm up, but still\nhas a little raw egg on top, sprinkle over the cheese.\n7. Using a spatula, ease around the edges of the omelette,\nthen fold it over in half.\n8. When it starts to turn golden brown underneath, remove\nthe pan from the heat and slide the omelette onto a plate. .\nEnjoy!",
@@ -1954,13 +1954,13 @@
             "cookTime": "10 min",
             "id": "12",
             "ingredientName": null,
-            "calories": 507,
+            "calories": 334,
             "week": 4,
             "prepTime": "2 min"
         },
         {
             "readyIn": "2 min",
-            "protein": 41,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -1979,7 +1979,7 @@
             "cookTime": "0 mmin",
             "id": "60",
             "ingredientName": null,
-            "calories": 290,
+            "calories": 172,
             "week": 1,
             "prepTime": "2 min"
         },
@@ -2160,7 +2160,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 31,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -2179,7 +2179,7 @@
             "cookTime": "0 mmin",
             "id": "60",
             "ingredientName": null,
-            "calories": 639,
+            "calories": 172,
             "week": 3,
             "prepTime": "2 min"
         },
@@ -2392,7 +2392,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 48,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -2411,7 +2411,7 @@
             "cookTime": "0 mmin",
             "id": "9",
             "ingredientName": null,
-            "calories": 718,
+            "calories": 172,
             "week": 3,
             "prepTime": "2 min"
         },
@@ -2797,7 +2797,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 20,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -2816,7 +2816,7 @@
             "cookTime": "0 mmin",
             "id": "17",
             "ingredientName": null,
-            "calories": 617,
+            "calories": 172,
             "week": 1,
             "prepTime": "2 min"
         },
@@ -3143,7 +3143,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 36,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -3162,7 +3162,7 @@
             "cookTime": "0 mmin",
             "id": "38",
             "ingredientName": null,
-            "calories": 616,
+            "calories": 172,
             "week": 1,
             "prepTime": "2 min"
         },
@@ -3601,7 +3601,7 @@
         },
         {
             "readyIn": "12 min",
-            "protein": 32,
+            "protein": 20.0,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "1. Crack the eggs into a mixing bowl, season with a pinch of\nsea salt and black pepper, then beat well with a fork until\nfully combined.\n2. Place a small non-stick frying pan on a low heat to warm\nup.\n3. Grate the cheese onto a board and set aside.\n4. Add 1/2 tablespoon of oil to the hot pan, then carefully\npour in the eggs.\n5. Tilt the pan to spread them out evenly, using a fork to\nswirl the eggs around the pan a little.\n6. When the omelette begins to cook and firm up, but still\nhas a little raw egg on top, sprinkle over the cheese.\n7. Using a spatula, ease around the edges of the omelette,\nthen fold it over in half.\n8. When it starts to turn golden brown underneath, remove\nthe pan from the heat and slide the omelette onto a plate. .\nEnjoy!",
@@ -3632,7 +3632,7 @@
             "cookTime": "10 min",
             "id": "12",
             "ingredientName": null,
-            "calories": 582,
+            "calories": 334,
             "week": 2,
             "prepTime": "2 min"
         },
@@ -3846,7 +3846,7 @@
         },
         {
             "readyIn": "12 min",
-            "protein": 23,
+            "protein": 20.0,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "1. Crack the eggs into a mixing bowl, season with a pinch of\nsea salt and black pepper, then beat well with a fork until\nfully combined.\n2. Place a small non-stick frying pan on a low heat to warm\nup.\n3. Grate the cheese onto a board and set aside.\n4. Add 1/2 tablespoon of oil to the hot pan, then carefully\npour in the eggs.\n5. Tilt the pan to spread them out evenly, using a fork to\nswirl the eggs around the pan a little.\n6. When the omelette begins to cook and firm up, but still\nhas a little raw egg on top, sprinkle over the cheese.\n7. Using a spatula, ease around the edges of the omelette,\nthen fold it over in half.\n8. When it starts to turn golden brown underneath, remove\nthe pan from the heat and slide the omelette onto a plate. .\nEnjoy!",
@@ -3877,7 +3877,7 @@
             "cookTime": "10 min",
             "id": "32",
             "ingredientName": null,
-            "calories": 221,
+            "calories": 334,
             "week": 2,
             "prepTime": "2 min"
         },
@@ -5055,7 +5055,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 23,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -5074,7 +5074,7 @@
             "cookTime": "0 mmin",
             "id": "17",
             "ingredientName": null,
-            "calories": 594,
+            "calories": 172,
             "week": 3,
             "prepTime": "2 min"
         },
@@ -5648,7 +5648,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 26,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -5667,7 +5667,7 @@
             "cookTime": "0 mmin",
             "id": "72",
             "ingredientName": null,
-            "calories": 636,
+            "calories": 172,
             "week": 3,
             "prepTime": "2 min"
         },
@@ -6720,7 +6720,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 25,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -6739,7 +6739,7 @@
             "cookTime": "0 mmin",
             "id": "51",
             "ingredientName": null,
-            "calories": 402,
+            "calories": 172,
             "week": 1,
             "prepTime": "2 min"
         },
@@ -7358,7 +7358,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 27,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -7377,7 +7377,7 @@
             "cookTime": "0 mmin",
             "id": "28",
             "ingredientName": null,
-            "calories": 540,
+            "calories": 172,
             "week": 3,
             "prepTime": "2 min"
         },
@@ -7587,7 +7587,7 @@
         },
         {
             "readyIn": "45 min",
-            "protein": 38,
+            "protein": 6.5,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -7622,7 +7622,7 @@
             "cookTime": "30 min",
             "id": "16",
             "ingredientName": null,
-            "calories": 798,
+            "calories": 209,
             "week": 1,
             "prepTime": "15 min"
         },
@@ -8899,7 +8899,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 36,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -8918,7 +8918,7 @@
             "cookTime": "0 mmin",
             "id": "28",
             "ingredientName": null,
-            "calories": 691,
+            "calories": 172,
             "week": 1,
             "prepTime": "2 min"
         },
@@ -9242,7 +9242,7 @@
         },
         {
             "readyIn": "45 min",
-            "protein": 48,
+            "protein": 6.5,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -9277,7 +9277,7 @@
             "cookTime": "30 min",
             "id": "16",
             "ingredientName": null,
-            "calories": 393,
+            "calories": 209,
             "week": 3,
             "prepTime": "15 min"
         },
@@ -9952,7 +9952,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 49,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -9971,7 +9971,7 @@
             "cookTime": "0 mmin",
             "id": "38",
             "ingredientName": null,
-            "calories": 370,
+            "calories": 172,
             "week": 3,
             "prepTime": "2 min"
         },
@@ -10165,7 +10165,7 @@
         },
         {
             "readyIn": "45 min",
-            "protein": 36,
+            "protein": 6.5,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -10200,7 +10200,7 @@
             "cookTime": "30 min",
             "id": "59",
             "ingredientName": null,
-            "calories": 539,
+            "calories": 209,
             "week": 1,
             "prepTime": "15 min"
         },
@@ -11541,7 +11541,7 @@
         },
         {
             "readyIn": "12 min",
-            "protein": 29,
+            "protein": 20.0,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "1. Crack the eggs into a mixing bowl, season with a pinch of\nsea salt and black pepper, then beat well with a fork until\nfully combined.\n2. Place a small non-stick frying pan on a low heat to warm\nup.\n3. Grate the cheese onto a board and set aside.\n4. Add 1/2 tablespoon of oil to the hot pan, then carefully\npour in the eggs.\n5. Tilt the pan to spread them out evenly, using a fork to\nswirl the eggs around the pan a little.\n6. When the omelette begins to cook and firm up, but still\nhas a little raw egg on top, sprinkle over the cheese.\n7. Using a spatula, ease around the edges of the omelette,\nthen fold it over in half.\n8. When it starts to turn golden brown underneath, remove\nthe pan from the heat and slide the omelette onto a plate. .\nEnjoy!",
@@ -11572,7 +11572,7 @@
             "cookTime": "10 min",
             "id": "32",
             "ingredientName": null,
-            "calories": 280,
+            "calories": 334,
             "week": 4,
             "prepTime": "2 min"
         },
@@ -11631,7 +11631,7 @@
         },
         {
             "readyIn": "45 min",
-            "protein": 37,
+            "protein": 6.5,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Chill ripe avocado for 1-2 hours prior.\nAdd avocado to your blender, along with chocolate\nand protein powders, followed by the coconut milk.\nAdd sweetener of choice (optional).\nPut the lid on and blend for 10 seconds then rest for\n10 seconds in intervals until mousse reaches silky\nconsistency.\nTransfer to bowls and add your favorite toppings!\nSee \"Notes\" below.",
@@ -11666,7 +11666,7 @@
             "cookTime": "30 min",
             "id": "59",
             "ingredientName": null,
-            "calories": 466,
+            "calories": 209,
             "week": 3,
             "prepTime": "15 min"
         },
@@ -12107,7 +12107,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 39,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -12126,7 +12126,7 @@
             "cookTime": "0 mmin",
             "id": "9",
             "ingredientName": null,
-            "calories": 310,
+            "calories": 172,
             "week": 1,
             "prepTime": "2 min"
         },
@@ -12613,7 +12613,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 41,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -12632,7 +12632,7 @@
             "cookTime": "0 mmin",
             "id": "72",
             "ingredientName": null,
-            "calories": 700,
+            "calories": 172,
             "week": 1,
             "prepTime": "2 min"
         },
@@ -13835,7 +13835,7 @@
         },
         {
             "readyIn": "2 min",
-            "protein": 57,
+            "protein": 6.1,
             "mealTitle": "Snack",
             "quantity": null,
             "instruction": "Enjoy as a snack in between meals.",
@@ -13854,7 +13854,7 @@
             "cookTime": "0 mmin",
             "id": "51",
             "ingredientName": null,
-            "calories": 300,
+            "calories": 172,
             "week": 3,
             "prepTime": "2 min"
         },

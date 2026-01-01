@@ -833,7 +833,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 53,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -852,7 +852,7 @@
             "mealTitle": "Lunch",
             "id": "38",
             "week": 4,
-            "calories": 532
+            "calories": 2
         },
         {
             "name": "Cauliflower Rice",
@@ -920,7 +920,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 23,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -939,7 +939,7 @@
             "mealTitle": "Dinner",
             "id": "60",
             "week": 4,
-            "calories": 642
+            "calories": 2
         },
         {
             "name": "Detox Cabbage Salad",
@@ -1015,7 +1015,7 @@
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 36,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -1070,7 +1070,7 @@
             "mealTitle": "Lunch",
             "id": "39",
             "week": 2,
-            "calories": 213
+            "calories": 297
         },
         {
             "name": "Wild rice salad",
@@ -2501,7 +2501,7 @@
             "name": "Berry Smoothie Bowl",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBerry%20smoothie%20bowl.jpg?alt=media&token=e7053b3d-2da4-4ab3-bd7a-07b14036dce3",
             "mealId": null,
-            "protein": 24,
+            "protein": 22.2,
             "ingredientName": null,
             "instruction": "1. Blend all smoothie ingredients together. Enjoy!",
             "quantity": null,
@@ -2548,13 +2548,13 @@
             "mealTitle": "Snack",
             "id": "11",
             "week": 2,
-            "calories": 273
+            "calories": 601
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 22,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -2609,7 +2609,7 @@
             "mealTitle": "Dinner",
             "id": "29",
             "week": 2,
-            "calories": 340
+            "calories": 297
         },
         {
             "name": "Apple",
@@ -3597,7 +3597,7 @@
             "name": "Berry Smoothie Bowl",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBerry%20smoothie%20bowl.jpg?alt=media&token=e7053b3d-2da4-4ab3-bd7a-07b14036dce3",
             "mealId": null,
-            "protein": 22,
+            "protein": 22.2,
             "ingredientName": null,
             "instruction": "1. Blend all smoothie ingredients together. Enjoy!",
             "quantity": null,
@@ -3644,7 +3644,7 @@
             "mealTitle": "Snack",
             "id": "20",
             "week": 2,
-            "calories": 655
+            "calories": 601
         },
         {
             "name": "Fall Harvest Salad",
@@ -4202,7 +4202,7 @@
             "name": "Berry Smoothie Bowl",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBerry%20smoothie%20bowl.jpg?alt=media&token=e7053b3d-2da4-4ab3-bd7a-07b14036dce3",
             "mealId": null,
-            "protein": 32,
+            "protein": 22.2,
             "ingredientName": null,
             "instruction": "1. Blend all smoothie ingredients together. Enjoy!",
             "quantity": null,
@@ -4249,13 +4249,13 @@
             "mealTitle": "Snack",
             "id": "31",
             "week": 2,
-            "calories": 737
+            "calories": 601
         },
         {
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 35,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -4274,7 +4274,7 @@
             "mealTitle": "Dinner",
             "id": "60",
             "week": 2,
-            "calories": 289
+            "calories": 2
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",
@@ -4362,7 +4362,7 @@
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 26,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -4417,13 +4417,13 @@
             "mealTitle": "Dinner",
             "id": "29",
             "week": 4,
-            "calories": 507
+            "calories": 297
         },
         {
             "name": "Berry Smoothie Bowl",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBerry%20smoothie%20bowl.jpg?alt=media&token=e7053b3d-2da4-4ab3-bd7a-07b14036dce3",
             "mealId": null,
-            "protein": 47,
+            "protein": 22.2,
             "ingredientName": null,
             "instruction": "1. Blend all smoothie ingredients together. Enjoy!",
             "quantity": null,
@@ -4470,7 +4470,7 @@
             "mealTitle": "Snack",
             "id": "63",
             "week": 4,
-            "calories": 332
+            "calories": 601
         },
         {
             "name": "Easy Peanut Butter Protein Bars",
@@ -4513,7 +4513,7 @@
             "name": "Berry Smoothie Bowl",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBerry%20smoothie%20bowl.jpg?alt=media&token=e7053b3d-2da4-4ab3-bd7a-07b14036dce3",
             "mealId": null,
-            "protein": 56,
+            "protein": 22.2,
             "ingredientName": null,
             "instruction": "1. Blend all smoothie ingredients together. Enjoy!",
             "quantity": null,
@@ -4560,7 +4560,7 @@
             "mealTitle": "Snack",
             "id": "43",
             "week": 2,
-            "calories": 488
+            "calories": 601
         },
         {
             "name": "Avocado and Herb Omelet",
@@ -4737,7 +4737,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 26,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -4756,7 +4756,7 @@
             "id": "70",
             "mealTitle": "Lunch",
             "week": 4,
-            "calories": 703
+            "calories": 2
         },
         {
             "name": "Strawberries",
@@ -5997,7 +5997,7 @@
             "name": "Berry Smoothie Bowl",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBerry%20smoothie%20bowl.jpg?alt=media&token=e7053b3d-2da4-4ab3-bd7a-07b14036dce3",
             "mealId": null,
-            "protein": 51,
+            "protein": 22.2,
             "ingredientName": null,
             "instruction": "1. Blend all smoothie ingredients together. Enjoy!",
             "quantity": null,
@@ -6044,7 +6044,7 @@
             "mealTitle": "Snack",
             "id": "20",
             "week": 4,
-            "calories": 652
+            "calories": 601
         },
         {
             "name": "Detox Cabbage Salad",
@@ -6376,7 +6376,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 47,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -6395,7 +6395,7 @@
             "id": "70",
             "mealTitle": "Lunch",
             "week": 2,
-            "calories": 302
+            "calories": 2
         },
         {
             "name": "Blueberries",
@@ -6606,7 +6606,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 39,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -6625,7 +6625,7 @@
             "mealTitle": "Lunch",
             "id": "6",
             "week": 4,
-            "calories": 449
+            "calories": 2
         },
         {
             "name": "Greens and Beans with Rosemary and Thyme",
@@ -7761,7 +7761,7 @@
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 39,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -7816,13 +7816,13 @@
             "mealTitle": "Lunch",
             "id": "5",
             "week": 4,
-            "calories": 627
+            "calories": 297
         },
         {
             "name": "Berry Smoothie Bowl",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBerry%20smoothie%20bowl.jpg?alt=media&token=e7053b3d-2da4-4ab3-bd7a-07b14036dce3",
             "mealId": null,
-            "protein": 58,
+            "protein": 22.2,
             "ingredientName": null,
             "instruction": "1. Blend all smoothie ingredients together. Enjoy!",
             "quantity": null,
@@ -7869,7 +7869,7 @@
             "mealTitle": "Snack",
             "id": "75",
             "week": 4,
-            "calories": 448
+            "calories": 601
         },
         {
             "name": "Greens and Beans with Rosemary and Thyme",
@@ -7961,7 +7961,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 56,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -7980,7 +7980,7 @@
             "mealTitle": "Lunch",
             "id": "38",
             "week": 2,
-            "calories": 519
+            "calories": 2
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",
@@ -8113,7 +8113,7 @@
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 29,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -8168,7 +8168,7 @@
             "id": "71",
             "mealTitle": "Lunch",
             "week": 4,
-            "calories": 585
+            "calories": 297
         },
         {
             "name": "Strawberries",
@@ -8600,7 +8600,7 @@
             "name": "Berry Smoothie Bowl",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBerry%20smoothie%20bowl.jpg?alt=media&token=e7053b3d-2da4-4ab3-bd7a-07b14036dce3",
             "mealId": null,
-            "protein": 35,
+            "protein": 22.2,
             "ingredientName": null,
             "instruction": "1. Blend all smoothie ingredients together. Enjoy!",
             "quantity": null,
@@ -8647,7 +8647,7 @@
             "mealTitle": "Snack",
             "id": "63",
             "week": 2,
-            "calories": 533
+            "calories": 601
         },
         {
             "name": "Detox Cabbage Salad",
@@ -8877,7 +8877,7 @@
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 29,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -8932,13 +8932,13 @@
             "mealTitle": "Dinner",
             "id": "61",
             "week": 2,
-            "calories": 543
+            "calories": 297
         },
         {
             "name": "Berry Smoothie Bowl",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBerry%20smoothie%20bowl.jpg?alt=media&token=e7053b3d-2da4-4ab3-bd7a-07b14036dce3",
             "mealId": null,
-            "protein": 60,
+            "protein": 22.2,
             "ingredientName": null,
             "instruction": "1. Blend all smoothie ingredients together. Enjoy!",
             "quantity": null,
@@ -8985,7 +8985,7 @@
             "mealTitle": "Snack",
             "id": "75",
             "week": 2,
-            "calories": 238
+            "calories": 601
         },
         {
             "name": "Lentil, Kale & Sausage Stew",
@@ -9778,7 +9778,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 35,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -9797,7 +9797,7 @@
             "mealTitle": "Dinner",
             "id": "28",
             "week": 4,
-            "calories": 549
+            "calories": 2
         },
         {
             "name": "Honey Lime Quinoa Fruit Salad",
@@ -9901,7 +9901,7 @@
             "name": "Berry Smoothie Bowl",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBerry%20smoothie%20bowl.jpg?alt=media&token=e7053b3d-2da4-4ab3-bd7a-07b14036dce3",
             "mealId": null,
-            "protein": 38,
+            "protein": 22.2,
             "ingredientName": null,
             "instruction": "1. Blend all smoothie ingredients together. Enjoy!",
             "quantity": null,
@@ -10317,7 +10317,7 @@
             "name": "Berry Smoothie Bowl",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBerry%20smoothie%20bowl.jpg?alt=media&token=e7053b3d-2da4-4ab3-bd7a-07b14036dce3",
             "mealId": null,
-            "protein": 22,
+            "protein": 22.2,
             "ingredientName": null,
             "instruction": "1. Blend all smoothie ingredients together. Enjoy!",
             "quantity": null,
@@ -10364,7 +10364,7 @@
             "mealTitle": "Snack",
             "id": "43",
             "week": 4,
-            "calories": 555
+            "calories": 601
         },
         {
             "name": "Pear",
@@ -10559,7 +10559,7 @@
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 31,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -10614,7 +10614,7 @@
             "mealTitle": "Lunch",
             "id": "5",
             "week": 2,
-            "calories": 340
+            "calories": 297
         },
         {
             "name": "Low-carb chia pudding",
@@ -11021,7 +11021,7 @@
             "name": "Berry Smoothie Bowl",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBerry%20smoothie%20bowl.jpg?alt=media&token=e7053b3d-2da4-4ab3-bd7a-07b14036dce3",
             "mealId": null,
-            "protein": 58,
+            "protein": 22.2,
             "ingredientName": null,
             "instruction": "1. Blend all smoothie ingredients together. Enjoy!",
             "quantity": null,
@@ -11068,7 +11068,7 @@
             "mealTitle": "Snack",
             "id": "31",
             "week": 4,
-            "calories": 204
+            "calories": 601
         },
         {
             "name": "Chocolate Dream Smoothie",
@@ -11760,7 +11760,7 @@
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 23,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -11815,7 +11815,7 @@
             "mealTitle": "Dinner",
             "id": "61",
             "week": 4,
-            "calories": 509
+            "calories": 297
         },
         {
             "name": "Fall Harvest Salad",
@@ -11878,7 +11878,7 @@
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 45,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -11933,7 +11933,7 @@
             "id": "71",
             "mealTitle": "Lunch",
             "week": 2,
-            "calories": 234
+            "calories": 297
         },
         {
             "name": "Easy Peanut Butter Protein Bars",
@@ -12054,7 +12054,7 @@
             "name": "Salmon with Avocado Salsa Oven Baked",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSalmon%20with%20avocado%20salsa.jpg?alt=media&token=423da183-ab35-4175-875e-314f9201d362",
             "mealId": null,
-            "protein": 46,
+            "protein": 31.0,
             "ingredientName": null,
             "instruction": "Pre-heat the oven to 400 degrees.\nMix the cumin, paprika, garlic powder, black pepper, and\na 1/4 pinch of sea salt.\nCoat the salmon with olive oil, the seasoning mix, and the\nsliced onions.\nNext, cover the pan with a glass lid (parchment paper and\nthen aluminum foil on top, so the toxins from the aluminum\ndon't go in the fish).\nPlace in the oven and cook until done, about 15-20 minutes\ndepending on the thickness of the fish.\nAvocado Salsa\nCombine the avocado, onion*, cilantro, lime juice, and 1/2\npinch of sea salt in a bowl and mix well,\nRaw onion can be hard to digest. If you are healing\nyour gut either sautee or steam the onion or leave them\nout.\nTop the cooked salmon with avocado salsa and enjoy!",
             "quantity": null,
@@ -12109,7 +12109,7 @@
             "mealTitle": "Lunch",
             "id": "39",
             "week": 4,
-            "calories": 270
+            "calories": 297
         },
         {
             "name": "Strawberries",
@@ -13340,7 +13340,7 @@
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 22,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -13359,13 +13359,13 @@
             "mealTitle": "Lunch",
             "id": "6",
             "week": 2,
-            "calories": 491
+            "calories": 2
         },
         {
             "name": "Sauerkraut",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FSauerkraut.jpg?alt=media&token=98edc9fc-b307-41db-ae8a-531d24b2438d",
             "mealId": null,
-            "protein": 59,
+            "protein": 0.1,
             "ingredientName": null,
             "instruction": "Buy sauerkraut or other fermented veggies that contains only water, sea salt & spices/herbs. NO VINEGAR",
             "quantity": null,
@@ -13384,7 +13384,7 @@
             "mealTitle": "Dinner",
             "id": "28",
             "week": 2,
-            "calories": 722
+            "calories": 2
         },
         {
             "name": "Detox Cabbage Salad",
@@ -13746,7 +13746,7 @@
             "name": "Berry Smoothie Bowl",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBerry%20smoothie%20bowl.jpg?alt=media&token=e7053b3d-2da4-4ab3-bd7a-07b14036dce3",
             "mealId": null,
-            "protein": 30,
+            "protein": 22.2,
             "ingredientName": null,
             "instruction": "1. Blend all smoothie ingredients together. Enjoy!",
             "quantity": null,
@@ -13793,7 +13793,7 @@
             "mealTitle": "Snack",
             "id": "52",
             "week": 2,
-            "calories": 667
+            "calories": 601
         },
         {
             "name": "Banana",
@@ -14048,7 +14048,7 @@
             "name": "Berry Smoothie Bowl",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBerry%20smoothie%20bowl.jpg?alt=media&token=e7053b3d-2da4-4ab3-bd7a-07b14036dce3",
             "mealId": null,
-            "protein": 35,
+            "protein": 22.2,
             "ingredientName": null,
             "instruction": "1. Blend all smoothie ingredients together. Enjoy!",
             "quantity": null,
@@ -14095,7 +14095,7 @@
             "mealTitle": "Snack",
             "id": "52",
             "week": 4,
-            "calories": 555
+            "calories": 601
         }
     ]
 }
