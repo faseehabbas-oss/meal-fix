@@ -197,7 +197,7 @@
             "name": "Toasted Oat and Coconut Muesli",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FToasted%20oat%20coconut%20muesli.jpg?alt=media&token=df80f82e-2f92-470f-b1d1-286d42bce1a5",
             "mealId": null,
-            "protein": 55,
+            "protein": 6.6,
             "ingredientName": null,
             "instruction": "1. Place two racks in the center and upper third of the oven.\nPreheat oven to 350 degrees F.\n2. Place oats on an ungreased and unlined baking sheet.\nPlace coconut on a second ungreased and unlined baking\nsheet.\n3. Toast oats and coconut until coconut is golden brown and\nfragrant, about 5 to 7 minutes. Coconut browns quickly,\nkeep an eye on it. Remove both the oats and coconut from\nthe oven and allow to cool.\n4. In a large bowl toss together oats, coconut, almonds,\ndried cranberries, ginger, chia seeds, cinnamon, nutmeg\nand salt.\n5. To store, place in airtight jars or a well sealed plastic bag.\nServe with your choice of milk and fresh or frozen berries.\n\nNotes:\nQuick Tips:\nPrepare muesli the night before, or at least a few hours before serving. To serve, scoop desired amount of muesli into a bowl. Top with a\nhandful of frozen or fresh blueberries. Serve immediately or cover over and place in the fridge overnight, or for at least 2 hours",
             "quantity": null,
@@ -248,7 +248,7 @@
             "mealTitle": "Breakfast",
             "id": "23",
             "week": 3,
-            "calories": 674
+            "calories": 295
         },
         {
             "name": "Tahini Date Chocolate Chip Cookies",
@@ -368,7 +368,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 58,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -387,7 +387,7 @@
             "id": "20",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 290
+            "calories": 70
         },
         {
             "name": "Beet-Ginger Smoothie Bowl",
@@ -895,7 +895,7 @@
             "name": "Pear",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPear.jpeg?alt=media&token=81fdd90e-9d8f-44c8-84c9-438ee4dd564e",
             "mealId": null,
-            "protein": 43,
+            "protein": 4.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -914,7 +914,7 @@
             "id": "69",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 472
+            "calories": 60
         },
         {
             "name": "Sauerkraut",
@@ -990,7 +990,7 @@
             "name": "Strawberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FStrawberries.jpg?alt=media&token=1ecfa214-c847-43e0-a2ad-2170e8125fe6",
             "mealId": null,
-            "protein": 27,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -1009,7 +1009,7 @@
             "id": "24",
             "mealTitle": "Breakfast",
             "week": 3,
-            "calories": 226
+            "calories": 49
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
@@ -1154,7 +1154,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 23,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -1173,7 +1173,7 @@
             "id": "50",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 669
+            "calories": 70
         },
         {
             "name": "Basil Pesto Tuna Salad",
@@ -1570,7 +1570,7 @@
             "name": "Blueberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBlueberries.jpg?alt=media&token=ead961e5-b624-4dd4-b63b-a3b465fa3da3",
             "mealId": null,
-            "protein": 53,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -1589,7 +1589,7 @@
             "id": "24",
             "mealTitle": "Breakfast",
             "week": 2,
-            "calories": 385
+            "calories": 46
         },
         {
             "name": "Hummus-Crusted Chicken",
@@ -1807,7 +1807,7 @@
             "name": "Pear",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPear.jpeg?alt=media&token=81fdd90e-9d8f-44c8-84c9-438ee4dd564e",
             "mealId": null,
-            "protein": 20,
+            "protein": 4.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -1826,7 +1826,7 @@
             "id": "49",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 606
+            "calories": 60
         },
         {
             "name": "Wild rice salad",
@@ -2444,7 +2444,7 @@
             "name": "Toasted Oat and Coconut Muesli",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FToasted%20oat%20coconut%20muesli.jpg?alt=media&token=df80f82e-2f92-470f-b1d1-286d42bce1a5",
             "mealId": null,
-            "protein": 54,
+            "protein": 6.6,
             "ingredientName": null,
             "instruction": "1. Place two racks in the center and upper third of the oven.\nPreheat oven to 350 degrees F.\n2. Place oats on an ungreased and unlined baking sheet.\nPlace coconut on a second ungreased and unlined baking\nsheet.\n3. Toast oats and coconut until coconut is golden brown and\nfragrant, about 5 to 7 minutes. Coconut browns quickly,\nkeep an eye on it. Remove both the oats and coconut from\nthe oven and allow to cool.\n4. In a large bowl toss together oats, coconut, almonds,\ndried cranberries, ginger, chia seeds, cinnamon, nutmeg\nand salt.\n5. To store, place in airtight jars or a well sealed plastic bag.\nServe with your choice of milk and fresh or frozen berries.\n\nNotes:\nQuick Tips:\nPrepare muesli the night before, or at least a few hours before serving. To serve, scoop desired amount of muesli into a bowl. Top with a\nhandful of frozen or fresh blueberries. Serve immediately or cover over and place in the fridge overnight, or for at least 2 hours",
             "quantity": null,
@@ -2495,7 +2495,7 @@
             "mealTitle": "Breakfast",
             "id": "33",
             "week": 1,
-            "calories": 769
+            "calories": 295
         },
         {
             "name": "Berry Smoothie Bowl",
@@ -2615,7 +2615,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 46,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -2634,7 +2634,7 @@
             "id": "50",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 591
+            "calories": 70
         },
         {
             "name": "Fall Harvest Salad",
@@ -2774,7 +2774,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 57,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -2793,7 +2793,7 @@
             "id": "32",
             "mealTitle": "Snack",
             "week": 4,
-            "calories": 648
+            "calories": 70
         },
         {
             "name": "Greens and Beans with Rosemary and Thyme",
@@ -3097,7 +3097,7 @@
             "name": "Strawberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FStrawberries.jpg?alt=media&token=1ecfa214-c847-43e0-a2ad-2170e8125fe6",
             "mealId": null,
-            "protein": 28,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -3116,13 +3116,13 @@
             "id": "4",
             "mealTitle": "Breakfast",
             "week": 1,
-            "calories": 494
+            "calories": 49
         },
         {
             "name": "Pear",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPear.jpeg?alt=media&token=81fdd90e-9d8f-44c8-84c9-438ee4dd564e",
             "mealId": null,
-            "protein": 24,
+            "protein": 4.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -3141,7 +3141,7 @@
             "id": "30",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 288
+            "calories": 60
         },
         {
             "name": "Low-carb chia pudding",
@@ -3846,7 +3846,7 @@
             "name": "Blueberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBlueberries.jpg?alt=media&token=ead961e5-b624-4dd4-b63b-a3b465fa3da3",
             "mealId": null,
-            "protein": 60,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -3865,7 +3865,7 @@
             "id": "4",
             "mealTitle": "Breakfast",
             "week": 2,
-            "calories": 335
+            "calories": 46
         },
         {
             "name": "Kale Chips",
@@ -4762,7 +4762,7 @@
             "name": "Strawberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FStrawberries.jpg?alt=media&token=1ecfa214-c847-43e0-a2ad-2170e8125fe6",
             "mealId": null,
-            "protein": 47,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -4776,7 +4776,7 @@
             "id": "63",
             "mealTitle": "Breakfast",
             "week": 3,
-            "calories": 236
+            "calories": 49
         },
         {
             "name": "Vegan Taco Spaghetti",
@@ -4859,7 +4859,7 @@
             "name": "Toasted Oat and Coconut Muesli",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FToasted%20oat%20coconut%20muesli.jpg?alt=media&token=df80f82e-2f92-470f-b1d1-286d42bce1a5",
             "mealId": null,
-            "protein": 22,
+            "protein": 6.6,
             "ingredientName": null,
             "instruction": "1. Place two racks in the center and upper third of the oven.\nPreheat oven to 350 degrees F.\n2. Place oats on an ungreased and unlined baking sheet.\nPlace coconut on a second ungreased and unlined baking\nsheet.\n3. Toast oats and coconut until coconut is golden brown and\nfragrant, about 5 to 7 minutes. Coconut browns quickly,\nkeep an eye on it. Remove both the oats and coconut from\nthe oven and allow to cool.\n4. In a large bowl toss together oats, coconut, almonds,\ndried cranberries, ginger, chia seeds, cinnamon, nutmeg\nand salt.\n5. To store, place in airtight jars or a well sealed plastic bag.\nServe with your choice of milk and fresh or frozen berries.\n\nNotes:\nQuick Tips:\nPrepare muesli the night before, or at least a few hours before serving. To serve, scoop desired amount of muesli into a bowl. Top with a\nhandful of frozen or fresh blueberries. Serve immediately or cover over and place in the fridge overnight, or for at least 2 hours",
             "quantity": null,
@@ -4910,7 +4910,7 @@
             "mealTitle": "Breakfast",
             "id": "42",
             "week": 1,
-            "calories": 355
+            "calories": 295
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",
@@ -5646,7 +5646,7 @@
             "name": "Toasted Oat and Coconut Muesli",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FToasted%20oat%20coconut%20muesli.jpg?alt=media&token=df80f82e-2f92-470f-b1d1-286d42bce1a5",
             "mealId": null,
-            "protein": 60,
+            "protein": 6.6,
             "ingredientName": null,
             "instruction": "1. Place two racks in the center and upper third of the oven.\nPreheat oven to 350 degrees F.\n2. Place oats on an ungreased and unlined baking sheet.\nPlace coconut on a second ungreased and unlined baking\nsheet.\n3. Toast oats and coconut until coconut is golden brown and\nfragrant, about 5 to 7 minutes. Coconut browns quickly,\nkeep an eye on it. Remove both the oats and coconut from\nthe oven and allow to cool.\n4. In a large bowl toss together oats, coconut, almonds,\ndried cranberries, ginger, chia seeds, cinnamon, nutmeg\nand salt.\n5. To store, place in airtight jars or a well sealed plastic bag.\nServe with your choice of milk and fresh or frozen berries.\n\nNotes:\nQuick Tips:\nPrepare muesli the night before, or at least a few hours before serving. To serve, scoop desired amount of muesli into a bowl. Top with a\nhandful of frozen or fresh blueberries. Serve immediately or cover over and place in the fridge overnight, or for at least 2 hours",
             "quantity": null,
@@ -5697,7 +5697,7 @@
             "mealTitle": "Breakfast",
             "id": "14",
             "week": 3,
-            "calories": 647
+            "calories": 295
         },
         {
             "name": "Baked Salmon with Lemon and Thyme",
@@ -5903,7 +5903,7 @@
             "name": "Toasted Oat and Coconut Muesli",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FToasted%20oat%20coconut%20muesli.jpg?alt=media&token=df80f82e-2f92-470f-b1d1-286d42bce1a5",
             "mealId": null,
-            "protein": 28,
+            "protein": 6.6,
             "ingredientName": null,
             "instruction": "1. Place two racks in the center and upper third of the oven.\nPreheat oven to 350 degrees F.\n2. Place oats on an ungreased and unlined baking sheet.\nPlace coconut on a second ungreased and unlined baking\nsheet.\n3. Toast oats and coconut until coconut is golden brown and\nfragrant, about 5 to 7 minutes. Coconut browns quickly,\nkeep an eye on it. Remove both the oats and coconut from\nthe oven and allow to cool.\n4. In a large bowl toss together oats, coconut, almonds,\ndried cranberries, ginger, chia seeds, cinnamon, nutmeg\nand salt.\n5. To store, place in airtight jars or a well sealed plastic bag.\nServe with your choice of milk and fresh or frozen berries.\n\nNotes:\nQuick Tips:\nPrepare muesli the night before, or at least a few hours before serving. To serve, scoop desired amount of muesli into a bowl. Top with a\nhandful of frozen or fresh blueberries. Serve immediately or cover over and place in the fridge overnight, or for at least 2 hours",
             "quantity": null,
@@ -5954,7 +5954,7 @@
             "mealTitle": "Breakfast",
             "id": "53",
             "week": 1,
-            "calories": 361
+            "calories": 295
         },
         {
             "name": "Sweet Potato Toast with Avocado",
@@ -6401,7 +6401,7 @@
             "name": "Blueberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBlueberries.jpg?alt=media&token=ead961e5-b624-4dd4-b63b-a3b465fa3da3",
             "mealId": null,
-            "protein": 22,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -6420,13 +6420,13 @@
             "id": "4",
             "mealTitle": "Breakfast",
             "week": 4,
-            "calories": 289
+            "calories": 46
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 31,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -6445,7 +6445,7 @@
             "id": "10",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 783
+            "calories": 70
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",
@@ -7099,7 +7099,7 @@
             "name": "Toasted Oat and Coconut Muesli",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FToasted%20oat%20coconut%20muesli.jpg?alt=media&token=df80f82e-2f92-470f-b1d1-286d42bce1a5",
             "mealId": null,
-            "protein": 28,
+            "protein": 6.6,
             "ingredientName": null,
             "instruction": "1. Place two racks in the center and upper third of the oven.\nPreheat oven to 350 degrees F.\n2. Place oats on an ungreased and unlined baking sheet.\nPlace coconut on a second ungreased and unlined baking\nsheet.\n3. Toast oats and coconut until coconut is golden brown and\nfragrant, about 5 to 7 minutes. Coconut browns quickly,\nkeep an eye on it. Remove both the oats and coconut from\nthe oven and allow to cool.\n4. In a large bowl toss together oats, coconut, almonds,\ndried cranberries, ginger, chia seeds, cinnamon, nutmeg\nand salt.\n5. To store, place in airtight jars or a well sealed plastic bag.\nServe with your choice of milk and fresh or frozen berries.\n\nNotes:\nQuick Tips:\nPrepare muesli the night before, or at least a few hours before serving. To serve, scoop desired amount of muesli into a bowl. Top with a\nhandful of frozen or fresh blueberries. Serve immediately or cover over and place in the fridge overnight, or for at least 2 hours",
             "quantity": null,
@@ -7150,13 +7150,13 @@
             "mealTitle": "Breakfast",
             "id": "53",
             "week": 3,
-            "calories": 366
+            "calories": 295
         },
         {
             "name": "Toasted Oat and Coconut Muesli",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FToasted%20oat%20coconut%20muesli.jpg?alt=media&token=df80f82e-2f92-470f-b1d1-286d42bce1a5",
             "mealId": null,
-            "protein": 28,
+            "protein": 6.6,
             "ingredientName": null,
             "instruction": "1. Place two racks in the center and upper third of the oven.\nPreheat oven to 350 degrees F.\n2. Place oats on an ungreased and unlined baking sheet.\nPlace coconut on a second ungreased and unlined baking\nsheet.\n3. Toast oats and coconut until coconut is golden brown and\nfragrant, about 5 to 7 minutes. Coconut browns quickly,\nkeep an eye on it. Remove both the oats and coconut from\nthe oven and allow to cool.\n4. In a large bowl toss together oats, coconut, almonds,\ndried cranberries, ginger, chia seeds, cinnamon, nutmeg\nand salt.\n5. To store, place in airtight jars or a well sealed plastic bag.\nServe with your choice of milk and fresh or frozen berries.\n\nNotes:\nQuick Tips:\nPrepare muesli the night before, or at least a few hours before serving. To serve, scoop desired amount of muesli into a bowl. Top with a\nhandful of frozen or fresh blueberries. Serve immediately or cover over and place in the fridge overnight, or for at least 2 hours",
             "quantity": null,
@@ -7207,7 +7207,7 @@
             "mealTitle": "Breakfast",
             "id": "3",
             "week": 1,
-            "calories": 555
+            "calories": 295
         },
         {
             "name": "Kale Chips",
@@ -7364,7 +7364,7 @@
             "name": "Toasted Oat and Coconut Muesli",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FToasted%20oat%20coconut%20muesli.jpg?alt=media&token=df80f82e-2f92-470f-b1d1-286d42bce1a5",
             "mealId": null,
-            "protein": 30,
+            "protein": 6.6,
             "ingredientName": null,
             "instruction": "1. Place two racks in the center and upper third of the oven.\nPreheat oven to 350 degrees F.\n2. Place oats on an ungreased and unlined baking sheet.\nPlace coconut on a second ungreased and unlined baking\nsheet.\n3. Toast oats and coconut until coconut is golden brown and\nfragrant, about 5 to 7 minutes. Coconut browns quickly,\nkeep an eye on it. Remove both the oats and coconut from\nthe oven and allow to cool.\n4. In a large bowl toss together oats, coconut, almonds,\ndried cranberries, ginger, chia seeds, cinnamon, nutmeg\nand salt.\n5. To store, place in airtight jars or a well sealed plastic bag.\nServe with your choice of milk and fresh or frozen berries.\n\nNotes:\nQuick Tips:\nPrepare muesli the night before, or at least a few hours before serving. To serve, scoop desired amount of muesli into a bowl. Top with a\nhandful of frozen or fresh blueberries. Serve immediately or cover over and place in the fridge overnight, or for at least 2 hours",
             "quantity": null,
@@ -7415,7 +7415,7 @@
             "mealTitle": "Breakfast",
             "id": "3",
             "week": 3,
-            "calories": 711
+            "calories": 295
         },
         {
             "name": "3-Ingredient Banana Pancakes",
@@ -7507,7 +7507,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 35,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -7526,7 +7526,7 @@
             "id": "10",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 723
+            "calories": 70
         },
         {
             "name": "Lentil, Kale & Sausage Stew",
@@ -7936,7 +7936,7 @@
             "name": "Blueberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBlueberries.jpg?alt=media&token=ead961e5-b624-4dd4-b63b-a3b465fa3da3",
             "mealId": null,
-            "protein": 38,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -7955,7 +7955,7 @@
             "id": "47",
             "mealTitle": "Breakfast",
             "week": 4,
-            "calories": 506
+            "calories": 46
         },
         {
             "name": "Sauerkraut",
@@ -8043,7 +8043,7 @@
             "name": "Blueberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBlueberries.jpg?alt=media&token=ead961e5-b624-4dd4-b63b-a3b465fa3da3",
             "mealId": null,
-            "protein": 38,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -8062,7 +8062,7 @@
             "id": "24",
             "mealTitle": "Breakfast",
             "week": 4,
-            "calories": 562
+            "calories": 46
         },
         {
             "name": "Baked Salmon with Lemon and Thyme",
@@ -8174,7 +8174,7 @@
             "name": "Strawberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FStrawberries.jpg?alt=media&token=1ecfa214-c847-43e0-a2ad-2170e8125fe6",
             "mealId": null,
-            "protein": 25,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -8193,7 +8193,7 @@
             "id": "4",
             "mealTitle": "Breakfast",
             "week": 3,
-            "calories": 769
+            "calories": 49
         },
         {
             "name": "Chicken Zucchini Meat Balls",
@@ -8346,7 +8346,7 @@
             "name": "Strawberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FStrawberries.jpg?alt=media&token=1ecfa214-c847-43e0-a2ad-2170e8125fe6",
             "mealId": null,
-            "protein": 20,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -8365,7 +8365,7 @@
             "id": "43",
             "mealTitle": "Breakfast",
             "week": 1,
-            "calories": 532
+            "calories": 49
         },
         {
             "name": "Chicken Zucchini Meat Balls",
@@ -8428,7 +8428,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 50,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -8447,13 +8447,13 @@
             "id": "59",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 383
+            "calories": 70
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 54,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -8472,7 +8472,7 @@
             "id": "76",
             "mealTitle": "Snack",
             "week": 4,
-            "calories": 245
+            "calories": 70
         },
         {
             "name": "Poached Eggs Over Black Beans",
@@ -9288,7 +9288,7 @@
             "name": "Pear",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPear.jpeg?alt=media&token=81fdd90e-9d8f-44c8-84c9-438ee4dd564e",
             "mealId": null,
-            "protein": 26,
+            "protein": 4.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -9307,7 +9307,7 @@
             "id": "39",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 525
+            "calories": 60
         },
         {
             "name": "Wild rice salad",
@@ -9366,7 +9366,7 @@
             "name": "Pear",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPear.jpeg?alt=media&token=81fdd90e-9d8f-44c8-84c9-438ee4dd564e",
             "mealId": null,
-            "protein": 53,
+            "protein": 4.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -9385,13 +9385,13 @@
             "id": "49",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 254
+            "calories": 60
         },
         {
             "name": "Toasted Oat and Coconut Muesli",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FToasted%20oat%20coconut%20muesli.jpg?alt=media&token=df80f82e-2f92-470f-b1d1-286d42bce1a5",
             "mealId": null,
-            "protein": 22,
+            "protein": 6.6,
             "ingredientName": null,
             "instruction": "1. Place two racks in the center and upper third of the oven.\nPreheat oven to 350 degrees F.\n2. Place oats on an ungreased and unlined baking sheet.\nPlace coconut on a second ungreased and unlined baking\nsheet.\n3. Toast oats and coconut until coconut is golden brown and\nfragrant, about 5 to 7 minutes. Coconut browns quickly,\nkeep an eye on it. Remove both the oats and coconut from\nthe oven and allow to cool.\n4. In a large bowl toss together oats, coconut, almonds,\ndried cranberries, ginger, chia seeds, cinnamon, nutmeg\nand salt.\n5. To store, place in airtight jars or a well sealed plastic bag.\nServe with your choice of milk and fresh or frozen berries.\n\nNotes:\nQuick Tips:\nPrepare muesli the night before, or at least a few hours before serving. To serve, scoop desired amount of muesli into a bowl. Top with a\nhandful of frozen or fresh blueberries. Serve immediately or cover over and place in the fridge overnight, or for at least 2 hours",
             "quantity": null,
@@ -9442,7 +9442,7 @@
             "mealTitle": "Breakfast",
             "id": "23",
             "week": 1,
-            "calories": 582
+            "calories": 295
         },
         {
             "name": "Vegan Taco Spaghetti",
@@ -9753,7 +9753,7 @@
             "name": "Pear",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPear.jpeg?alt=media&token=81fdd90e-9d8f-44c8-84c9-438ee4dd564e",
             "mealId": null,
-            "protein": 20,
+            "protein": 4.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -9772,7 +9772,7 @@
             "id": "30",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 552
+            "calories": 60
         },
         {
             "name": "Sauerkraut",
@@ -10370,7 +10370,7 @@
             "name": "Pear",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPear.jpeg?alt=media&token=81fdd90e-9d8f-44c8-84c9-438ee4dd564e",
             "mealId": null,
-            "protein": 31,
+            "protein": 4.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -10389,13 +10389,13 @@
             "id": "39",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 476
+            "calories": 60
         },
         {
             "name": "Strawberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FStrawberries.jpg?alt=media&token=1ecfa214-c847-43e0-a2ad-2170e8125fe6",
             "mealId": null,
-            "protein": 24,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -10414,7 +10414,7 @@
             "id": "24",
             "mealTitle": "Breakfast",
             "week": 1,
-            "calories": 379
+            "calories": 49
         },
         {
             "name": "Kale Chips",
@@ -10726,7 +10726,7 @@
             "name": "Toasted Oat and Coconut Muesli",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FToasted%20oat%20coconut%20muesli.jpg?alt=media&token=df80f82e-2f92-470f-b1d1-286d42bce1a5",
             "mealId": null,
-            "protein": 29,
+            "protein": 6.6,
             "ingredientName": null,
             "instruction": "1. Place two racks in the center and upper third of the oven.\nPreheat oven to 350 degrees F.\n2. Place oats on an ungreased and unlined baking sheet.\nPlace coconut on a second ungreased and unlined baking\nsheet.\n3. Toast oats and coconut until coconut is golden brown and\nfragrant, about 5 to 7 minutes. Coconut browns quickly,\nkeep an eye on it. Remove both the oats and coconut from\nthe oven and allow to cool.\n4. In a large bowl toss together oats, coconut, almonds,\ndried cranberries, ginger, chia seeds, cinnamon, nutmeg\nand salt.\n5. To store, place in airtight jars or a well sealed plastic bag.\nServe with your choice of milk and fresh or frozen berries.\n\nNotes:\nQuick Tips:\nPrepare muesli the night before, or at least a few hours before serving. To serve, scoop desired amount of muesli into a bowl. Top with a\nhandful of frozen or fresh blueberries. Serve immediately or cover over and place in the fridge overnight, or for at least 2 hours",
             "quantity": null,
@@ -10777,7 +10777,7 @@
             "mealTitle": "Breakfast",
             "id": "42",
             "week": 3,
-            "calories": 642
+            "calories": 295
         },
         {
             "name": "Easy Peanut Butter Protein Bars",
@@ -10873,7 +10873,7 @@
             "name": "Blueberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBlueberries.jpg?alt=media&token=ead961e5-b624-4dd4-b63b-a3b465fa3da3",
             "mealId": null,
-            "protein": 49,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -10892,7 +10892,7 @@
             "id": "47",
             "mealTitle": "Breakfast",
             "week": 2,
-            "calories": 203
+            "calories": 46
         },
         {
             "name": "Cauliflower Rice",
@@ -10935,7 +10935,7 @@
             "name": "Toasted Oat and Coconut Muesli",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FToasted%20oat%20coconut%20muesli.jpg?alt=media&token=df80f82e-2f92-470f-b1d1-286d42bce1a5",
             "mealId": null,
-            "protein": 52,
+            "protein": 6.6,
             "ingredientName": null,
             "instruction": "1. Place two racks in the center and upper third of the oven.\nPreheat oven to 350 degrees F.\n2. Place oats on an ungreased and unlined baking sheet.\nPlace coconut on a second ungreased and unlined baking\nsheet.\n3. Toast oats and coconut until coconut is golden brown and\nfragrant, about 5 to 7 minutes. Coconut browns quickly,\nkeep an eye on it. Remove both the oats and coconut from\nthe oven and allow to cool.\n4. In a large bowl toss together oats, coconut, almonds,\ndried cranberries, ginger, chia seeds, cinnamon, nutmeg\nand salt.\n5. To store, place in airtight jars or a well sealed plastic bag.\nServe with your choice of milk and fresh or frozen berries.\n\nNotes:\nQuick Tips:\nPrepare muesli the night before, or at least a few hours before serving. To serve, scoop desired amount of muesli into a bowl. Top with a\nhandful of frozen or fresh blueberries. Serve immediately or cover over and place in the fridge overnight, or for at least 2 hours",
             "quantity": null,
@@ -10990,7 +10990,7 @@
             "mealTitle": "Breakfast",
             "id": "63",
             "week": 3,
-            "calories": 578
+            "calories": 295
         },
         {
             "name": "Banana",
@@ -11257,7 +11257,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 44,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -11276,7 +11276,7 @@
             "id": "32",
             "mealTitle": "Snack",
             "week": 2,
-            "calories": 702
+            "calories": 70
         },
         {
             "name": "Avocado and Herb Omelet",
@@ -12029,7 +12029,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 21,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -12048,7 +12048,7 @@
             "id": "59",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 628
+            "calories": 70
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
@@ -12115,7 +12115,7 @@
             "name": "Strawberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FStrawberries.jpg?alt=media&token=1ecfa214-c847-43e0-a2ad-2170e8125fe6",
             "mealId": null,
-            "protein": 56,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -12134,7 +12134,7 @@
             "id": "43",
             "mealTitle": "Breakfast",
             "week": 3,
-            "calories": 390
+            "calories": 49
         },
         {
             "name": "Low-carb chia pudding",
@@ -12829,7 +12829,7 @@
             "name": "Toasted Oat and Coconut Muesli",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FToasted%20oat%20coconut%20muesli.jpg?alt=media&token=df80f82e-2f92-470f-b1d1-286d42bce1a5",
             "mealId": null,
-            "protein": 58,
+            "protein": 6.6,
             "ingredientName": null,
             "instruction": "1. Place two racks in the center and upper third of the oven.\nPreheat oven to 350 degrees F.\n2. Place oats on an ungreased and unlined baking sheet.\nPlace coconut on a second ungreased and unlined baking\nsheet.\n3. Toast oats and coconut until coconut is golden brown and\nfragrant, about 5 to 7 minutes. Coconut browns quickly,\nkeep an eye on it. Remove both the oats and coconut from\nthe oven and allow to cool.\n4. In a large bowl toss together oats, coconut, almonds,\ndried cranberries, ginger, chia seeds, cinnamon, nutmeg\nand salt.\n5. To store, place in airtight jars or a well sealed plastic bag.\nServe with your choice of milk and fresh or frozen berries.\n\nNotes:\nQuick Tips:\nPrepare muesli the night before, or at least a few hours before serving. To serve, scoop desired amount of muesli into a bowl. Top with a\nhandful of frozen or fresh blueberries. Serve immediately or cover over and place in the fridge overnight, or for at least 2 hours",
             "quantity": null,
@@ -12880,7 +12880,7 @@
             "mealTitle": "Breakfast",
             "id": "33",
             "week": 3,
-            "calories": 638
+            "calories": 295
         },
         {
             "name": "Sweet Potato Toast with Avocado",
@@ -12960,7 +12960,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 28,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -12979,13 +12979,13 @@
             "id": "20",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 519
+            "calories": 70
         },
         {
             "name": "Toasted Oat and Coconut Muesli",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FToasted%20oat%20coconut%20muesli.jpg?alt=media&token=df80f82e-2f92-470f-b1d1-286d42bce1a5",
             "mealId": null,
-            "protein": 28,
+            "protein": 6.6,
             "ingredientName": null,
             "instruction": "1. Place two racks in the center and upper third of the oven.\nPreheat oven to 350 degrees F.\n2. Place oats on an ungreased and unlined baking sheet.\nPlace coconut on a second ungreased and unlined baking\nsheet.\n3. Toast oats and coconut until coconut is golden brown and\nfragrant, about 5 to 7 minutes. Coconut browns quickly,\nkeep an eye on it. Remove both the oats and coconut from\nthe oven and allow to cool.\n4. In a large bowl toss together oats, coconut, almonds,\ndried cranberries, ginger, chia seeds, cinnamon, nutmeg\nand salt.\n5. To store, place in airtight jars or a well sealed plastic bag.\nServe with your choice of milk and fresh or frozen berries.\n\nNotes:\nQuick Tips:\nPrepare muesli the night before, or at least a few hours before serving. To serve, scoop desired amount of muesli into a bowl. Top with a\nhandful of frozen or fresh blueberries. Serve immediately or cover over and place in the fridge overnight, or for at least 2 hours",
             "quantity": null,
@@ -13036,7 +13036,7 @@
             "mealTitle": "Breakfast",
             "id": "14",
             "week": 1,
-            "calories": 497
+            "calories": 295
         },
         {
             "name": "Low-carb chia pudding",
@@ -13590,7 +13590,7 @@
             "name": "Strawberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FStrawberries.jpg?alt=media&token=1ecfa214-c847-43e0-a2ad-2170e8125fe6",
             "mealId": null,
-            "protein": 39,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -13604,7 +13604,7 @@
             "id": "63",
             "mealTitle": "Breakfast",
             "week": 1,
-            "calories": 394
+            "calories": 49
         },
         {
             "name": "Detox Cabbage Salad",
@@ -13655,7 +13655,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 45,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -13674,7 +13674,7 @@
             "id": "76",
             "mealTitle": "Snack",
             "week": 2,
-            "calories": 283
+            "calories": 70
         },
         {
             "name": "Kale Chips",
@@ -13721,7 +13721,7 @@
             "name": "Pear",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPear.jpeg?alt=media&token=81fdd90e-9d8f-44c8-84c9-438ee4dd564e",
             "mealId": null,
-            "protein": 60,
+            "protein": 4.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -13740,7 +13740,7 @@
             "id": "69",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 781
+            "calories": 60
         },
         {
             "name": "Berry Smoothie Bowl",
@@ -13954,7 +13954,7 @@
             "name": "Toasted Oat and Coconut Muesli",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FToasted%20oat%20coconut%20muesli.jpg?alt=media&token=df80f82e-2f92-470f-b1d1-286d42bce1a5",
             "mealId": null,
-            "protein": 27,
+            "protein": 6.6,
             "ingredientName": null,
             "instruction": "1. Place two racks in the center and upper third of the oven.\nPreheat oven to 350 degrees F.\n2. Place oats on an ungreased and unlined baking sheet.\nPlace coconut on a second ungreased and unlined baking\nsheet.\n3. Toast oats and coconut until coconut is golden brown and\nfragrant, about 5 to 7 minutes. Coconut browns quickly,\nkeep an eye on it. Remove both the oats and coconut from\nthe oven and allow to cool.\n4. In a large bowl toss together oats, coconut, almonds,\ndried cranberries, ginger, chia seeds, cinnamon, nutmeg\nand salt.\n5. To store, place in airtight jars or a well sealed plastic bag.\nServe with your choice of milk and fresh or frozen berries.\n\nNotes:\nQuick Tips:\nPrepare muesli the night before, or at least a few hours before serving. To serve, scoop desired amount of muesli into a bowl. Top with a\nhandful of frozen or fresh blueberries. Serve immediately or cover over and place in the fridge overnight, or for at least 2 hours",
             "quantity": null,
@@ -14009,7 +14009,7 @@
             "mealTitle": "Breakfast",
             "id": "63",
             "week": 1,
-            "calories": 786
+            "calories": 295
         },
         {
             "name": "Low-carb chia pudding",

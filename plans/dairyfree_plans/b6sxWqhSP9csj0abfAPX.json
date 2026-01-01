@@ -46,7 +46,7 @@
             "name": "Pear",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPear.jpeg?alt=media&token=81fdd90e-9d8f-44c8-84c9-438ee4dd564e",
             "mealId": null,
-            "protein": 59,
+            "protein": 4.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -65,7 +65,7 @@
             "id": "22",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 455
+            "calories": 60
         },
         {
             "name": "Fall Harvest Salad",
@@ -355,7 +355,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 32,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -374,13 +374,13 @@
             "id": "19",
             "mealTitle": "Snack",
             "week": 2,
-            "calories": 453
+            "calories": 70
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 31,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -399,13 +399,13 @@
             "id": "29",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 357
+            "calories": 70
         },
         {
             "name": "Strawberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FStrawberries.jpg?alt=media&token=1ecfa214-c847-43e0-a2ad-2170e8125fe6",
             "mealId": null,
-            "protein": 27,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -424,7 +424,7 @@
             "id": "24",
             "mealTitle": "Breakfast",
             "week": 1,
-            "calories": 519
+            "calories": 49
         },
         {
             "name": "Beet-Ginger Smoothie Bowl",
@@ -1098,7 +1098,7 @@
             "name": "Blueberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBlueberries.jpg?alt=media&token=ead961e5-b624-4dd4-b63b-a3b465fa3da3",
             "mealId": null,
-            "protein": 41,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -1117,7 +1117,7 @@
             "id": "14",
             "mealTitle": "Breakfast",
             "week": 2,
-            "calories": 217
+            "calories": 46
         },
         {
             "name": "Honey Lime Quinoa Fruit Salad",
@@ -1315,7 +1315,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 42,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -1334,7 +1334,7 @@
             "id": "35",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 800
+            "calories": 70
         },
         {
             "name": "Sauerkraut",
@@ -1426,7 +1426,7 @@
             "name": "Blueberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBlueberries.jpg?alt=media&token=ead961e5-b624-4dd4-b63b-a3b465fa3da3",
             "mealId": null,
-            "protein": 37,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -1445,7 +1445,7 @@
             "id": "27",
             "mealTitle": "Breakfast",
             "week": 4,
-            "calories": 612
+            "calories": 46
         },
         {
             "name": "Baked Salmon with Lemon and Thyme",
@@ -1496,7 +1496,7 @@
             "name": "Blueberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBlueberries.jpg?alt=media&token=ead961e5-b624-4dd4-b63b-a3b465fa3da3",
             "mealId": null,
-            "protein": 40,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -1515,13 +1515,13 @@
             "id": "27",
             "mealTitle": "Breakfast",
             "week": 2,
-            "calories": 588
+            "calories": 46
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 60,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -1540,13 +1540,13 @@
             "id": "11",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 749
+            "calories": 70
         },
         {
             "name": "Blueberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBlueberries.jpg?alt=media&token=ead961e5-b624-4dd4-b63b-a3b465fa3da3",
             "mealId": null,
-            "protein": 54,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -1565,7 +1565,7 @@
             "id": "2",
             "mealTitle": "Breakfast",
             "week": 2,
-            "calories": 323
+            "calories": 46
         },
         {
             "name": "Cardamom Quinoa Porridge",
@@ -2038,7 +2038,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 50,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -2057,7 +2057,7 @@
             "id": "19",
             "mealTitle": "Snack",
             "week": 4,
-            "calories": 319
+            "calories": 70
         },
         {
             "name": "Kale Chips",
@@ -2104,7 +2104,7 @@
             "name": "Blueberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBlueberries.jpg?alt=media&token=ead961e5-b624-4dd4-b63b-a3b465fa3da3",
             "mealId": null,
-            "protein": 26,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -2123,13 +2123,13 @@
             "id": "14",
             "mealTitle": "Breakfast",
             "week": 4,
-            "calories": 470
+            "calories": 46
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 44,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -2148,7 +2148,7 @@
             "id": "43",
             "mealTitle": "Snack",
             "week": 4,
-            "calories": 481
+            "calories": 70
         },
         {
             "name": "3-Ingredient Banana Pancakes",
@@ -2187,7 +2187,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 43,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -2206,7 +2206,7 @@
             "id": "11",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 384
+            "calories": 70
         },
         {
             "name": "Baked Salmon with Lemon and Thyme",
@@ -2518,7 +2518,7 @@
             "name": "Pear",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPear.jpeg?alt=media&token=81fdd90e-9d8f-44c8-84c9-438ee4dd564e",
             "mealId": null,
-            "protein": 25,
+            "protein": 4.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -2537,7 +2537,7 @@
             "id": "17",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 305
+            "calories": 60
         },
         {
             "name": "Sauerkraut",
@@ -3196,7 +3196,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 40,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -3215,7 +3215,7 @@
             "id": "6",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 267
+            "calories": 70
         },
         {
             "name": "Wild rice salad",
@@ -3576,7 +3576,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 38,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -3595,7 +3595,7 @@
             "id": "6",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 696
+            "calories": 70
         },
         {
             "name": "Lentil, Kale & Sausage Stew",
@@ -3772,7 +3772,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 46,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -3791,7 +3791,7 @@
             "id": "29",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 361
+            "calories": 70
         },
         {
             "name": "3-Ingredient Banana Pancakes",
@@ -4156,7 +4156,7 @@
             "name": "Pear",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPear.jpeg?alt=media&token=81fdd90e-9d8f-44c8-84c9-438ee4dd564e",
             "mealId": null,
-            "protein": 38,
+            "protein": 4.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -4175,7 +4175,7 @@
             "id": "28",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 495
+            "calories": 60
         },
         {
             "name": "Wild rice salad",
@@ -4672,7 +4672,7 @@
             "name": "Pear",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPear.jpeg?alt=media&token=81fdd90e-9d8f-44c8-84c9-438ee4dd564e",
             "mealId": null,
-            "protein": 52,
+            "protein": 4.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -4691,7 +4691,7 @@
             "id": "17",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 373
+            "calories": 60
         },
         {
             "name": "Kale Chips",
@@ -4763,7 +4763,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 60,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -4782,7 +4782,7 @@
             "id": "43",
             "mealTitle": "Snack",
             "week": 2,
-            "calories": 487
+            "calories": 70
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
@@ -4849,7 +4849,7 @@
             "name": "Strawberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FStrawberries.jpg?alt=media&token=1ecfa214-c847-43e0-a2ad-2170e8125fe6",
             "mealId": null,
-            "protein": 22,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -4868,7 +4868,7 @@
             "id": "2",
             "mealTitle": "Breakfast",
             "week": 3,
-            "calories": 545
+            "calories": 49
         },
         {
             "name": "Fall Harvest Salad",
@@ -5176,7 +5176,7 @@
             "name": "Pear",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPear.jpeg?alt=media&token=81fdd90e-9d8f-44c8-84c9-438ee4dd564e",
             "mealId": null,
-            "protein": 60,
+            "protein": 4.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -5195,7 +5195,7 @@
             "id": "40",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 789
+            "calories": 60
         },
         {
             "name": "Chicken Zucchini Meat Balls",
@@ -5634,7 +5634,7 @@
             "name": "Strawberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FStrawberries.jpg?alt=media&token=1ecfa214-c847-43e0-a2ad-2170e8125fe6",
             "mealId": null,
-            "protein": 55,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -5653,13 +5653,13 @@
             "id": "2",
             "mealTitle": "Breakfast",
             "week": 1,
-            "calories": 781
+            "calories": 49
         },
         {
             "name": "Pear",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPear.jpeg?alt=media&token=81fdd90e-9d8f-44c8-84c9-438ee4dd564e",
             "mealId": null,
-            "protein": 57,
+            "protein": 4.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -5678,7 +5678,7 @@
             "id": "22",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 212
+            "calories": 60
         },
         {
             "name": "Baked Salmon with Lemon and Thyme",
@@ -5962,7 +5962,7 @@
             "name": "Strawberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FStrawberries.jpg?alt=media&token=1ecfa214-c847-43e0-a2ad-2170e8125fe6",
             "mealId": null,
-            "protein": 48,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -5981,7 +5981,7 @@
             "id": "24",
             "mealTitle": "Breakfast",
             "week": 3,
-            "calories": 452
+            "calories": 49
         },
         {
             "name": "Sauerkraut",
@@ -6053,7 +6053,7 @@
             "name": "Pear",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPear.jpeg?alt=media&token=81fdd90e-9d8f-44c8-84c9-438ee4dd564e",
             "mealId": null,
-            "protein": 43,
+            "protein": 4.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -6072,7 +6072,7 @@
             "id": "28",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 587
+            "calories": 60
         },
         {
             "name": "Hummus-Crusted Chicken",
@@ -6233,7 +6233,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 60,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -6252,7 +6252,7 @@
             "id": "35",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 458
+            "calories": 70
         },
         {
             "name": "Cardamom Quinoa Porridge",
@@ -6364,7 +6364,7 @@
             "name": "Blueberries",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FBlueberries.jpg?alt=media&token=ead961e5-b624-4dd4-b63b-a3b465fa3da3",
             "mealId": null,
-            "protein": 35,
+            "protein": 1.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -6383,7 +6383,7 @@
             "id": "2",
             "mealTitle": "Breakfast",
             "week": 4,
-            "calories": 572
+            "calories": 46
         },
         {
             "name": "Wild rice salad",
@@ -7279,7 +7279,7 @@
             "name": "Pear",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPear.jpeg?alt=media&token=81fdd90e-9d8f-44c8-84c9-438ee4dd564e",
             "mealId": null,
-            "protein": 28,
+            "protein": 4.0,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -7298,7 +7298,7 @@
             "id": "40",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 428
+            "calories": 60
         },
         {
             "name": "Fall Harvest Salad",

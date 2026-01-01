@@ -1483,7 +1483,7 @@
         },
         {
             "readyIn": "0 min",
-            "protein": 29,
+            "protein": 1.0,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "",
@@ -1502,7 +1502,7 @@
             "cookTime": "0 min",
             "id": "18",
             "ingredientName": null,
-            "calories": 421,
+            "calories": 49,
             "week": 1,
             "prepTime": "0 min"
         },
@@ -5425,7 +5425,7 @@
         },
         {
             "readyIn": "0 min",
-            "protein": 55,
+            "protein": 1.0,
             "mealTitle": "Breakfast",
             "quantity": null,
             "instruction": "",
@@ -5444,7 +5444,7 @@
             "cookTime": "0 min",
             "id": "18",
             "ingredientName": null,
-            "calories": 466,
+            "calories": 49,
             "week": 3,
             "prepTime": "0 min"
         },
