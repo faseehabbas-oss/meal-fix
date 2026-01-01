@@ -368,7 +368,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -387,7 +387,7 @@
             "id": "20",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Beet-Ginger Smoothie Bowl",
@@ -1154,7 +1154,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -1173,7 +1173,7 @@
             "id": "50",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Basil Pesto Tuna Salad",
@@ -2615,7 +2615,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -2634,7 +2634,7 @@
             "id": "50",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Fall Harvest Salad",
@@ -2774,7 +2774,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -2793,7 +2793,7 @@
             "id": "32",
             "mealTitle": "Snack",
             "week": 4,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Greens and Beans with Rosemary and Thyme",
@@ -6426,7 +6426,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -6445,7 +6445,7 @@
             "id": "10",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Turmeric Chickpea Burgers (PEP)",
@@ -7507,7 +7507,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -7526,7 +7526,7 @@
             "id": "10",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Lentil, Kale & Sausage Stew",
@@ -8428,7 +8428,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -8447,13 +8447,13 @@
             "id": "59",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -8472,7 +8472,7 @@
             "id": "76",
             "mealTitle": "Snack",
             "week": 4,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Poached Eggs Over Black Beans",
@@ -11257,7 +11257,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -11276,7 +11276,7 @@
             "id": "32",
             "mealTitle": "Snack",
             "week": 2,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Avocado and Herb Omelet",
@@ -12029,7 +12029,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -12048,7 +12048,7 @@
             "id": "59",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
@@ -12960,7 +12960,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -12979,7 +12979,7 @@
             "id": "20",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Toasted Oat and Coconut Muesli",
@@ -13655,7 +13655,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -13674,7 +13674,7 @@
             "id": "76",
             "mealTitle": "Snack",
             "week": 2,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Kale Chips",

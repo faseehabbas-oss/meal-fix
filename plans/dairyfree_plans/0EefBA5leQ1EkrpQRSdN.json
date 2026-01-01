@@ -1796,7 +1796,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -1815,7 +1815,7 @@
             "id": "25",
             "mealTitle": "Snack",
             "week": 4,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Sweet Potato Toast with Avocado",
@@ -3341,7 +3341,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -3360,7 +3360,7 @@
             "id": "49",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Sweet Potato Toast with Avocado",
@@ -6188,7 +6188,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -6207,7 +6207,7 @@
             "id": "16",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Wild rice salad",
@@ -6405,7 +6405,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -6424,7 +6424,7 @@
             "id": "16",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Strawberries",
@@ -6924,7 +6924,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -6943,7 +6943,7 @@
             "id": "9",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Vegan Taco Spaghetti",
@@ -7238,7 +7238,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -7257,13 +7257,13 @@
             "id": "56",
             "mealTitle": "Snack",
             "week": 4,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -7282,7 +7282,7 @@
             "id": "25",
             "mealTitle": "Snack",
             "week": 2,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Banana",
@@ -8748,7 +8748,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -8767,7 +8767,7 @@
             "id": "41",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Chicken Zucchini Meat Balls",
@@ -9450,7 +9450,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -9469,7 +9469,7 @@
             "id": "9",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Cauliflower Rice",
@@ -9903,7 +9903,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -9922,7 +9922,7 @@
             "id": "49",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Fall Harvest Salad",
@@ -10076,7 +10076,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -10095,7 +10095,7 @@
             "id": "41",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Basil Pesto Tuna Salad",
@@ -10879,7 +10879,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -10898,7 +10898,7 @@
             "id": "56",
             "mealTitle": "Snack",
             "week": 2,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Cauliflower Rice",

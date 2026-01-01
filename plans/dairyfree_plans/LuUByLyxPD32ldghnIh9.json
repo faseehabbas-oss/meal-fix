@@ -1882,7 +1882,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -1901,7 +1901,7 @@
             "id": "40",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Greens and Beans with Rosemary and Thyme",
@@ -2380,7 +2380,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -2399,7 +2399,7 @@
             "id": "16",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Cauliflower Rice",
@@ -3393,7 +3393,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -3412,13 +3412,13 @@
             "id": "16",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -3437,7 +3437,7 @@
             "id": "8",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Toasted Oat and Coconut Muesli",
@@ -3500,7 +3500,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -3519,7 +3519,7 @@
             "id": "40",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Wild rice salad",
@@ -4218,7 +4218,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -4237,7 +4237,7 @@
             "id": "47",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Strawberries",
@@ -4321,7 +4321,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -4340,7 +4340,7 @@
             "id": "54",
             "mealTitle": "Snack",
             "week": 2,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Pear",
@@ -4538,7 +4538,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -4557,7 +4557,7 @@
             "id": "8",
             "mealTitle": "Snack",
             "week": 1,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Honey Lime Quinoa Fruit Salad",
@@ -4971,7 +4971,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -4990,7 +4990,7 @@
             "id": "54",
             "mealTitle": "Snack",
             "week": 4,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Salmon with Avocado Salsa Oven Baked",
@@ -6044,7 +6044,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -6063,13 +6063,13 @@
             "id": "24",
             "mealTitle": "Snack",
             "week": 2,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -6088,7 +6088,7 @@
             "id": "47",
             "mealTitle": "Snack",
             "week": 3,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Baked Salmon with Lemon and Thyme",
@@ -9360,7 +9360,7 @@
             "name": "Apple",
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
-            "protein": 0.7,
+            "protein": 0.6,
             "ingredientName": null,
             "instruction": "",
             "quantity": null,
@@ -9379,7 +9379,7 @@
             "id": "24",
             "mealTitle": "Snack",
             "week": 4,
-            "calories": 70
+            "calories": 80
         },
         {
             "name": "Cardamom Quinoa Porridge",

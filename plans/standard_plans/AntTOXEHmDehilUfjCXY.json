@@ -5400,9 +5400,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
             "day": "Tuesday",
-            "protein": 0.7,
+            "protein": 0.6,
             "week": 1,
-            "calories": 70,
+            "calories": 80,
             "cooktime": "",
             "instruction": "",
             "id": "10"
@@ -7156,9 +7156,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FApple.jpg?alt=media&token=ba59b2b2-5bbe-4842-9bca-b9c7dee0e8c8",
             "mealId": null,
             "day": "Tuesday",
-            "protein": 0.7,
+            "protein": 0.6,
             "week": 3,
-            "calories": 70,
+            "calories": 80,
             "cooktime": "",
             "instruction": "",
             "id": "10"
