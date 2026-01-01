@@ -129,7 +129,7 @@
             "protein": 25,
             "week": 4,
             "calories": 428,
-            "instruction": "Chop the red pepper into chunks and add to a blender with\nthe lemon juice. Blend until the pepper is broken down.\nAdd the cashews or sunflower seeds, red chili pepper flakes\nand salt and again blend until smooth.\nAdd the nutritional yeast and blend again. Doing it in stages\nlike this helps you to get the smooth consistency you need\nwithout over-heating it.\nPut the kale in a large bowl then pour the blended mixture\nover it and massage it in until all the leaves are coated.\nPlace it on dehydrator trays on mesh sheets and dehydrate\nat 110 degrees Fahrenheit for about 8 hrs, turning once\nhalfway through. If they aren�t crispy enough, leave them in\na bit longer.\nIf you don't have a dehydrator, you can also roast your kale\nchips in a 350-degree oven for 10 to 15 minutes. You run\nthe risk of them becoming a bit soggy with tis method,\nhowever.\nNote:\nCook time reflects cooking in the oven.",
+            "instruction": "Chop the red pepper into chunks and add to a blender with\nthe lemon juice. Blend until the pepper is broken down.\nAdd the cashews or sunflower seeds, red chili pepper flakes\nand salt and again blend until smooth.\nAdd the nutritional yeast and blend again. Doing it in stages\nlike this helps you to get the smooth consistency you need\nwithout over-heating it.\nPut the kale in a large bowl then pour the blended mixture\nover it and massage it in until all the leaves are coated.\nPlace it on dehydrator trays on mesh sheets and dehydrate\nat 110 degrees Fahrenheit for about 8 hrs, turning once\nhalfway through. If they aren\ufffdt crispy enough, leave them in\na bit longer.\nIf you don't have a dehydrator, you can also roast your kale\nchips in a 350-degree oven for 10 to 15 minutes. You run\nthe risk of them becoming a bit soggy with tis method,\nhowever.\nNote:\nCook time reflects cooking in the oven.",
             "id": "46"
         },
         {
@@ -179,9 +179,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FGreen%20smoothie.jpg?alt=media&token=59718c38-85a8-4cb8-8504-87051098625f",
             "mealId": null,
             "day": "Wednesday",
-            "protein": 38,
+            "protein": 17.4,
             "week": 4,
-            "calories": 418,
+            "calories": 494,
             "instruction": "Combine all ingredients in a blender. Blend until smooth\nand pour into a tall clear glass.\nFeel free to switch up the raspberries and greens for\nalternatives.",
             "id": "17"
         },
@@ -565,9 +565,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FMuesli%20with%20yogurt%20and%20berries.jpg?alt=media&token=216d7a46-ebb4-47ba-bd34-ea32fe3adb34",
             "mealId": null,
             "day": "Tuesday",
-            "protein": 57,
+            "protein": 9.6,
             "week": 2,
-            "calories": 247,
+            "calories": 386,
             "instruction": "1. Add ingredients to suitable glass container and mix well.\n2. Add two tablespoons of muesli to a bowl and add 1/4 cup\nalmond milk, 1 tablespoon of Greek yoghurt (or coconut\nyogurt if you want to go dairy free), and 1/4 cup of frozen\nberries, defrosted.\nEnjoy!",
             "id": "10"
         },
@@ -748,9 +748,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FMuesli%20with%20yogurt%20and%20berries.jpg?alt=media&token=216d7a46-ebb4-47ba-bd34-ea32fe3adb34",
             "mealId": null,
             "day": "Tuesday",
-            "protein": 56,
+            "protein": 9.6,
             "week": 4,
-            "calories": 544,
+            "calories": 386,
             "instruction": "1. Add ingredients to suitable glass container and mix well.\n2. Add two tablespoons of muesli to a bowl and add 1/4 cup\nalmond milk, 1 tablespoon of Greek yoghurt (or coconut\nyogurt if you want to go dairy free), and 1/4 cup of frozen\nberries, defrosted.\nEnjoy!",
             "id": "10"
         },
@@ -816,7 +816,7 @@
             "protein": 55,
             "week": 3,
             "calories": 671,
-            "instruction": "Preheat oven to 180�F.\nChop Brazil nuts and pecans in a food processor. Mix in a\nbowl with all the other nuts, seeds, and coconut flakes.\nCombine melted coconut oil, maple syrup, vanilla extract,\nand cinnamon. Pour into the dry ingredients and mix until\neverything is well-coated.\nPlace in the oven to cook for 30 minutes.",
+            "instruction": "Preheat oven to 180\ufffdF.\nChop Brazil nuts and pecans in a food processor. Mix in a\nbowl with all the other nuts, seeds, and coconut flakes.\nCombine melted coconut oil, maple syrup, vanilla extract,\nand cinnamon. Pour into the dry ingredients and mix until\neverything is well-coated.\nPlace in the oven to cook for 30 minutes.",
             "id": "61"
         },
         {
@@ -975,7 +975,7 @@
             "protein": 21,
             "week": 1,
             "calories": 748,
-            "instruction": "Preheat oven to 180�F.\nChop Brazil nuts and pecans in a food processor. Mix in a\nbowl with all the other nuts, seeds, and coconut flakes.\nCombine melted coconut oil, maple syrup, vanilla extract,\nand cinnamon. Pour into the dry ingredients and mix until\neverything is well-coated.\nPlace in the oven to cook for 30 minutes.",
+            "instruction": "Preheat oven to 180\ufffdF.\nChop Brazil nuts and pecans in a food processor. Mix in a\nbowl with all the other nuts, seeds, and coconut flakes.\nCombine melted coconut oil, maple syrup, vanilla extract,\nand cinnamon. Pour into the dry ingredients and mix until\neverything is well-coated.\nPlace in the oven to cook for 30 minutes.",
             "id": "32"
         },
         {
@@ -1045,9 +1045,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FMuesli%20with%20yogurt%20and%20berries.jpg?alt=media&token=216d7a46-ebb4-47ba-bd34-ea32fe3adb34",
             "mealId": null,
             "day": "Monday",
-            "protein": 33,
+            "protein": 9.6,
             "week": 4,
-            "calories": 337,
+            "calories": 386,
             "instruction": "1. Add ingredients to suitable glass container and mix well.\n2. Add two tablespoons of muesli to a bowl and add 1/4 cup\nalmond milk, 1 tablespoon of Greek yoghurt (or coconut\nyogurt if you want to go dairy free), and 1/4 cup of frozen\nberries, defrosted.\nEnjoy!",
             "id": "3"
         },
@@ -1269,9 +1269,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FEggs%20and%20toast.jpg?alt=media&token=24dc33ac-a1ee-4bcf-99d5-bdec99d96b82",
             "mealId": null,
             "day": "Monday",
-            "protein": 27,
+            "protein": 13.7,
             "week": 2,
-            "calories": 376,
+            "calories": 263,
             "instruction": "1. How to Hard Boil an Egg\n2. Once your egg is boiled, peel and slice!\n3. Toast your bread in the toasted to desired crispiness.\n4. Add boiled eggs and salsa on top and Enjoy!",
             "id": "1"
         },
@@ -1302,9 +1302,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FEggs%20and%20toast.jpg?alt=media&token=24dc33ac-a1ee-4bcf-99d5-bdec99d96b82",
             "mealId": null,
             "day": "Tuesday",
-            "protein": 40,
+            "protein": 13.7,
             "week": 2,
-            "calories": 524,
+            "calories": 263,
             "instruction": "1. How to Hard Boil an Egg\n2. Once your egg is boiled, peel and slice!\n3. Toast your bread in the toasted to desired crispiness.\n4. Add boiled eggs and salsa on top and Enjoy!",
             "id": "11"
         },
@@ -1752,9 +1752,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FGreen%20smoothie.jpg?alt=media&token=59718c38-85a8-4cb8-8504-87051098625f",
             "mealId": null,
             "day": "Friday",
-            "protein": 59,
+            "protein": 17.4,
             "week": 2,
-            "calories": 490,
+            "calories": 494,
             "instruction": "Combine all ingredients in a blender. Blend until smooth\nand pour into a tall clear glass.\nFeel free to switch up the raspberries and greens for\nalternatives.",
             "id": "32"
         },
@@ -1825,9 +1825,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FMuesli%20with%20yogurt%20and%20berries.jpg?alt=media&token=216d7a46-ebb4-47ba-bd34-ea32fe3adb34",
             "mealId": null,
             "day": "Sunday",
-            "protein": 57,
+            "protein": 9.6,
             "week": 4,
-            "calories": 382,
+            "calories": 386,
             "instruction": "1. Add ingredients to suitable glass container and mix well.\n2. Add two tablespoons of muesli to a bowl and add 1/4 cup\nalmond milk, 1 tablespoon of Greek yoghurt (or coconut\nyogurt if you want to go dairy free), and 1/4 cup of frozen\nberries, defrosted.\nEnjoy!",
             "id": "50"
         },
@@ -1898,9 +1898,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FMuesli%20with%20yogurt%20and%20berries.jpg?alt=media&token=216d7a46-ebb4-47ba-bd34-ea32fe3adb34",
             "mealId": null,
             "day": "Thursday",
-            "protein": 23,
+            "protein": 9.6,
             "week": 2,
-            "calories": 237,
+            "calories": 386,
             "instruction": "1. Add ingredients to suitable glass container and mix well.\n2. Add two tablespoons of muesli to a bowl and add 1/4 cup\nalmond milk, 1 tablespoon of Greek yoghurt (or coconut\nyogurt if you want to go dairy free), and 1/4 cup of frozen\nberries, defrosted.\nEnjoy!",
             "id": "25"
         },
@@ -1931,10 +1931,10 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FAlmond%20salmon.jpg?alt=media&token=ec26f542-525e-4696-a814-4637d6718dfe",
             "mealId": null,
             "day": "Wednesday",
-            "protein": 44,
+            "protein": 32.0,
             "week": 2,
-            "calories": 679,
-            "instruction": "Preheat oven to 400 degrees F.\nBrush salmon with honey. Chop almonds and sprinkle over\nsalmon.\nBake for 12-15 mins (until fish is opaque in centre).\nCouple this with your favourite saut�ed veggie (ie. bok\nchoy).\nServe and enjoy!",
+            "calories": 490,
+            "instruction": "Preheat oven to 400 degrees F.\nBrush salmon with honey. Chop almonds and sprinkle over\nsalmon.\nBake for 12-15 mins (until fish is opaque in centre).\nCouple this with your favourite saut\ufffded veggie (ie. bok\nchoy).\nServe and enjoy!",
             "id": "20"
         },
         {
@@ -2196,7 +2196,7 @@
             "protein": 44,
             "week": 1,
             "calories": 774,
-            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350�F and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
+            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350\ufffdF and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
             "id": "66"
         },
         {
@@ -2406,10 +2406,10 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FAlmond%20salmon.jpg?alt=media&token=ec26f542-525e-4696-a814-4637d6718dfe",
             "mealId": null,
             "day": "Wednesday",
-            "protein": 31,
+            "protein": 32.0,
             "week": 4,
-            "calories": 438,
-            "instruction": "Preheat oven to 400 degrees F.\nBrush salmon with honey. Chop almonds and sprinkle over\nsalmon.\nBake for 12-15 mins (until fish is opaque in centre).\nCouple this with your favourite saut�ed veggie (ie. bok\nchoy).\nServe and enjoy!",
+            "calories": 490,
+            "instruction": "Preheat oven to 400 degrees F.\nBrush salmon with honey. Chop almonds and sprinkle over\nsalmon.\nBake for 12-15 mins (until fish is opaque in centre).\nCouple this with your favourite saut\ufffded veggie (ie. bok\nchoy).\nServe and enjoy!",
             "id": "20"
         },
         {
@@ -2541,9 +2541,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FGreen%20smoothie.jpg?alt=media&token=59718c38-85a8-4cb8-8504-87051098625f",
             "mealId": null,
             "day": "Wednesday",
-            "protein": 57,
+            "protein": 17.4,
             "week": 2,
-            "calories": 577,
+            "calories": 494,
             "instruction": "Combine all ingredients in a blender. Blend until smooth\nand pour into a tall clear glass.\nFeel free to switch up the raspberries and greens for\nalternatives.",
             "id": "17"
         },
@@ -2638,7 +2638,7 @@
             "protein": 38,
             "week": 1,
             "calories": 765,
-            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350�F and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
+            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350\ufffdF and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
             "id": "28"
         },
         {
@@ -2692,9 +2692,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FKale%20cabbage%20slaw.jpg?alt=media&token=c662a249-627a-4919-9830-4da710e3be8b",
             "mealId": null,
             "day": "Saturday",
-            "protein": 40,
+            "protein": 3.4,
             "week": 2,
-            "calories": 615,
+            "calories": 118,
             "instruction": "Cut the middle rib out of each kale leaf. Roll the\n\nleaves up into a tight roll and slice them chiffonade-\nstyle into thin strips. Put the strips of kale in a large\n\nbowl. You should have about 2 to 3 cups.\nCut the core out of the cabbage half and thinly shred\ncabbage on a mandolin use a knife to thinly chop it.\nTransfer the cabbage to the bowl with the kale.\nWash and peel the carrots. Julienne them into thin\nmatchstick (you can use a mandolin or a knife). Add\nto the kale and cabbage.\nDrizzle 2 to 3 tablespoons of the dressing over the\nsalad. Toss the salad. Cover and refrigerate until\nserving time. Serve with the extra dressing on the\nside.\nAdvanced Preparation\n1 - 3 days prior [optional], Dijon mustard, whole grain\n3/4 tsp\nInstructions:\nIn a mason jar or bowl, combine the Dijon mustard,\nminced garlic, vinegar, and mayo. Whisk or shake\nwell. Add a dash of salt and some freshly ground\nblack pepper, to taste.",
             "id": "44"
         },
@@ -2819,9 +2819,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FGreen%20smoothie.jpg?alt=media&token=59718c38-85a8-4cb8-8504-87051098625f",
             "mealId": null,
             "day": "Monday",
-            "protein": 37,
+            "protein": 17.4,
             "week": 2,
-            "calories": 527,
+            "calories": 494,
             "instruction": "Combine all ingredients in a blender. Blend until smooth\nand pour into a tall clear glass.\nFeel free to switch up the raspberries and greens for\nalternatives.",
             "id": "2"
         },
@@ -2899,7 +2899,7 @@
             "protein": 39,
             "week": 2,
             "calories": 574,
-            "instruction": "Place cashews in the food processor and finely grind\n(just don�t let the cashews turn to a cashew butter).\nAdd red pepper and process until smooth. Set aside.\nIn a heavy saucepan, combine milk, oil and\ncornstarch. Bring to a simmer over high heat.\nDecrease heat to low, cover and simmer, stirring\noccasionally for 10 minutes, or until cornstarch\ndissolves.\nUsing a whisk or large fork, stir in the ground\ncashews, nutritional yeast, miso paste, lemon juice,\nonion powder, garlic powder and salt until well\ncombined.\nAdd the cashew cheese to the macaroni noodles,\ndrizzle with truffle oil (if using), a dash of freshly\nground black pepper and serve.",
+            "instruction": "Place cashews in the food processor and finely grind\n(just don\ufffdt let the cashews turn to a cashew butter).\nAdd red pepper and process until smooth. Set aside.\nIn a heavy saucepan, combine milk, oil and\ncornstarch. Bring to a simmer over high heat.\nDecrease heat to low, cover and simmer, stirring\noccasionally for 10 minutes, or until cornstarch\ndissolves.\nUsing a whisk or large fork, stir in the ground\ncashews, nutritional yeast, miso paste, lemon juice,\nonion powder, garlic powder and salt until well\ncombined.\nAdd the cashew cheese to the macaroni noodles,\ndrizzle with truffle oil (if using), a dash of freshly\nground black pepper and serve.",
             "id": "28"
         },
         {
@@ -3279,7 +3279,7 @@
             "protein": 25,
             "week": 4,
             "calories": 438,
-            "instruction": "Place cashews in the food processor and finely grind\n(just don�t let the cashews turn to a cashew butter).\nAdd red pepper and process until smooth. Set aside.\nIn a heavy saucepan, combine milk, oil and\ncornstarch. Bring to a simmer over high heat.\nDecrease heat to low, cover and simmer, stirring\noccasionally for 10 minutes, or until cornstarch\ndissolves.\nUsing a whisk or large fork, stir in the ground\ncashews, nutritional yeast, miso paste, lemon juice,\nonion powder, garlic powder and salt until well\ncombined.\nAdd the cashew cheese to the macaroni noodles,\ndrizzle with truffle oil (if using), a dash of freshly\nground black pepper and serve.",
+            "instruction": "Place cashews in the food processor and finely grind\n(just don\ufffdt let the cashews turn to a cashew butter).\nAdd red pepper and process until smooth. Set aside.\nIn a heavy saucepan, combine milk, oil and\ncornstarch. Bring to a simmer over high heat.\nDecrease heat to low, cover and simmer, stirring\noccasionally for 10 minutes, or until cornstarch\ndissolves.\nUsing a whisk or large fork, stir in the ground\ncashews, nutritional yeast, miso paste, lemon juice,\nonion powder, garlic powder and salt until well\ncombined.\nAdd the cashew cheese to the macaroni noodles,\ndrizzle with truffle oil (if using), a dash of freshly\nground black pepper and serve.",
             "id": "28"
         },
         {
@@ -3340,7 +3340,7 @@
             "protein": 32,
             "week": 4,
             "calories": 631,
-            "instruction": "Combine romaine, blueberries, cucumber, feta and\nalmonds in a large bowl.\nWhisk together Dijon mustard, balsamic vinegar,\nmaple syrup and salt. Slowly pour in olive oil\nwhisking until completely combined and emulsified.\nPortion the salad and top with 1�2 tablespoons of\ndressing.",
+            "instruction": "Combine romaine, blueberries, cucumber, feta and\nalmonds in a large bowl.\nWhisk together Dijon mustard, balsamic vinegar,\nmaple syrup and salt. Slowly pour in olive oil\nwhisking until completely combined and emulsified.\nPortion the salad and top with 1\ufffd2 tablespoons of\ndressing.",
             "id": "19"
         },
         {
@@ -3557,9 +3557,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FEggs%20and%20toast.jpg?alt=media&token=24dc33ac-a1ee-4bcf-99d5-bdec99d96b82",
             "mealId": null,
             "day": "Thursday",
-            "protein": 24,
+            "protein": 13.7,
             "week": 2,
-            "calories": 466,
+            "calories": 263,
             "instruction": "1. How to Hard Boil an Egg\n2. Once your egg is boiled, peel and slice!\n3. Toast your bread in the toasted to desired crispiness.\n4. Add boiled eggs and salsa on top and Enjoy!",
             "id": "26"
         },
@@ -3617,7 +3617,7 @@
             "protein": 26,
             "week": 3,
             "calories": 337,
-            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350�F and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
+            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350\ufffdF and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
             "id": "58"
         },
         {
@@ -3953,7 +3953,7 @@
             "protein": 57,
             "week": 4,
             "calories": 421,
-            "instruction": "Heat the oven to 400�F: Place an oven rack in the\nmiddle of the oven.\nRinse and drain the chickpeas: Open the cans of\nchickpeas and pour the chickpeas into a strainer in\nthe sink. Rinse thoroughly under running water.\nDry the chickpeas: Pat the chickpeas very dry with a\nclean dishtowel or paper towels. They should look\nmatte and feel dry to the touch; if you have time,\nleave them to air-dry for a few minutes. Remove any\nchickpea skins that come off while drying, but\notherwise don�t worry about them.\nToss the chickpeas with olive oil and salt: Spread the\nchickpeas out in an even layer on the baking sheet.\nDrizzle with olive oil and sprinkle with salt. Stir with\nyour hands or a spatula to make sure the chickpeas\nare evenly coated.\nRoast the chickpeas in the oven for 20 to 30\nminutes: Stir the chickpeas or shake the pan every\n10 minutes. A few chickpeas may pop � that�s\nnormal. The chickpeas are done when golden and\nslightly darkened, dry and crispy on the outside, and\nsoft in the middle.\nToss the chickpeas with the spices: Sprinkle the\nspices over the chickpeas and stir to coat evenly.\nServe while the chickpeas are still warm and crispy.\nThey will gradually lose their crispiness as they cool,\nbecoming addictively chewy.\nAdvanced Preparation\n1 - 3 days prior [optional], Chickpeas, raw 2/3 cup\nInstructions:\nPlace the chickpeas in a bowl and cover with\nplenty of water. Let soak for at least 8 hours, or\novernight. Drain and rinse well. Place in a large\npot, cover with water, bring to a boil and reduce to\nsimmer with the lid on for about 50 minutes. Drain\nand store in a glass Tupperware in the fridge.",
+            "instruction": "Heat the oven to 400\ufffdF: Place an oven rack in the\nmiddle of the oven.\nRinse and drain the chickpeas: Open the cans of\nchickpeas and pour the chickpeas into a strainer in\nthe sink. Rinse thoroughly under running water.\nDry the chickpeas: Pat the chickpeas very dry with a\nclean dishtowel or paper towels. They should look\nmatte and feel dry to the touch; if you have time,\nleave them to air-dry for a few minutes. Remove any\nchickpea skins that come off while drying, but\notherwise don\ufffdt worry about them.\nToss the chickpeas with olive oil and salt: Spread the\nchickpeas out in an even layer on the baking sheet.\nDrizzle with olive oil and sprinkle with salt. Stir with\nyour hands or a spatula to make sure the chickpeas\nare evenly coated.\nRoast the chickpeas in the oven for 20 to 30\nminutes: Stir the chickpeas or shake the pan every\n10 minutes. A few chickpeas may pop \ufffd that\ufffds\nnormal. The chickpeas are done when golden and\nslightly darkened, dry and crispy on the outside, and\nsoft in the middle.\nToss the chickpeas with the spices: Sprinkle the\nspices over the chickpeas and stir to coat evenly.\nServe while the chickpeas are still warm and crispy.\nThey will gradually lose their crispiness as they cool,\nbecoming addictively chewy.\nAdvanced Preparation\n1 - 3 days prior [optional], Chickpeas, raw 2/3 cup\nInstructions:\nPlace the chickpeas in a bowl and cover with\nplenty of water. Let soak for at least 8 hours, or\novernight. Drain and rinse well. Place in a large\npot, cover with water, bring to a boil and reduce to\nsimmer with the lid on for about 50 minutes. Drain\nand store in a glass Tupperware in the fridge.",
             "id": "37"
         },
         {
@@ -4023,9 +4023,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FMuesli%20with%20yogurt%20and%20berries.jpg?alt=media&token=216d7a46-ebb4-47ba-bd34-ea32fe3adb34",
             "mealId": null,
             "day": "Sunday",
-            "protein": 32,
+            "protein": 9.6,
             "week": 2,
-            "calories": 459,
+            "calories": 386,
             "instruction": "1. Add ingredients to suitable glass container and mix well.\n2. Add two tablespoons of muesli to a bowl and add 1/4 cup\nalmond milk, 1 tablespoon of Greek yoghurt (or coconut\nyogurt if you want to go dairy free), and 1/4 cup of frozen\nberries, defrosted.\nEnjoy!",
             "id": "50"
         },
@@ -4083,7 +4083,7 @@
             "protein": 24,
             "week": 3,
             "calories": 716,
-            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350�F and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
+            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350\ufffdF and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
             "id": "6"
         },
         {
@@ -4137,9 +4137,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FKale%20cabbage%20slaw.jpg?alt=media&token=c662a249-627a-4919-9830-4da710e3be8b",
             "mealId": null,
             "day": "Sunday",
-            "protein": 47,
+            "protein": 3.4,
             "week": 2,
-            "calories": 350,
+            "calories": 118,
             "instruction": "Cut the middle rib out of each kale leaf. Roll the\n\nleaves up into a tight roll and slice them chiffonade-\nstyle into thin strips. Put the strips of kale in a large\n\nbowl. You should have about 2 to 3 cups.\nCut the core out of the cabbage half and thinly shred\ncabbage on a mandolin use a knife to thinly chop it.\nTransfer the cabbage to the bowl with the kale.\nWash and peel the carrots. Julienne them into thin\nmatchstick (you can use a mandolin or a knife). Add\nto the kale and cabbage.\nDrizzle 2 to 3 tablespoons of the dressing over the\nsalad. Toss the salad. Cover and refrigerate until\nserving time. Serve with the extra dressing on the\nside.\nAdvanced Preparation\n1 - 3 days prior [optional], Dijon mustard, whole grain\n3/4 tsp\nInstructions:\nIn a mason jar or bowl, combine the Dijon mustard,\nminced garlic, vinegar, and mayo. Whisk or shake\nwell. Add a dash of salt and some freshly ground\nblack pepper, to taste.",
             "id": "54"
         },
@@ -4170,9 +4170,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FEggs%20and%20toast.jpg?alt=media&token=24dc33ac-a1ee-4bcf-99d5-bdec99d96b82",
             "mealId": null,
             "day": "Thursday",
-            "protein": 25,
+            "protein": 13.7,
             "week": 4,
-            "calories": 563,
+            "calories": 263,
             "instruction": "1. How to Hard Boil an Egg\n2. Once your egg is boiled, peel and slice!\n3. Toast your bread in the toasted to desired crispiness.\n4. Add boiled eggs and salsa on top and Enjoy!",
             "id": "26"
         },
@@ -4203,9 +4203,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FEggs%20and%20toast.jpg?alt=media&token=24dc33ac-a1ee-4bcf-99d5-bdec99d96b82",
             "mealId": null,
             "day": "Tuesday",
-            "protein": 22,
+            "protein": 13.7,
             "week": 4,
-            "calories": 733,
+            "calories": 263,
             "instruction": "1. How to Hard Boil an Egg\n2. Once your egg is boiled, peel and slice!\n3. Toast your bread in the toasted to desired crispiness.\n4. Add boiled eggs and salsa on top and Enjoy!",
             "id": "11"
         },
@@ -4571,9 +4571,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPesto%20chicken%20and%20tomato%20kebabs.jpg?alt=media&token=1d6bb7f3-1f2e-455f-b0b0-719f13df27e8",
             "mealId": null,
             "day": "Tuesday",
-            "protein": 35,
+            "protein": 48.0,
             "week": 3,
-            "calories": 206,
+            "calories": 445,
             "instruction": "In a food processor pulse basil, garlic, parmesan\ncheese, salt and pepper until smooth. Slowly add the\nolive oil while pulsing. Reserve 2-3 tbsp pesto in a\nseparate bowl.\nCombine the raw chicken with the rest of the pesto\nand marinate a few hours in a bowl.\nSoak wooden skewers in water at least 30 minutes\n(or use metal ones to avoid this step).\nBeginning and ending with chicken, thread chicken\nand tomatoes onto 8 pairs of parallel skewers to\nmake 8 kebabs total.\nHeat the outdoor grill or indoor grill pan over\nmedium heat until hot. Be sure the grates are clean\nand spray lightly with oil.\nPlace the chicken on the hot grill and cook about 3-4\nminutes. Turn and continue cooking until chicken is\ncooked through, about 2 to 3 minutes. Brush with\nthe reserved pesto.",
             "id": "14"
         },
@@ -4639,7 +4639,7 @@
             "protein": 52,
             "week": 3,
             "calories": 777,
-            "instruction": "Preheat oven to 180�F.\nChop Brazil nuts and pecans in a food processor. Mix in a\nbowl with all the other nuts, seeds, and coconut flakes.\nCombine melted coconut oil, maple syrup, vanilla extract,\nand cinnamon. Pour into the dry ingredients and mix until\neverything is well-coated.\nPlace in the oven to cook for 30 minutes.",
+            "instruction": "Preheat oven to 180\ufffdF.\nChop Brazil nuts and pecans in a food processor. Mix in a\nbowl with all the other nuts, seeds, and coconut flakes.\nCombine melted coconut oil, maple syrup, vanilla extract,\nand cinnamon. Pour into the dry ingredients and mix until\neverything is well-coated.\nPlace in the oven to cook for 30 minutes.",
             "id": "1"
         },
         {
@@ -5156,7 +5156,7 @@
             "protein": 52,
             "week": 2,
             "calories": 701,
-            "instruction": "Combine romaine, blueberries, cucumber, feta and\nalmonds in a large bowl.\nWhisk together Dijon mustard, balsamic vinegar,\nmaple syrup and salt. Slowly pour in olive oil\nwhisking until completely combined and emulsified.\nPortion the salad and top with 1�2 tablespoons of\ndressing.",
+            "instruction": "Combine romaine, blueberries, cucumber, feta and\nalmonds in a large bowl.\nWhisk together Dijon mustard, balsamic vinegar,\nmaple syrup and salt. Slowly pour in olive oil\nwhisking until completely combined and emulsified.\nPortion the salad and top with 1\ufffd2 tablespoons of\ndressing.",
             "id": "4"
         },
         {
@@ -5747,9 +5747,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FEggs%20and%20toast.jpg?alt=media&token=24dc33ac-a1ee-4bcf-99d5-bdec99d96b82",
             "mealId": null,
             "day": "Friday",
-            "protein": 32,
+            "protein": 13.7,
             "week": 2,
-            "calories": 573,
+            "calories": 263,
             "instruction": "1. How to Hard Boil an Egg\n2. Once your egg is boiled, peel and slice!\n3. Toast your bread in the toasted to desired crispiness.\n4. Add boiled eggs and salsa on top and Enjoy!",
             "id": "31"
         },
@@ -5983,7 +5983,7 @@
             "protein": 39,
             "week": 2,
             "calories": 461,
-            "instruction": "Chop the red pepper into chunks and add to a blender with\nthe lemon juice. Blend until the pepper is broken down.\nAdd the cashews or sunflower seeds, red chili pepper flakes\nand salt and again blend until smooth.\nAdd the nutritional yeast and blend again. Doing it in stages\nlike this helps you to get the smooth consistency you need\nwithout over-heating it.\nPut the kale in a large bowl then pour the blended mixture\nover it and massage it in until all the leaves are coated.\nPlace it on dehydrator trays on mesh sheets and dehydrate\nat 110 degrees Fahrenheit for about 8 hrs, turning once\nhalfway through. If they aren�t crispy enough, leave them in\na bit longer.\nIf you don't have a dehydrator, you can also roast your kale\nchips in a 350-degree oven for 10 to 15 minutes. You run\nthe risk of them becoming a bit soggy with tis method,\nhowever.\nNote:\nCook time reflects cooking in the oven.",
+            "instruction": "Chop the red pepper into chunks and add to a blender with\nthe lemon juice. Blend until the pepper is broken down.\nAdd the cashews or sunflower seeds, red chili pepper flakes\nand salt and again blend until smooth.\nAdd the nutritional yeast and blend again. Doing it in stages\nlike this helps you to get the smooth consistency you need\nwithout over-heating it.\nPut the kale in a large bowl then pour the blended mixture\nover it and massage it in until all the leaves are coated.\nPlace it on dehydrator trays on mesh sheets and dehydrate\nat 110 degrees Fahrenheit for about 8 hrs, turning once\nhalfway through. If they aren\ufffdt crispy enough, leave them in\na bit longer.\nIf you don't have a dehydrator, you can also roast your kale\nchips in a 350-degree oven for 10 to 15 minutes. You run\nthe risk of them becoming a bit soggy with tis method,\nhowever.\nNote:\nCook time reflects cooking in the oven.",
             "id": "29"
         },
         {
@@ -6060,7 +6060,7 @@
             "protein": 25,
             "week": 4,
             "calories": 280,
-            "instruction": "Place cashews in the food processor and finely grind\n(just don�t let the cashews turn to a cashew butter).\nAdd red pepper and process until smooth. Set aside.\nIn a heavy saucepan, combine milk, oil and\ncornstarch. Bring to a simmer over high heat.\nDecrease heat to low, cover and simmer, stirring\noccasionally for 10 minutes, or until cornstarch\ndissolves.\nUsing a whisk or large fork, stir in the ground\ncashews, nutritional yeast, miso paste, lemon juice,\nonion powder, garlic powder and salt until well\ncombined.\nAdd the cashew cheese to the macaroni noodles,\ndrizzle with truffle oil (if using), a dash of freshly\nground black pepper and serve.",
+            "instruction": "Place cashews in the food processor and finely grind\n(just don\ufffdt let the cashews turn to a cashew butter).\nAdd red pepper and process until smooth. Set aside.\nIn a heavy saucepan, combine milk, oil and\ncornstarch. Bring to a simmer over high heat.\nDecrease heat to low, cover and simmer, stirring\noccasionally for 10 minutes, or until cornstarch\ndissolves.\nUsing a whisk or large fork, stir in the ground\ncashews, nutritional yeast, miso paste, lemon juice,\nonion powder, garlic powder and salt until well\ncombined.\nAdd the cashew cheese to the macaroni noodles,\ndrizzle with truffle oil (if using), a dash of freshly\nground black pepper and serve.",
             "id": "34"
         },
         {
@@ -6170,7 +6170,7 @@
             "protein": 31,
             "week": 4,
             "calories": 614,
-            "instruction": "Chop the red pepper into chunks and add to a blender with\nthe lemon juice. Blend until the pepper is broken down.\nAdd the cashews or sunflower seeds, red chili pepper flakes\nand salt and again blend until smooth.\nAdd the nutritional yeast and blend again. Doing it in stages\nlike this helps you to get the smooth consistency you need\nwithout over-heating it.\nPut the kale in a large bowl then pour the blended mixture\nover it and massage it in until all the leaves are coated.\nPlace it on dehydrator trays on mesh sheets and dehydrate\nat 110 degrees Fahrenheit for about 8 hrs, turning once\nhalfway through. If they aren�t crispy enough, leave them in\na bit longer.\nIf you don't have a dehydrator, you can also roast your kale\nchips in a 350-degree oven for 10 to 15 minutes. You run\nthe risk of them becoming a bit soggy with tis method,\nhowever.\nNote:\nCook time reflects cooking in the oven.",
+            "instruction": "Chop the red pepper into chunks and add to a blender with\nthe lemon juice. Blend until the pepper is broken down.\nAdd the cashews or sunflower seeds, red chili pepper flakes\nand salt and again blend until smooth.\nAdd the nutritional yeast and blend again. Doing it in stages\nlike this helps you to get the smooth consistency you need\nwithout over-heating it.\nPut the kale in a large bowl then pour the blended mixture\nover it and massage it in until all the leaves are coated.\nPlace it on dehydrator trays on mesh sheets and dehydrate\nat 110 degrees Fahrenheit for about 8 hrs, turning once\nhalfway through. If they aren\ufffdt crispy enough, leave them in\na bit longer.\nIf you don't have a dehydrator, you can also roast your kale\nchips in a 350-degree oven for 10 to 15 minutes. You run\nthe risk of them becoming a bit soggy with tis method,\nhowever.\nNote:\nCook time reflects cooking in the oven.",
             "id": "29"
         },
         {
@@ -6493,7 +6493,7 @@
             "protein": 47,
             "week": 1,
             "calories": 507,
-            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350�F and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
+            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350\ufffdF and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
             "id": "6"
         },
         {
@@ -6550,7 +6550,7 @@
             "protein": 27,
             "week": 3,
             "calories": 560,
-            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350�F and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
+            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350\ufffdF and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
             "id": "28"
         },
         {
@@ -7044,7 +7044,7 @@
             "protein": 22,
             "week": 2,
             "calories": 723,
-            "instruction": "Heat the oven to 400�F: Place an oven rack in the\nmiddle of the oven.\nRinse and drain the chickpeas: Open the cans of\nchickpeas and pour the chickpeas into a strainer in\nthe sink. Rinse thoroughly under running water.\nDry the chickpeas: Pat the chickpeas very dry with a\nclean dishtowel or paper towels. They should look\nmatte and feel dry to the touch; if you have time,\nleave them to air-dry for a few minutes. Remove any\nchickpea skins that come off while drying, but\notherwise don�t worry about them.\nToss the chickpeas with olive oil and salt: Spread the\nchickpeas out in an even layer on the baking sheet.\nDrizzle with olive oil and sprinkle with salt. Stir with\nyour hands or a spatula to make sure the chickpeas\nare evenly coated.\nRoast the chickpeas in the oven for 20 to 30\nminutes: Stir the chickpeas or shake the pan every\n10 minutes. A few chickpeas may pop � that�s\nnormal. The chickpeas are done when golden and\nslightly darkened, dry and crispy on the outside, and\nsoft in the middle.\nToss the chickpeas with the spices: Sprinkle the\nspices over the chickpeas and stir to coat evenly.\nServe while the chickpeas are still warm and crispy.\nThey will gradually lose their crispiness as they cool,\nbecoming addictively chewy.\nAdvanced Preparation\n1 - 3 days prior [optional], Chickpeas, raw 2/3 cup\nInstructions:\nPlace the chickpeas in a bowl and cover with\nplenty of water. Let soak for at least 8 hours, or\novernight. Drain and rinse well. Place in a large\npot, cover with water, bring to a boil and reduce to\nsimmer with the lid on for about 50 minutes. Drain\nand store in a glass Tupperware in the fridge.",
+            "instruction": "Heat the oven to 400\ufffdF: Place an oven rack in the\nmiddle of the oven.\nRinse and drain the chickpeas: Open the cans of\nchickpeas and pour the chickpeas into a strainer in\nthe sink. Rinse thoroughly under running water.\nDry the chickpeas: Pat the chickpeas very dry with a\nclean dishtowel or paper towels. They should look\nmatte and feel dry to the touch; if you have time,\nleave them to air-dry for a few minutes. Remove any\nchickpea skins that come off while drying, but\notherwise don\ufffdt worry about them.\nToss the chickpeas with olive oil and salt: Spread the\nchickpeas out in an even layer on the baking sheet.\nDrizzle with olive oil and sprinkle with salt. Stir with\nyour hands or a spatula to make sure the chickpeas\nare evenly coated.\nRoast the chickpeas in the oven for 20 to 30\nminutes: Stir the chickpeas or shake the pan every\n10 minutes. A few chickpeas may pop \ufffd that\ufffds\nnormal. The chickpeas are done when golden and\nslightly darkened, dry and crispy on the outside, and\nsoft in the middle.\nToss the chickpeas with the spices: Sprinkle the\nspices over the chickpeas and stir to coat evenly.\nServe while the chickpeas are still warm and crispy.\nThey will gradually lose their crispiness as they cool,\nbecoming addictively chewy.\nAdvanced Preparation\n1 - 3 days prior [optional], Chickpeas, raw 2/3 cup\nInstructions:\nPlace the chickpeas in a bowl and cover with\nplenty of water. Let soak for at least 8 hours, or\novernight. Drain and rinse well. Place in a large\npot, cover with water, bring to a boil and reduce to\nsimmer with the lid on for about 50 minutes. Drain\nand store in a glass Tupperware in the fridge.",
             "id": "7"
         },
         {
@@ -7179,10 +7179,10 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FAlmond%20salmon.jpg?alt=media&token=ec26f542-525e-4696-a814-4637d6718dfe",
             "mealId": null,
             "day": "Monday",
-            "protein": 41,
+            "protein": 32.0,
             "week": 4,
-            "calories": 308,
-            "instruction": "Preheat oven to 400 degrees F.\nBrush salmon with honey. Chop almonds and sprinkle over\nsalmon.\nBake for 12-15 mins (until fish is opaque in centre).\nCouple this with your favourite saut�ed veggie (ie. bok\nchoy).\nServe and enjoy!",
+            "calories": 490,
+            "instruction": "Preheat oven to 400 degrees F.\nBrush salmon with honey. Chop almonds and sprinkle over\nsalmon.\nBake for 12-15 mins (until fish is opaque in centre).\nCouple this with your favourite saut\ufffded veggie (ie. bok\nchoy).\nServe and enjoy!",
             "id": "5"
         },
         {
@@ -7249,9 +7249,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FEggs%20and%20toast.jpg?alt=media&token=24dc33ac-a1ee-4bcf-99d5-bdec99d96b82",
             "mealId": null,
             "day": "Monday",
-            "protein": 38,
+            "protein": 13.7,
             "week": 4,
-            "calories": 780,
+            "calories": 263,
             "instruction": "1. How to Hard Boil an Egg\n2. Once your egg is boiled, peel and slice!\n3. Toast your bread in the toasted to desired crispiness.\n4. Add boiled eggs and salsa on top and Enjoy!",
             "id": "1"
         },
@@ -7351,7 +7351,7 @@
             "protein": 52,
             "week": 2,
             "calories": 717,
-            "instruction": "Heat the oven to 400�F: Place an oven rack in the\nmiddle of the oven.\nRinse and drain the chickpeas: Open the cans of\nchickpeas and pour the chickpeas into a strainer in\nthe sink. Rinse thoroughly under running water.\nDry the chickpeas: Pat the chickpeas very dry with a\nclean dishtowel or paper towels. They should look\nmatte and feel dry to the touch; if you have time,\nleave them to air-dry for a few minutes. Remove any\nchickpea skins that come off while drying, but\notherwise don�t worry about them.\nToss the chickpeas with olive oil and salt: Spread the\nchickpeas out in an even layer on the baking sheet.\nDrizzle with olive oil and sprinkle with salt. Stir with\nyour hands or a spatula to make sure the chickpeas\nare evenly coated.\nRoast the chickpeas in the oven for 20 to 30\nminutes: Stir the chickpeas or shake the pan every\n10 minutes. A few chickpeas may pop � that�s\nnormal. The chickpeas are done when golden and\nslightly darkened, dry and crispy on the outside, and\nsoft in the middle.\nToss the chickpeas with the spices: Sprinkle the\nspices over the chickpeas and stir to coat evenly.\nServe while the chickpeas are still warm and crispy.\nThey will gradually lose their crispiness as they cool,\nbecoming addictively chewy.\nAdvanced Preparation\n1 - 3 days prior [optional], Chickpeas, raw 2/3 cup\nInstructions:\nPlace the chickpeas in a bowl and cover with\nplenty of water. Let soak for at least 8 hours, or\novernight. Drain and rinse well. Place in a large\npot, cover with water, bring to a boil and reduce to\nsimmer with the lid on for about 50 minutes. Drain\nand store in a glass Tupperware in the fridge.",
+            "instruction": "Heat the oven to 400\ufffdF: Place an oven rack in the\nmiddle of the oven.\nRinse and drain the chickpeas: Open the cans of\nchickpeas and pour the chickpeas into a strainer in\nthe sink. Rinse thoroughly under running water.\nDry the chickpeas: Pat the chickpeas very dry with a\nclean dishtowel or paper towels. They should look\nmatte and feel dry to the touch; if you have time,\nleave them to air-dry for a few minutes. Remove any\nchickpea skins that come off while drying, but\notherwise don\ufffdt worry about them.\nToss the chickpeas with olive oil and salt: Spread the\nchickpeas out in an even layer on the baking sheet.\nDrizzle with olive oil and sprinkle with salt. Stir with\nyour hands or a spatula to make sure the chickpeas\nare evenly coated.\nRoast the chickpeas in the oven for 20 to 30\nminutes: Stir the chickpeas or shake the pan every\n10 minutes. A few chickpeas may pop \ufffd that\ufffds\nnormal. The chickpeas are done when golden and\nslightly darkened, dry and crispy on the outside, and\nsoft in the middle.\nToss the chickpeas with the spices: Sprinkle the\nspices over the chickpeas and stir to coat evenly.\nServe while the chickpeas are still warm and crispy.\nThey will gradually lose their crispiness as they cool,\nbecoming addictively chewy.\nAdvanced Preparation\n1 - 3 days prior [optional], Chickpeas, raw 2/3 cup\nInstructions:\nPlace the chickpeas in a bowl and cover with\nplenty of water. Let soak for at least 8 hours, or\novernight. Drain and rinse well. Place in a large\npot, cover with water, bring to a boil and reduce to\nsimmer with the lid on for about 50 minutes. Drain\nand store in a glass Tupperware in the fridge.",
             "id": "22"
         },
         {
@@ -7467,9 +7467,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FKale%20cabbage%20slaw.jpg?alt=media&token=c662a249-627a-4919-9830-4da710e3be8b",
             "mealId": null,
             "day": "Sunday",
-            "protein": 41,
+            "protein": 3.4,
             "week": 4,
-            "calories": 700,
+            "calories": 118,
             "instruction": "Cut the middle rib out of each kale leaf. Roll the\n\nleaves up into a tight roll and slice them chiffonade-\nstyle into thin strips. Put the strips of kale in a large\n\nbowl. You should have about 2 to 3 cups.\nCut the core out of the cabbage half and thinly shred\ncabbage on a mandolin use a knife to thinly chop it.\nTransfer the cabbage to the bowl with the kale.\nWash and peel the carrots. Julienne them into thin\nmatchstick (you can use a mandolin or a knife). Add\nto the kale and cabbage.\nDrizzle 2 to 3 tablespoons of the dressing over the\nsalad. Toss the salad. Cover and refrigerate until\nserving time. Serve with the extra dressing on the\nside.\nAdvanced Preparation\n1 - 3 days prior [optional], Dijon mustard, whole grain\n3/4 tsp\nInstructions:\nIn a mason jar or bowl, combine the Dijon mustard,\nminced garlic, vinegar, and mayo. Whisk or shake\nwell. Add a dash of salt and some freshly ground\nblack pepper, to taste.",
             "id": "54"
         },
@@ -7909,9 +7909,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FMuesli%20with%20yogurt%20and%20berries.jpg?alt=media&token=216d7a46-ebb4-47ba-bd34-ea32fe3adb34",
             "mealId": null,
             "day": "Saturday",
-            "protein": 32,
+            "protein": 9.6,
             "week": 2,
-            "calories": 654,
+            "calories": 386,
             "instruction": "1. Add ingredients to suitable glass container and mix well.\n2. Add two tablespoons of muesli to a bowl and add 1/4 cup\nalmond milk, 1 tablespoon of Greek yoghurt (or coconut\nyogurt if you want to go dairy free), and 1/4 cup of frozen\nberries, defrosted.\nEnjoy!",
             "id": "40"
         },
@@ -8007,9 +8007,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FMuesli%20with%20yogurt%20and%20berries.jpg?alt=media&token=216d7a46-ebb4-47ba-bd34-ea32fe3adb34",
             "mealId": null,
             "day": "Friday",
-            "protein": 51,
+            "protein": 9.6,
             "week": 4,
-            "calories": 314,
+            "calories": 386,
             "instruction": "1. Add ingredients to suitable glass container and mix well.\n2. Add two tablespoons of muesli to a bowl and add 1/4 cup\nalmond milk, 1 tablespoon of Greek yoghurt (or coconut\nyogurt if you want to go dairy free), and 1/4 cup of frozen\nberries, defrosted.\nEnjoy!",
             "id": "33"
         },
@@ -8080,9 +8080,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FMuesli%20with%20yogurt%20and%20berries.jpg?alt=media&token=216d7a46-ebb4-47ba-bd34-ea32fe3adb34",
             "mealId": null,
             "day": "Wednesday",
-            "protein": 60,
+            "protein": 9.6,
             "week": 2,
-            "calories": 586,
+            "calories": 386,
             "instruction": "1. Add ingredients to suitable glass container and mix well.\n2. Add two tablespoons of muesli to a bowl and add 1/4 cup\nalmond milk, 1 tablespoon of Greek yoghurt (or coconut\nyogurt if you want to go dairy free), and 1/4 cup of frozen\nberries, defrosted.\nEnjoy!",
             "id": "18"
         },
@@ -8275,7 +8275,7 @@
             "protein": 54,
             "week": 4,
             "calories": 363,
-            "instruction": "Heat the oven to 400�F: Place an oven rack in the\nmiddle of the oven.\nRinse and drain the chickpeas: Open the cans of\nchickpeas and pour the chickpeas into a strainer in\nthe sink. Rinse thoroughly under running water.\nDry the chickpeas: Pat the chickpeas very dry with a\nclean dishtowel or paper towels. They should look\nmatte and feel dry to the touch; if you have time,\nleave them to air-dry for a few minutes. Remove any\nchickpea skins that come off while drying, but\notherwise don�t worry about them.\nToss the chickpeas with olive oil and salt: Spread the\nchickpeas out in an even layer on the baking sheet.\nDrizzle with olive oil and sprinkle with salt. Stir with\nyour hands or a spatula to make sure the chickpeas\nare evenly coated.\nRoast the chickpeas in the oven for 20 to 30\nminutes: Stir the chickpeas or shake the pan every\n10 minutes. A few chickpeas may pop � that�s\nnormal. The chickpeas are done when golden and\nslightly darkened, dry and crispy on the outside, and\nsoft in the middle.\nToss the chickpeas with the spices: Sprinkle the\nspices over the chickpeas and stir to coat evenly.\nServe while the chickpeas are still warm and crispy.\nThey will gradually lose their crispiness as they cool,\nbecoming addictively chewy.\nAdvanced Preparation\n1 - 3 days prior [optional], Chickpeas, raw 2/3 cup\nInstructions:\nPlace the chickpeas in a bowl and cover with\nplenty of water. Let soak for at least 8 hours, or\novernight. Drain and rinse well. Place in a large\npot, cover with water, bring to a boil and reduce to\nsimmer with the lid on for about 50 minutes. Drain\nand store in a glass Tupperware in the fridge.",
+            "instruction": "Heat the oven to 400\ufffdF: Place an oven rack in the\nmiddle of the oven.\nRinse and drain the chickpeas: Open the cans of\nchickpeas and pour the chickpeas into a strainer in\nthe sink. Rinse thoroughly under running water.\nDry the chickpeas: Pat the chickpeas very dry with a\nclean dishtowel or paper towels. They should look\nmatte and feel dry to the touch; if you have time,\nleave them to air-dry for a few minutes. Remove any\nchickpea skins that come off while drying, but\notherwise don\ufffdt worry about them.\nToss the chickpeas with olive oil and salt: Spread the\nchickpeas out in an even layer on the baking sheet.\nDrizzle with olive oil and sprinkle with salt. Stir with\nyour hands or a spatula to make sure the chickpeas\nare evenly coated.\nRoast the chickpeas in the oven for 20 to 30\nminutes: Stir the chickpeas or shake the pan every\n10 minutes. A few chickpeas may pop \ufffd that\ufffds\nnormal. The chickpeas are done when golden and\nslightly darkened, dry and crispy on the outside, and\nsoft in the middle.\nToss the chickpeas with the spices: Sprinkle the\nspices over the chickpeas and stir to coat evenly.\nServe while the chickpeas are still warm and crispy.\nThey will gradually lose their crispiness as they cool,\nbecoming addictively chewy.\nAdvanced Preparation\n1 - 3 days prior [optional], Chickpeas, raw 2/3 cup\nInstructions:\nPlace the chickpeas in a bowl and cover with\nplenty of water. Let soak for at least 8 hours, or\novernight. Drain and rinse well. Place in a large\npot, cover with water, bring to a boil and reduce to\nsimmer with the lid on for about 50 minutes. Drain\nand store in a glass Tupperware in the fridge.",
             "id": "7"
         },
         {
@@ -8446,7 +8446,7 @@
             "protein": 20,
             "week": 2,
             "calories": 616,
-            "instruction": "Chop the red pepper into chunks and add to a blender with\nthe lemon juice. Blend until the pepper is broken down.\nAdd the cashews or sunflower seeds, red chili pepper flakes\nand salt and again blend until smooth.\nAdd the nutritional yeast and blend again. Doing it in stages\nlike this helps you to get the smooth consistency you need\nwithout over-heating it.\nPut the kale in a large bowl then pour the blended mixture\nover it and massage it in until all the leaves are coated.\nPlace it on dehydrator trays on mesh sheets and dehydrate\nat 110 degrees Fahrenheit for about 8 hrs, turning once\nhalfway through. If they aren�t crispy enough, leave them in\na bit longer.\nIf you don't have a dehydrator, you can also roast your kale\nchips in a 350-degree oven for 10 to 15 minutes. You run\nthe risk of them becoming a bit soggy with tis method,\nhowever.\nNote:\nCook time reflects cooking in the oven.",
+            "instruction": "Chop the red pepper into chunks and add to a blender with\nthe lemon juice. Blend until the pepper is broken down.\nAdd the cashews or sunflower seeds, red chili pepper flakes\nand salt and again blend until smooth.\nAdd the nutritional yeast and blend again. Doing it in stages\nlike this helps you to get the smooth consistency you need\nwithout over-heating it.\nPut the kale in a large bowl then pour the blended mixture\nover it and massage it in until all the leaves are coated.\nPlace it on dehydrator trays on mesh sheets and dehydrate\nat 110 degrees Fahrenheit for about 8 hrs, turning once\nhalfway through. If they aren\ufffdt crispy enough, leave them in\na bit longer.\nIf you don't have a dehydrator, you can also roast your kale\nchips in a 350-degree oven for 10 to 15 minutes. You run\nthe risk of them becoming a bit soggy with tis method,\nhowever.\nNote:\nCook time reflects cooking in the oven.",
             "id": "46"
         },
         {
@@ -8569,9 +8569,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FMuesli%20with%20yogurt%20and%20berries.jpg?alt=media&token=216d7a46-ebb4-47ba-bd34-ea32fe3adb34",
             "mealId": null,
             "day": "Friday",
-            "protein": 35,
+            "protein": 9.6,
             "week": 2,
-            "calories": 584,
+            "calories": 386,
             "instruction": "1. Add ingredients to suitable glass container and mix well.\n2. Add two tablespoons of muesli to a bowl and add 1/4 cup\nalmond milk, 1 tablespoon of Greek yoghurt (or coconut\nyogurt if you want to go dairy free), and 1/4 cup of frozen\nberries, defrosted.\nEnjoy!",
             "id": "33"
         },
@@ -8629,7 +8629,7 @@
             "protein": 31,
             "week": 1,
             "calories": 358,
-            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350�F and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
+            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350\ufffdF and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
             "id": "37"
         },
         {
@@ -8817,9 +8817,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FMuesli%20with%20yogurt%20and%20berries.jpg?alt=media&token=216d7a46-ebb4-47ba-bd34-ea32fe3adb34",
             "mealId": null,
             "day": "Monday",
-            "protein": 22,
+            "protein": 9.6,
             "week": 2,
-            "calories": 364,
+            "calories": 386,
             "instruction": "1. Add ingredients to suitable glass container and mix well.\n2. Add two tablespoons of muesli to a bowl and add 1/4 cup\nalmond milk, 1 tablespoon of Greek yoghurt (or coconut\nyogurt if you want to go dairy free), and 1/4 cup of frozen\nberries, defrosted.\nEnjoy!",
             "id": "3"
         },
@@ -8902,7 +8902,7 @@
             "protein": 39,
             "week": 4,
             "calories": 800,
-            "instruction": "Combine romaine, blueberries, cucumber, feta and\nalmonds in a large bowl.\nWhisk together Dijon mustard, balsamic vinegar,\nmaple syrup and salt. Slowly pour in olive oil\nwhisking until completely combined and emulsified.\nPortion the salad and top with 1�2 tablespoons of\ndressing.",
+            "instruction": "Combine romaine, blueberries, cucumber, feta and\nalmonds in a large bowl.\nWhisk together Dijon mustard, balsamic vinegar,\nmaple syrup and salt. Slowly pour in olive oil\nwhisking until completely combined and emulsified.\nPortion the salad and top with 1\ufffd2 tablespoons of\ndressing.",
             "id": "4"
         },
         {
@@ -8959,7 +8959,7 @@
             "protein": 49,
             "week": 3,
             "calories": 400,
-            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350�F and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
+            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350\ufffdF and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
             "id": "66"
         },
         {
@@ -9009,9 +9009,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FGreen%20smoothie.jpg?alt=media&token=59718c38-85a8-4cb8-8504-87051098625f",
             "mealId": null,
             "day": "Monday",
-            "protein": 55,
+            "protein": 17.4,
             "week": 4,
-            "calories": 723,
+            "calories": 494,
             "instruction": "Combine all ingredients in a blender. Blend until smooth\nand pour into a tall clear glass.\nFeel free to switch up the raspberries and greens for\nalternatives.",
             "id": "2"
         },
@@ -9240,9 +9240,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FMuesli%20with%20yogurt%20and%20berries.jpg?alt=media&token=216d7a46-ebb4-47ba-bd34-ea32fe3adb34",
             "mealId": null,
             "day": "Wednesday",
-            "protein": 54,
+            "protein": 9.6,
             "week": 4,
-            "calories": 269,
+            "calories": 386,
             "instruction": "1. Add ingredients to suitable glass container and mix well.\n2. Add two tablespoons of muesli to a bowl and add 1/4 cup\nalmond milk, 1 tablespoon of Greek yoghurt (or coconut\nyogurt if you want to go dairy free), and 1/4 cup of frozen\nberries, defrosted.\nEnjoy!",
             "id": "18"
         },
@@ -9448,9 +9448,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FKale%20cabbage%20slaw.jpg?alt=media&token=c662a249-627a-4919-9830-4da710e3be8b",
             "mealId": null,
             "day": "Saturday",
-            "protein": 23,
+            "protein": 3.4,
             "week": 4,
-            "calories": 592,
+            "calories": 118,
             "instruction": "Cut the middle rib out of each kale leaf. Roll the\n\nleaves up into a tight roll and slice them chiffonade-\nstyle into thin strips. Put the strips of kale in a large\n\nbowl. You should have about 2 to 3 cups.\nCut the core out of the cabbage half and thinly shred\ncabbage on a mandolin use a knife to thinly chop it.\nTransfer the cabbage to the bowl with the kale.\nWash and peel the carrots. Julienne them into thin\nmatchstick (you can use a mandolin or a knife). Add\nto the kale and cabbage.\nDrizzle 2 to 3 tablespoons of the dressing over the\nsalad. Toss the salad. Cover and refrigerate until\nserving time. Serve with the extra dressing on the\nside.\nAdvanced Preparation\n1 - 3 days prior [optional], Dijon mustard, whole grain\n3/4 tsp\nInstructions:\nIn a mason jar or bowl, combine the Dijon mustard,\nminced garlic, vinegar, and mayo. Whisk or shake\nwell. Add a dash of salt and some freshly ground\nblack pepper, to taste.",
             "id": "44"
         },
@@ -9501,9 +9501,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FGreen%20smoothie.jpg?alt=media&token=59718c38-85a8-4cb8-8504-87051098625f",
             "mealId": null,
             "day": "Friday",
-            "protein": 29,
+            "protein": 17.4,
             "week": 4,
-            "calories": 537,
+            "calories": 494,
             "instruction": "Combine all ingredients in a blender. Blend until smooth\nand pour into a tall clear glass.\nFeel free to switch up the raspberries and greens for\nalternatives.",
             "id": "32"
         },
@@ -9662,9 +9662,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FPesto%20chicken%20and%20tomato%20kebabs.jpg?alt=media&token=1d6bb7f3-1f2e-455f-b0b0-719f13df27e8",
             "mealId": null,
             "day": "Tuesday",
-            "protein": 42,
+            "protein": 48.0,
             "week": 1,
-            "calories": 771,
+            "calories": 445,
             "instruction": "In a food processor pulse basil, garlic, parmesan\ncheese, salt and pepper until smooth. Slowly add the\nolive oil while pulsing. Reserve 2-3 tbsp pesto in a\nseparate bowl.\nCombine the raw chicken with the rest of the pesto\nand marinate a few hours in a bowl.\nSoak wooden skewers in water at least 30 minutes\n(or use metal ones to avoid this step).\nBeginning and ending with chicken, thread chicken\nand tomatoes onto 8 pairs of parallel skewers to\nmake 8 kebabs total.\nHeat the outdoor grill or indoor grill pan over\nmedium heat until hot. Be sure the grates are clean\nand spray lightly with oil.\nPlace the chicken on the hot grill and cook about 3-4\nminutes. Turn and continue cooking until chicken is\ncooked through, about 2 to 3 minutes. Brush with\nthe reserved pesto.",
             "id": "14"
         },
@@ -9906,9 +9906,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FMuesli%20with%20yogurt%20and%20berries.jpg?alt=media&token=216d7a46-ebb4-47ba-bd34-ea32fe3adb34",
             "mealId": null,
             "day": "Thursday",
-            "protein": 25,
+            "protein": 9.6,
             "week": 4,
-            "calories": 425,
+            "calories": 386,
             "instruction": "1. Add ingredients to suitable glass container and mix well.\n2. Add two tablespoons of muesli to a bowl and add 1/4 cup\nalmond milk, 1 tablespoon of Greek yoghurt (or coconut\nyogurt if you want to go dairy free), and 1/4 cup of frozen\nberries, defrosted.\nEnjoy!",
             "id": "25"
         },
@@ -10293,7 +10293,7 @@
             "protein": 35,
             "week": 1,
             "calories": 481,
-            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350�F and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
+            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350\ufffdF and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
             "id": "58"
         },
         {
@@ -10375,7 +10375,7 @@
             "protein": 41,
             "week": 3,
             "calories": 296,
-            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350�F and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
+            "instruction": "Make marinade: Add olive oil, lime juice, ginger, turmeric,\ngarlic, smoked paprika, salt and sumac and whisk until\neverything is combined.\nWash chicken and pat dry and put in a Ziploc bag, add all of\nthe marinade, close bag and massage until every piece of\nchicken is covered with the marinade. Put chicken in the\nfridge and let marinate for at least 24 hours.\nNext day:\nPre-heat oven to 350\ufffdF and line a deep baking dish with\nparchment paper. Pour the chicken plus marinade into the\nbaking sheet and bake for 2 hours\nuncovered. When cooked remove from baking dish and put\non a serving platter, drizzle some of the pan juices on the\nchicken thighs & and serve with your side of choice such as\nQuinoa OR Rice.....YUMMY.",
             "id": "37"
         },
         {
@@ -10474,7 +10474,7 @@
             "protein": 29,
             "week": 4,
             "calories": 710,
-            "instruction": "Heat the oven to 400�F: Place an oven rack in the\nmiddle of the oven.\nRinse and drain the chickpeas: Open the cans of\nchickpeas and pour the chickpeas into a strainer in\nthe sink. Rinse thoroughly under running water.\nDry the chickpeas: Pat the chickpeas very dry with a\nclean dishtowel or paper towels. They should look\nmatte and feel dry to the touch; if you have time,\nleave them to air-dry for a few minutes. Remove any\nchickpea skins that come off while drying, but\notherwise don�t worry about them.\nToss the chickpeas with olive oil and salt: Spread the\nchickpeas out in an even layer on the baking sheet.\nDrizzle with olive oil and sprinkle with salt. Stir with\nyour hands or a spatula to make sure the chickpeas\nare evenly coated.\nRoast the chickpeas in the oven for 20 to 30\nminutes: Stir the chickpeas or shake the pan every\n10 minutes. A few chickpeas may pop � that�s\nnormal. The chickpeas are done when golden and\nslightly darkened, dry and crispy on the outside, and\nsoft in the middle.\nToss the chickpeas with the spices: Sprinkle the\nspices over the chickpeas and stir to coat evenly.\nServe while the chickpeas are still warm and crispy.\nThey will gradually lose their crispiness as they cool,\nbecoming addictively chewy.\nAdvanced Preparation\n1 - 3 days prior [optional], Chickpeas, raw 2/3 cup\nInstructions:\nPlace the chickpeas in a bowl and cover with\nplenty of water. Let soak for at least 8 hours, or\novernight. Drain and rinse well. Place in a large\npot, cover with water, bring to a boil and reduce to\nsimmer with the lid on for about 50 minutes. Drain\nand store in a glass Tupperware in the fridge.",
+            "instruction": "Heat the oven to 400\ufffdF: Place an oven rack in the\nmiddle of the oven.\nRinse and drain the chickpeas: Open the cans of\nchickpeas and pour the chickpeas into a strainer in\nthe sink. Rinse thoroughly under running water.\nDry the chickpeas: Pat the chickpeas very dry with a\nclean dishtowel or paper towels. They should look\nmatte and feel dry to the touch; if you have time,\nleave them to air-dry for a few minutes. Remove any\nchickpea skins that come off while drying, but\notherwise don\ufffdt worry about them.\nToss the chickpeas with olive oil and salt: Spread the\nchickpeas out in an even layer on the baking sheet.\nDrizzle with olive oil and sprinkle with salt. Stir with\nyour hands or a spatula to make sure the chickpeas\nare evenly coated.\nRoast the chickpeas in the oven for 20 to 30\nminutes: Stir the chickpeas or shake the pan every\n10 minutes. A few chickpeas may pop \ufffd that\ufffds\nnormal. The chickpeas are done when golden and\nslightly darkened, dry and crispy on the outside, and\nsoft in the middle.\nToss the chickpeas with the spices: Sprinkle the\nspices over the chickpeas and stir to coat evenly.\nServe while the chickpeas are still warm and crispy.\nThey will gradually lose their crispiness as they cool,\nbecoming addictively chewy.\nAdvanced Preparation\n1 - 3 days prior [optional], Chickpeas, raw 2/3 cup\nInstructions:\nPlace the chickpeas in a bowl and cover with\nplenty of water. Let soak for at least 8 hours, or\novernight. Drain and rinse well. Place in a large\npot, cover with water, bring to a boil and reduce to\nsimmer with the lid on for about 50 minutes. Drain\nand store in a glass Tupperware in the fridge.",
             "id": "58"
         },
         {
@@ -10590,9 +10590,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FEggs%20and%20toast.jpg?alt=media&token=24dc33ac-a1ee-4bcf-99d5-bdec99d96b82",
             "mealId": null,
             "day": "Friday",
-            "protein": 23,
+            "protein": 13.7,
             "week": 4,
-            "calories": 729,
+            "calories": 263,
             "instruction": "1. How to Hard Boil an Egg\n2. Once your egg is boiled, peel and slice!\n3. Toast your bread in the toasted to desired crispiness.\n4. Add boiled eggs and salsa on top and Enjoy!",
             "id": "31"
         },
@@ -10883,7 +10883,7 @@
             "protein": 29,
             "week": 2,
             "calories": 459,
-            "instruction": "Heat the oven to 400�F: Place an oven rack in the\nmiddle of the oven.\nRinse and drain the chickpeas: Open the cans of\nchickpeas and pour the chickpeas into a strainer in\nthe sink. Rinse thoroughly under running water.\nDry the chickpeas: Pat the chickpeas very dry with a\nclean dishtowel or paper towels. They should look\nmatte and feel dry to the touch; if you have time,\nleave them to air-dry for a few minutes. Remove any\nchickpea skins that come off while drying, but\notherwise don�t worry about them.\nToss the chickpeas with olive oil and salt: Spread the\nchickpeas out in an even layer on the baking sheet.\nDrizzle with olive oil and sprinkle with salt. Stir with\nyour hands or a spatula to make sure the chickpeas\nare evenly coated.\nRoast the chickpeas in the oven for 20 to 30\nminutes: Stir the chickpeas or shake the pan every\n10 minutes. A few chickpeas may pop � that�s\nnormal. The chickpeas are done when golden and\nslightly darkened, dry and crispy on the outside, and\nsoft in the middle.\nToss the chickpeas with the spices: Sprinkle the\nspices over the chickpeas and stir to coat evenly.\nServe while the chickpeas are still warm and crispy.\nThey will gradually lose their crispiness as they cool,\nbecoming addictively chewy.\nAdvanced Preparation\n1 - 3 days prior [optional], Chickpeas, raw 2/3 cup\nInstructions:\nPlace the chickpeas in a bowl and cover with\nplenty of water. Let soak for at least 8 hours, or\novernight. Drain and rinse well. Place in a large\npot, cover with water, bring to a boil and reduce to\nsimmer with the lid on for about 50 minutes. Drain\nand store in a glass Tupperware in the fridge.",
+            "instruction": "Heat the oven to 400\ufffdF: Place an oven rack in the\nmiddle of the oven.\nRinse and drain the chickpeas: Open the cans of\nchickpeas and pour the chickpeas into a strainer in\nthe sink. Rinse thoroughly under running water.\nDry the chickpeas: Pat the chickpeas very dry with a\nclean dishtowel or paper towels. They should look\nmatte and feel dry to the touch; if you have time,\nleave them to air-dry for a few minutes. Remove any\nchickpea skins that come off while drying, but\notherwise don\ufffdt worry about them.\nToss the chickpeas with olive oil and salt: Spread the\nchickpeas out in an even layer on the baking sheet.\nDrizzle with olive oil and sprinkle with salt. Stir with\nyour hands or a spatula to make sure the chickpeas\nare evenly coated.\nRoast the chickpeas in the oven for 20 to 30\nminutes: Stir the chickpeas or shake the pan every\n10 minutes. A few chickpeas may pop \ufffd that\ufffds\nnormal. The chickpeas are done when golden and\nslightly darkened, dry and crispy on the outside, and\nsoft in the middle.\nToss the chickpeas with the spices: Sprinkle the\nspices over the chickpeas and stir to coat evenly.\nServe while the chickpeas are still warm and crispy.\nThey will gradually lose their crispiness as they cool,\nbecoming addictively chewy.\nAdvanced Preparation\n1 - 3 days prior [optional], Chickpeas, raw 2/3 cup\nInstructions:\nPlace the chickpeas in a bowl and cover with\nplenty of water. Let soak for at least 8 hours, or\novernight. Drain and rinse well. Place in a large\npot, cover with water, bring to a boil and reduce to\nsimmer with the lid on for about 50 minutes. Drain\nand store in a glass Tupperware in the fridge.",
             "id": "37"
         },
         {
@@ -10990,9 +10990,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FMuesli%20with%20yogurt%20and%20berries.jpg?alt=media&token=216d7a46-ebb4-47ba-bd34-ea32fe3adb34",
             "mealId": null,
             "day": "Saturday",
-            "protein": 38,
+            "protein": 9.6,
             "week": 4,
-            "calories": 396,
+            "calories": 386,
             "instruction": "1. Add ingredients to suitable glass container and mix well.\n2. Add two tablespoons of muesli to a bowl and add 1/4 cup\nalmond milk, 1 tablespoon of Greek yoghurt (or coconut\nyogurt if you want to go dairy free), and 1/4 cup of frozen\nberries, defrosted.\nEnjoy!",
             "id": "40"
         },
@@ -11058,7 +11058,7 @@
             "protein": 24,
             "week": 3,
             "calories": 642,
-            "instruction": "Preheat oven to 180�F.\nChop Brazil nuts and pecans in a food processor. Mix in a\nbowl with all the other nuts, seeds, and coconut flakes.\nCombine melted coconut oil, maple syrup, vanilla extract,\nand cinnamon. Pour into the dry ingredients and mix until\neverything is well-coated.\nPlace in the oven to cook for 30 minutes.",
+            "instruction": "Preheat oven to 180\ufffdF.\nChop Brazil nuts and pecans in a food processor. Mix in a\nbowl with all the other nuts, seeds, and coconut flakes.\nCombine melted coconut oil, maple syrup, vanilla extract,\nand cinnamon. Pour into the dry ingredients and mix until\neverything is well-coated.\nPlace in the oven to cook for 30 minutes.",
             "id": "32"
         },
         {
@@ -11200,7 +11200,7 @@
             "protein": 25,
             "week": 2,
             "calories": 680,
-            "instruction": "Place cashews in the food processor and finely grind\n(just don�t let the cashews turn to a cashew butter).\nAdd red pepper and process until smooth. Set aside.\nIn a heavy saucepan, combine milk, oil and\ncornstarch. Bring to a simmer over high heat.\nDecrease heat to low, cover and simmer, stirring\noccasionally for 10 minutes, or until cornstarch\ndissolves.\nUsing a whisk or large fork, stir in the ground\ncashews, nutritional yeast, miso paste, lemon juice,\nonion powder, garlic powder and salt until well\ncombined.\nAdd the cashew cheese to the macaroni noodles,\ndrizzle with truffle oil (if using), a dash of freshly\nground black pepper and serve.",
+            "instruction": "Place cashews in the food processor and finely grind\n(just don\ufffdt let the cashews turn to a cashew butter).\nAdd red pepper and process until smooth. Set aside.\nIn a heavy saucepan, combine milk, oil and\ncornstarch. Bring to a simmer over high heat.\nDecrease heat to low, cover and simmer, stirring\noccasionally for 10 minutes, or until cornstarch\ndissolves.\nUsing a whisk or large fork, stir in the ground\ncashews, nutritional yeast, miso paste, lemon juice,\nonion powder, garlic powder and salt until well\ncombined.\nAdd the cashew cheese to the macaroni noodles,\ndrizzle with truffle oil (if using), a dash of freshly\nground black pepper and serve.",
             "id": "34"
         },
         {
@@ -11249,7 +11249,7 @@
             "protein": 28,
             "week": 2,
             "calories": 483,
-            "instruction": "Heat the oven to 400�F: Place an oven rack in the\nmiddle of the oven.\nRinse and drain the chickpeas: Open the cans of\nchickpeas and pour the chickpeas into a strainer in\nthe sink. Rinse thoroughly under running water.\nDry the chickpeas: Pat the chickpeas very dry with a\nclean dishtowel or paper towels. They should look\nmatte and feel dry to the touch; if you have time,\nleave them to air-dry for a few minutes. Remove any\nchickpea skins that come off while drying, but\notherwise don�t worry about them.\nToss the chickpeas with olive oil and salt: Spread the\nchickpeas out in an even layer on the baking sheet.\nDrizzle with olive oil and sprinkle with salt. Stir with\nyour hands or a spatula to make sure the chickpeas\nare evenly coated.\nRoast the chickpeas in the oven for 20 to 30\nminutes: Stir the chickpeas or shake the pan every\n10 minutes. A few chickpeas may pop � that�s\nnormal. The chickpeas are done when golden and\nslightly darkened, dry and crispy on the outside, and\nsoft in the middle.\nToss the chickpeas with the spices: Sprinkle the\nspices over the chickpeas and stir to coat evenly.\nServe while the chickpeas are still warm and crispy.\nThey will gradually lose their crispiness as they cool,\nbecoming addictively chewy.\nAdvanced Preparation\n1 - 3 days prior [optional], Chickpeas, raw 2/3 cup\nInstructions:\nPlace the chickpeas in a bowl and cover with\nplenty of water. Let soak for at least 8 hours, or\novernight. Drain and rinse well. Place in a large\npot, cover with water, bring to a boil and reduce to\nsimmer with the lid on for about 50 minutes. Drain\nand store in a glass Tupperware in the fridge.",
+            "instruction": "Heat the oven to 400\ufffdF: Place an oven rack in the\nmiddle of the oven.\nRinse and drain the chickpeas: Open the cans of\nchickpeas and pour the chickpeas into a strainer in\nthe sink. Rinse thoroughly under running water.\nDry the chickpeas: Pat the chickpeas very dry with a\nclean dishtowel or paper towels. They should look\nmatte and feel dry to the touch; if you have time,\nleave them to air-dry for a few minutes. Remove any\nchickpea skins that come off while drying, but\notherwise don\ufffdt worry about them.\nToss the chickpeas with olive oil and salt: Spread the\nchickpeas out in an even layer on the baking sheet.\nDrizzle with olive oil and sprinkle with salt. Stir with\nyour hands or a spatula to make sure the chickpeas\nare evenly coated.\nRoast the chickpeas in the oven for 20 to 30\nminutes: Stir the chickpeas or shake the pan every\n10 minutes. A few chickpeas may pop \ufffd that\ufffds\nnormal. The chickpeas are done when golden and\nslightly darkened, dry and crispy on the outside, and\nsoft in the middle.\nToss the chickpeas with the spices: Sprinkle the\nspices over the chickpeas and stir to coat evenly.\nServe while the chickpeas are still warm and crispy.\nThey will gradually lose their crispiness as they cool,\nbecoming addictively chewy.\nAdvanced Preparation\n1 - 3 days prior [optional], Chickpeas, raw 2/3 cup\nInstructions:\nPlace the chickpeas in a bowl and cover with\nplenty of water. Let soak for at least 8 hours, or\novernight. Drain and rinse well. Place in a large\npot, cover with water, bring to a boil and reduce to\nsimmer with the lid on for about 50 minutes. Drain\nand store in a glass Tupperware in the fridge.",
             "id": "58"
         },
         {
@@ -11298,7 +11298,7 @@
             "protein": 49,
             "week": 4,
             "calories": 374,
-            "instruction": "Heat the oven to 400�F: Place an oven rack in the\nmiddle of the oven.\nRinse and drain the chickpeas: Open the cans of\nchickpeas and pour the chickpeas into a strainer in\nthe sink. Rinse thoroughly under running water.\nDry the chickpeas: Pat the chickpeas very dry with a\nclean dishtowel or paper towels. They should look\nmatte and feel dry to the touch; if you have time,\nleave them to air-dry for a few minutes. Remove any\nchickpea skins that come off while drying, but\notherwise don�t worry about them.\nToss the chickpeas with olive oil and salt: Spread the\nchickpeas out in an even layer on the baking sheet.\nDrizzle with olive oil and sprinkle with salt. Stir with\nyour hands or a spatula to make sure the chickpeas\nare evenly coated.\nRoast the chickpeas in the oven for 20 to 30\nminutes: Stir the chickpeas or shake the pan every\n10 minutes. A few chickpeas may pop � that�s\nnormal. The chickpeas are done when golden and\nslightly darkened, dry and crispy on the outside, and\nsoft in the middle.\nToss the chickpeas with the spices: Sprinkle the\nspices over the chickpeas and stir to coat evenly.\nServe while the chickpeas are still warm and crispy.\nThey will gradually lose their crispiness as they cool,\nbecoming addictively chewy.\nAdvanced Preparation\n1 - 3 days prior [optional], Chickpeas, raw 2/3 cup\nInstructions:\nPlace the chickpeas in a bowl and cover with\nplenty of water. Let soak for at least 8 hours, or\novernight. Drain and rinse well. Place in a large\npot, cover with water, bring to a boil and reduce to\nsimmer with the lid on for about 50 minutes. Drain\nand store in a glass Tupperware in the fridge.",
+            "instruction": "Heat the oven to 400\ufffdF: Place an oven rack in the\nmiddle of the oven.\nRinse and drain the chickpeas: Open the cans of\nchickpeas and pour the chickpeas into a strainer in\nthe sink. Rinse thoroughly under running water.\nDry the chickpeas: Pat the chickpeas very dry with a\nclean dishtowel or paper towels. They should look\nmatte and feel dry to the touch; if you have time,\nleave them to air-dry for a few minutes. Remove any\nchickpea skins that come off while drying, but\notherwise don\ufffdt worry about them.\nToss the chickpeas with olive oil and salt: Spread the\nchickpeas out in an even layer on the baking sheet.\nDrizzle with olive oil and sprinkle with salt. Stir with\nyour hands or a spatula to make sure the chickpeas\nare evenly coated.\nRoast the chickpeas in the oven for 20 to 30\nminutes: Stir the chickpeas or shake the pan every\n10 minutes. A few chickpeas may pop \ufffd that\ufffds\nnormal. The chickpeas are done when golden and\nslightly darkened, dry and crispy on the outside, and\nsoft in the middle.\nToss the chickpeas with the spices: Sprinkle the\nspices over the chickpeas and stir to coat evenly.\nServe while the chickpeas are still warm and crispy.\nThey will gradually lose their crispiness as they cool,\nbecoming addictively chewy.\nAdvanced Preparation\n1 - 3 days prior [optional], Chickpeas, raw 2/3 cup\nInstructions:\nPlace the chickpeas in a bowl and cover with\nplenty of water. Let soak for at least 8 hours, or\novernight. Drain and rinse well. Place in a large\npot, cover with water, bring to a boil and reduce to\nsimmer with the lid on for about 50 minutes. Drain\nand store in a glass Tupperware in the fridge.",
             "id": "22"
         },
         {
@@ -11328,10 +11328,10 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FAlmond%20salmon.jpg?alt=media&token=ec26f542-525e-4696-a814-4637d6718dfe",
             "mealId": null,
             "day": "Monday",
-            "protein": 48,
+            "protein": 32.0,
             "week": 2,
-            "calories": 672,
-            "instruction": "Preheat oven to 400 degrees F.\nBrush salmon with honey. Chop almonds and sprinkle over\nsalmon.\nBake for 12-15 mins (until fish is opaque in centre).\nCouple this with your favourite saut�ed veggie (ie. bok\nchoy).\nServe and enjoy!",
+            "calories": 490,
+            "instruction": "Preheat oven to 400 degrees F.\nBrush salmon with honey. Chop almonds and sprinkle over\nsalmon.\nBake for 12-15 mins (until fish is opaque in centre).\nCouple this with your favourite saut\ufffded veggie (ie. bok\nchoy).\nServe and enjoy!",
             "id": "5"
         },
         {
@@ -11361,9 +11361,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FEggs%20and%20toast.jpg?alt=media&token=24dc33ac-a1ee-4bcf-99d5-bdec99d96b82",
             "mealId": null,
             "day": "Wednesday",
-            "protein": 41,
+            "protein": 13.7,
             "week": 4,
-            "calories": 531,
+            "calories": 263,
             "instruction": "1. How to Hard Boil an Egg\n2. Once your egg is boiled, peel and slice!\n3. Toast your bread in the toasted to desired crispiness.\n4. Add boiled eggs and salsa on top and Enjoy!",
             "id": "16"
         },
@@ -11429,7 +11429,7 @@
             "protein": 48,
             "week": 1,
             "calories": 293,
-            "instruction": "Preheat oven to 180�F.\nChop Brazil nuts and pecans in a food processor. Mix in a\nbowl with all the other nuts, seeds, and coconut flakes.\nCombine melted coconut oil, maple syrup, vanilla extract,\nand cinnamon. Pour into the dry ingredients and mix until\neverything is well-coated.\nPlace in the oven to cook for 30 minutes.",
+            "instruction": "Preheat oven to 180\ufffdF.\nChop Brazil nuts and pecans in a food processor. Mix in a\nbowl with all the other nuts, seeds, and coconut flakes.\nCombine melted coconut oil, maple syrup, vanilla extract,\nand cinnamon. Pour into the dry ingredients and mix until\neverything is well-coated.\nPlace in the oven to cook for 30 minutes.",
             "id": "61"
         },
         {
@@ -11803,9 +11803,9 @@
             "image": "https://firebasestorage.googleapis.com/v0/b/redge-fit.appspot.com/o/Meals%2FEggs%20and%20toast.jpg?alt=media&token=24dc33ac-a1ee-4bcf-99d5-bdec99d96b82",
             "mealId": null,
             "day": "Wednesday",
-            "protein": 30,
+            "protein": 13.7,
             "week": 2,
-            "calories": 700,
+            "calories": 263,
             "instruction": "1. How to Hard Boil an Egg\n2. Once your egg is boiled, peel and slice!\n3. Toast your bread in the toasted to desired crispiness.\n4. Add boiled eggs and salsa on top and Enjoy!",
             "id": "16"
         },
@@ -11976,7 +11976,7 @@
             "protein": 24,
             "week": 1,
             "calories": 204,
-            "instruction": "Preheat oven to 180�F.\nChop Brazil nuts and pecans in a food processor. Mix in a\nbowl with all the other nuts, seeds, and coconut flakes.\nCombine melted coconut oil, maple syrup, vanilla extract,\nand cinnamon. Pour into the dry ingredients and mix until\neverything is well-coated.\nPlace in the oven to cook for 30 minutes.",
+            "instruction": "Preheat oven to 180\ufffdF.\nChop Brazil nuts and pecans in a food processor. Mix in a\nbowl with all the other nuts, seeds, and coconut flakes.\nCombine melted coconut oil, maple syrup, vanilla extract,\nand cinnamon. Pour into the dry ingredients and mix until\neverything is well-coated.\nPlace in the oven to cook for 30 minutes.",
             "id": "1"
         },
         {
@@ -12263,7 +12263,7 @@
             "protein": 39,
             "week": 4,
             "calories": 454,
-            "instruction": "Chop the red pepper into chunks and add to a blender with\nthe lemon juice. Blend until the pepper is broken down.\nAdd the cashews or sunflower seeds, red chili pepper flakes\nand salt and again blend until smooth.\nAdd the nutritional yeast and blend again. Doing it in stages\nlike this helps you to get the smooth consistency you need\nwithout over-heating it.\nPut the kale in a large bowl then pour the blended mixture\nover it and massage it in until all the leaves are coated.\nPlace it on dehydrator trays on mesh sheets and dehydrate\nat 110 degrees Fahrenheit for about 8 hrs, turning once\nhalfway through. If they aren�t crispy enough, leave them in\na bit longer.\nIf you don't have a dehydrator, you can also roast your kale\nchips in a 350-degree oven for 10 to 15 minutes. You run\nthe risk of them becoming a bit soggy with tis method,\nhowever.\nNote:\nCook time reflects cooking in the oven.",
+            "instruction": "Chop the red pepper into chunks and add to a blender with\nthe lemon juice. Blend until the pepper is broken down.\nAdd the cashews or sunflower seeds, red chili pepper flakes\nand salt and again blend until smooth.\nAdd the nutritional yeast and blend again. Doing it in stages\nlike this helps you to get the smooth consistency you need\nwithout over-heating it.\nPut the kale in a large bowl then pour the blended mixture\nover it and massage it in until all the leaves are coated.\nPlace it on dehydrator trays on mesh sheets and dehydrate\nat 110 degrees Fahrenheit for about 8 hrs, turning once\nhalfway through. If they aren\ufffdt crispy enough, leave them in\na bit longer.\nIf you don't have a dehydrator, you can also roast your kale\nchips in a 350-degree oven for 10 to 15 minutes. You run\nthe risk of them becoming a bit soggy with tis method,\nhowever.\nNote:\nCook time reflects cooking in the oven.",
             "id": "14"
         },
         {
@@ -12312,7 +12312,7 @@
             "protein": 26,
             "week": 2,
             "calories": 519,
-            "instruction": "Chop the red pepper into chunks and add to a blender with\nthe lemon juice. Blend until the pepper is broken down.\nAdd the cashews or sunflower seeds, red chili pepper flakes\nand salt and again blend until smooth.\nAdd the nutritional yeast and blend again. Doing it in stages\nlike this helps you to get the smooth consistency you need\nwithout over-heating it.\nPut the kale in a large bowl then pour the blended mixture\nover it and massage it in until all the leaves are coated.\nPlace it on dehydrator trays on mesh sheets and dehydrate\nat 110 degrees Fahrenheit for about 8 hrs, turning once\nhalfway through. If they aren�t crispy enough, leave them in\na bit longer.\nIf you don't have a dehydrator, you can also roast your kale\nchips in a 350-degree oven for 10 to 15 minutes. You run\nthe risk of them becoming a bit soggy with tis method,\nhowever.\nNote:\nCook time reflects cooking in the oven.",
+            "instruction": "Chop the red pepper into chunks and add to a blender with\nthe lemon juice. Blend until the pepper is broken down.\nAdd the cashews or sunflower seeds, red chili pepper flakes\nand salt and again blend until smooth.\nAdd the nutritional yeast and blend again. Doing it in stages\nlike this helps you to get the smooth consistency you need\nwithout over-heating it.\nPut the kale in a large bowl then pour the blended mixture\nover it and massage it in until all the leaves are coated.\nPlace it on dehydrator trays on mesh sheets and dehydrate\nat 110 degrees Fahrenheit for about 8 hrs, turning once\nhalfway through. If they aren\ufffdt crispy enough, leave them in\na bit longer.\nIf you don't have a dehydrator, you can also roast your kale\nchips in a 350-degree oven for 10 to 15 minutes. You run\nthe risk of them becoming a bit soggy with tis method,\nhowever.\nNote:\nCook time reflects cooking in the oven.",
             "id": "14"
         },
         {
@@ -12373,7 +12373,7 @@
             "protein": 25,
             "week": 2,
             "calories": 515,
-            "instruction": "Combine romaine, blueberries, cucumber, feta and\nalmonds in a large bowl.\nWhisk together Dijon mustard, balsamic vinegar,\nmaple syrup and salt. Slowly pour in olive oil\nwhisking until completely combined and emulsified.\nPortion the salad and top with 1�2 tablespoons of\ndressing.",
+            "instruction": "Combine romaine, blueberries, cucumber, feta and\nalmonds in a large bowl.\nWhisk together Dijon mustard, balsamic vinegar,\nmaple syrup and salt. Slowly pour in olive oil\nwhisking until completely combined and emulsified.\nPortion the salad and top with 1\ufffd2 tablespoons of\ndressing.",
             "id": "19"
         },
         {
